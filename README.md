@@ -37,8 +37,8 @@ publisher summary, labeled as such.
 | Reports | `1,054,909` | `136` | `90%` |
 | Other | `363,835` | `88` | `75%` |
 | [Social posts](methods.md#5-social-media) | `2,620,863` | `111,255` | — |
-| [Transcribed audio](methods.md#6-talks-podcasts-and-panels--transcripts) | *in progress* | *in progress* | — |
-| **Total** | **`21,017,002`** | **`121,991`** | **`99%`** |
+| [Transcribed audio](methods.md#6-talks-podcasts-and-panels--transcripts) | `2,509,713` | `323` | — |
+| **Total** | **`23,526,715`** | **`122,314`** | **`99%`** |
 
 "Open access" is the share of items whose complete text was published openly and is included
 here; the rest are abstract- or summary-only (social posts all count as open). Words are counted
