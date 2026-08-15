@@ -1,0 +1,34 @@
+{
+ "did": "did:plc:sg2e2kqdsdp2q2zl44txadbp",
+ "handle": "anildash.com",
+ "displayName": "Anil Dash",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sg2e2kqdsdp2q2zl44txadbp/bafkreicnvqv3tg434bghscobifd6fqltjrvq6li4qo4zmujjvtbefqfgxy",
+ "associated": {
+  "chat": {
+   "allowIncoming": "all"
+  },
+  "activitySubscription": {
+   "allowSubscriptions": "followers"
+  },
+  "germ": {
+   "showButtonTo": "usersIFollow",
+   "messageMeUrl": "https://landing.ger.mx/newUser"
+  }
+ },
+ "labels": [],
+ "createdAt": "2023-04-23T18:21:34.314Z",
+ "verification": {
+  "verifications": [
+   {
+    "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+    "issuerDisplayName": "Bluesky",
+    "issuerHandle": "bsky.app",
+    "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lrxefhgt3y2m",
+    "isValid": true,
+    "createdAt": "2025-06-19T10:55:52.380Z"
+   }
+  ],
+  "verifiedStatus": "valid",
+  "trustedVerifierStatus": "none"
+ }
+}

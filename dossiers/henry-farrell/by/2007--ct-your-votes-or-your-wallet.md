@@ -1,0 +1,40 @@
+---
+title: "Your votes or your wallet"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2007
+date: 2007-11-07
+venue: "Crooked Timber"
+authors: "Henry Farrell"
+source_url: https://crookedtimber.org/2007/11/07/your-votes-or-your-wallet/
+retrieved: 2026-08-13
+content: full-text
+notes: "Crooked Timber post id 6381; retrieved via the site's WordPress REST API (wp-json/wp/v2/posts). Comments not included."
+---
+
+# Your votes or your wallet
+
+## Full text
+
+Megan McArdle claims that I got Michael Franc’s op-ed wrong.
+
+Democrats indisputably represent more rich voters than Republicans; their constituency is the people in their district, not the people in their district who voted for them. Moreover, politically, this matters a great deal. The guy from Heritage is actually making a good point: the constituency of the Democrats will force many of them to support the interests of the rich, even where they might ideologically prefer to oppose, because doing so is good for their district.
+
+Let’s just say that this isn’t an especially compelling interpretation of Franc’s piece. As Wikipedia notes, there are two common uses of the term ‘constituency in politics; it either refers to ‘the group of people from whom an individual or organization hopes to attract support, or the group of people or geographical area that a particular elected representative or group of elected representatives represents.’ Megan claims that Franc is exclusively using the second of these definitions when he rather obviously is using evidence about the second to do his damnedest to imply the first. He specifically refers to the Democrats as “the party of the rich,” not “the party that would prefer to oppose the interests of the rich but find themselves obliged by the principles of electoral accountability to represent the people in their districts who didn’t vote for them.” Andrew Gelman responds to Megan’s claim more forgivingly than I would, so perhaps it’s better that I turn the mike over.
+
+I’d respond to this with a Yes and No. In terms of the Constitution, I agree; for that matter, congressmembers also represent nonvoters and people such as children and noncitizens who are ineligible to vote, just as back in 1789 they were said to represent women, non-property-owners, and 3/5 of the slaves. On the other hand, the two parties are different, and voters generally have enough information about candidates to vote for the one who is closer to their preferences. So in that sense, congressmembers do actually represent the people who vote for them. After all, Democrats are much more liberal than Republicans in otherwise-comparable districts. (There’s lots of evidence on this; see, for example, the graph on page 213 of our recent book.)
+
+Another way to look at this is to flip it around and consider the Republicans, who represent richer voters but poorer states. A simple geographically-based analysis would suggest that the Republicans would be trying to raise taxes on the rich and raise benefits for the poor. But they’re not. Arguably the Republicans’ pro-business, low-tax policies are ultimately what’s best for the poor (and also the rich), but they’re certainly don’t seem like the kind of populist notions that would make people in poorer districts happy.
+
+Thus, what the word ‘represent’ means in civics textbooks is _quite different_ from what it means in everyday politics, and the difference _is empirically important._ But there’s something more systematic to what Franc and others in this intellectual cottage industry are doing, which I should have stated more clearly in my original post. There _is_ very strong evidence that the Democrats are much more responsive to the interests of the wealthy than they should be. Larry Bartels wrote a much-discussed paper a couple of years ago finding that Republican senators were more responsive than Democrats to the opinions of their wealthiest constituents, but that there was _no_ evidence that senators of either party were responsive to the opinions of the least well-off third of their constituents. As Bartels suggests, the evidence seems to support (albeit only indirectly) the hypothesis that much of this is driven by the increased propensity of the rich to donate money to politicians. Certainly, as this article from the _Washington Post_ suggests, donation patterns seem to provide the better part of the explanation for why Democrats have been reluctant to get rid of the deferred interest loophole.
+
+The measure has deeply divided Democrats, pitting a rank and file that has railed for years against inequities in the tax code against the party’s money men, who are reluctant to bite the hand that has generously fed them. … “If you’re a Democrat and you have to choose between the alternative minimum tax and the hedge fund industry, that’s one tough ideological choice,” said Viva Hammer, who recently left the Treasury Department’s Office of Tax Policy and is now a tax partner at the law firm Crowell & Moring. “It’s a choice between your votes and your wallet.” … 
+
+the wealth of the Democrats’ target has proven to be a treasure trove for party fundraisers. Hedge funds and investment firms have been pouring money into Washington, contributing $11.8 million in the first nine months of this year to candidates, party committees and leadership political action committees. That is more than the $11.3 million they gave in all of 2005 and 2006, according to the Center for Responsive Politics. More than two-thirds of that money has gone to Democrats.
+
+There is _some_ evidence that specific states’ interests play into this – the _Post_ quotes Barney Frank as saying that this has been a tough issue for Charles Schumer because “[h]edge funds are to New York what tobacco has been to North Carolina. People don’t like to tax their constituents.” But this very obviously doesn’t help explain why Democratic senators from other states without a major concentration of hedge funds have been reluctant to tax them. Here, patterns of donation rather obviously come into play.
+
+So why is it that Franc exaggerates the importance of local politics, while curiously failing to mention political donations as a causal factor? I suspect the reasons are as follows. Claiming that Democrats are the party of the rich because they tend to represent rich states and districts helps to reinforce a populist mythology about the divide between effete gay-lovin chardonnay drinkin yacht-racin Democrats, and salt-of-the-earth hard-working respectable-poor middle Americans that is useful for both the interests of the Republican party and a particular notion of conservatism. Rick Perlstein’s forthcoming _Nixonland_ has some good stuff on the origins of this mythology. Explicit reference to the more substantive explanation for the Democrats’ prevarications – the role of business donations in shaping politicians’ behavior – would raise all sorts of questions about the role of money in politics that would be highly uncomfortable for both Republicans and Heritage conservatives. 
+
+To put it this way – if the Republicans were still in control of Congress, this debate wouldn’t be happening because the Republicans simply _don’t have_ an internal constituency pushing for less tax breaks for the wealthy. Tax loopholes for hedge fund types are the matter of political controversy because, as Hammer puts it, Democrats face tradeoffs between votes and access to donors’ wallets. This tradeoff is far weaker for Republicans, to the extent that it exists at all. Thus, I think that Kevin Drum is being too nice to Franc – his op-ed is an ideological confection, intended to obscure the trade-off between votes and fundraising that is driving what’s happening. If you claim that Democrats are behaving the way they are behaving because electoral boundaries make them into the party of the rich, you _don’t have to deal_ with the fact that Democrats’ bad behavior on this issue is in large part a product of the money that hedge fund types are donating to them. Thus, you can have your cake, and eat it too.

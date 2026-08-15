@@ -1,0 +1,51 @@
+year	openalex_id	type	title	venue	doi	cited_by	is_oa	has_abstract	status
+2024	W4391879343	article	The Rise of Particulars: AI and the Ethics of Care	Philosophies	https://doi.org/10.3390/philosophies9010026	2	yes	yes	included
+2024	W4404314867	article	Moral Imagination for Engineering Teams: The Technomoral Scenario	The International Review of Information Ethics	https://doi.org/10.29173/irie527	0	yes	yes	included
+2023	W4387822650	article	Unanticipating metadata: Metadata in the ages of the internet and AI	Information Services & Use	https://doi.org/10.3233/isu-230204	1	yes	yes	included
+2022	W4312051830	preprint	Study of a possible silicon photomultiplier based readout of the large plastic scintillator neutron detector NeuLAND	arXiv (Cornell University)	https://doi.org/10.48550/arxiv.2212.09421	0	yes	yes	excluded: different David Weinberger
+2022	W4313288542	article	Study of a possible silicon photomultiplier based readout of the large plastic scintillator neutron detector NeuLAND	Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment	https://doi.org/10.1016/j.nima.2022.167972	0	no	no	excluded: different David Weinberger
+2020	W3033948090	book-chapter	Civic Crowdfunding, Equity, and the Role of Government	WORLD SCIENTIFIC eBooks	https://doi.org/10.1142/9789811207822_0003	3	no	no	identity uncertain
+2020	W3106043243	article	Quando il bibliotecario migliore è un’IA	DOAJ (DOAJ: Directory of Open Access Journals)	https://doi.org/10.2426/aibstudi-12478	0	yes	no	included
+2019	W2923357482	article	The Legalization of Cannabis in the United States and Uruguay: Initial Findings	International Journal on Criminology	https://doi.org/10.18278/ijc.6.2.2	0	no	no	excluded: different David Weinberger
+2019	W2923946323	article	Initial Impact of the Legalization of Cannabis on Criminality in Uruguay	International Journal on Criminology	https://doi.org/10.18278/ijc.6.2.4	0	no	no	excluded: different David Weinberger
+2019	W2959616058	article	Illegal cannabis cultivation in Europe: new developments	EchoGéo	https://doi.org/10.4000/echogeo.17704	8	yes	yes	excluded: different David Weinberger
+2018	W2800846507	article	Colorado vs Uruguay : deux modes opposés de légalisation du cannabis	Drogues santé et société	https://doi.org/10.7202/1044308ar	6	yes	yes	excluded: different David Weinberger
+2018	W2802010834	article	Légalisation du cannabis et criminalité en Uruguay	Sécurité globale	https://doi.org/10.3917/secug.174.0035	0	no	no	excluded: different David Weinberger
+2018	W2802572721	article	Introduction. La légalisation du cannabis aux États-Unis et en Uruguay : premiers éléments d’appréciation	Sécurité globale	https://doi.org/10.3917/secug.174.0017	0	no	no	excluded: different David Weinberger
+2018	W3215885963	article	Afghan Opiate Trafficking along the Northern Route 2018			4	no	no	excluded: different David Weinberger
+2018	W4250448440	book-chapter	The Morality of Links	University of Michigan Press eBooks	https://doi.org/10.2307/j.ctv65sxn0.18	0	no	no	included
+2017	W2727815292	article	Recommendation of: ORCID Works Metadata Working Group	Figshare	https://doi.org/10.23640/07243.5153971.v1	0	yes	yes	included
+2017	W2765811634	preprint	Accountability of AI Under the Law: The Role of Explanation	SSRN Electronic Journal	https://doi.org/10.2139/ssrn.3064761	79	yes	no	included
+2016	W2565534711	article	The Library as Center of Meaning	Public Library Quarterly	https://doi.org/10.1080/01616846.2016.1244988	2	no	yes	included
+2016	W2987163345	book-chapter	David Weinberger on Martin Heidegger	Temple University Press eBooks	https://doi.org/10.2307/j.ctvrf898z.5	0	no	no	included
+2015	W1991263826	article	The social side of health information: a new age of communication strategy	Annals of Global Health	https://doi.org/10.1016/j.aogh.2015.02.960	4	yes	yes	included
+2015	W2485399646	book-chapter	Shakespeare as network	Cambridge University Press eBooks	https://doi.org/10.1017/cbo9781139152259.026	0	no	no	included
+2015	W4398882182	dataset	Harvard LibraryCloud _ Harvard Library Portal.pdf	Harvard Dataverse	https://doi.org/10.7910/dvn/wxakpe/htmes4	0	yes	no	included
+2015	W4398915065	other	Library Cloud	Harvard Dataverse	https://doi.org/10.7910/dvn/wxakpe	0	yes	yes	included
+2012	W1010171155	article	Simular el planeta en tiempo real	Dialnet (Universidad de la Rioja)		1	no	no	included
+2012	W1972562639	article	Why untidiness is good for us	The New Scientist	https://doi.org/10.1016/s0262-4079(12)60360-1	0	no	no	included
+2012	W2227335990	article	Too Big to Know: Rethinking Knowledge Now That the Facts Aren't the Facts, Experts Are Everywhere, and the Smartest Person in the Room Is the Room			306	no	yes	included
+2011	W164238785	article	The Machine that Would Predict the Future	Scientific American	https://doi.org/10.1038/scientificamerican1211-52	23	no	no	included
+2011	W2091388734	article	Du marché du cannabis au marché du THC en France. Implications pour le système d’offre et les politiques de lutte contre les trafics illicites de stupéfiants	Revue Française de Socio-Économie	https://doi.org/10.3917/rfse.007.0123	11	yes	yes	excluded: different David Weinberger
+2011	W2915227996	article	The machine that would predict the future. (Cover story)	Scientific American		0	no	no	included
+2011	W2922455531	article	From the Cannabis Market to the THC market in France. Implications for the Supply Chain and the Policy of the Fight against the Trafficking of Illicit Drugs			0	no	yes	excluded: different David Weinberger
+2011	W3124377272	preprint	Du marché du cannabis au marché du THC en France. Implications pour le système d'offre et les politiques de lutte contre les trafics illicites de stupéfiants	RePEc: Research Papers in Economics		0	no	yes	excluded: different David Weinberger
+2011	W3213321633	article	From cannabis market to THC market. Implications for the supply chain and the fight policy against the trafficking of illicit drugs			0	no	yes	excluded: different David Weinberger
+2011	W3214766943	dissertation	Polysilizium-Heaterstrukturen für den Einsatz in hochbeschleunigten Zuverlässigkeitstests auf Waferebene	MOnAMi (Hochschule Mittweida Hochschulbibliothek)		0	yes	no	excluded: different David Weinberger
+2010	W2302209980	article	David Weinberger, expert on impact of technology on society			0	no	yes	included
+2009	W1495212093	conference-paper	Digital government through social networks: how citizens can aggregate their money and votes to define digital government	International Conference on Digital Government Research	https://doi.org/10.5555/1556176.1556185	3	no	yes	included
+2009	W2346240532	book	The Cluetrain Manifesto: 10th Anniversary Edition			36	no	yes	included
+2008	W2036250036	article	Authenticity: is it real or is it marketing?	Strategic Direction	https://doi.org/10.1108/sd.2008.05624iad.006	7	no	yes	included
+2008	W2112506857	article	Digital Government through Social Networks: A Natural Alliance?			1	no	yes	included
+2008	W2416253358	article	Authenticity: is it real or is it marketing?	PubMed		13	no	yes	included
+2008	W318830879	article	Autenticidad: ¿es real o es márketing?	Harvard business review		31	no	yes	included
+2008	W373591000	article	World Voice 世界の異見 情報の押し付けは禁物 ユーザーや社員主体の「人びとの分類学」革命 IBMも注目する究極の知識共有術	週刊ダイヤモンド		0	no	no	included
+2007	W196166183	article	Ideas innovadoras para 2007	Harvard business review		4	no	yes	included
+2007	W2056379294	article	Taxonomy out of the box	Bulletin of the American Society for Information Science and Technology	https://doi.org/10.1002/bult.2007.bult1720330314	0	no	yes	included
+2007	W2319982006	article	Online on Message	Index on Censorship	https://doi.org/10.1080/03064220701738636	0	yes	yes	included
+2007	W3165198352	article	How tagging changes people's relationship to information and each other			1	no	no	included
+2005	W145623906	article	Point of View: Accountabalism and the Web	Educational technology: The magazine for managers of change in education		0	no	no	included
+2005	W174340590	other	Clasificar la información para satisfacer sus necesidades	Virtual Defense Library (Ministerio de Defensa)		0	no	yes	included
+2005	W272191569	preprint	Tagging and Why it Matters	SSRN Electronic Journal	https://doi.org/10.2139/ssrn.870594	21	yes	no	included
+2005	W2993418809	article	Sorting Data to Suit Yourself	Harvard business review		5	no	no	included
+2005	W401765079	article	BRAIN FOOD 第三の分類法:データはプールすることで生かされる	Diamondハーバード・ビジネス・レビュー		0	no	no	included

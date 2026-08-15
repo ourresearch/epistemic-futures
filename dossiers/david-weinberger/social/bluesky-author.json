@@ -1,0 +1,13 @@
+{
+ "did": "did:plc:w4pon4q5ewisn4d62xxpruyg",
+ "handle": "davidweinberger.bsky.social",
+ "displayName": "David Weinberger",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w4pon4q5ewisn4d62xxpruyg/bafkreidvxrrkcgtcow3tf4jgttlzjmgezhl3gtllpmgi2emkk52nj22ybe",
+ "associated": {
+  "activitySubscription": {
+   "allowSubscriptions": "followers"
+  }
+ },
+ "labels": [],
+ "createdAt": "2023-05-27T12:40:21.738Z"
+}

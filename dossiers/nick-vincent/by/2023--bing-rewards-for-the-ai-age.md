@@ -1,0 +1,1477 @@
+---
+title: "Bing Rewards for the AI Age"
+person: "nick-vincent"
+section: "by"
+type: "blog-post"
+year: 2023
+date: "2023-03-30"
+venue: "Data Leverage (Digital Garden / dataleverage.substack.com)"
+authors: "Nicholas Vincent"
+source_url: "https://nickmvincent.github.io/long-posts/bing-rewards-for-the-ai-age.html"
+retrieved: "2026-08-13"
+content: "full-text"
+notes: "Dek: The plants in the Gardens by the Bay evoke a sense of flourishing-by-design; photo by Victor from Unsplash. Garden section: long-posts. Mirrored on the Data Leverage Substack."
+---
+
+# Bing Rewards for the AI Age
+
+## Full text
+
+The plants in the Gardens by the
+Bay evoke a sense of flourishing-by-design; photo by Victor from
+Unsplash.
+
+In this post, I’ll propose an approach for addressing three distinct
+concerns facing the actors responsible for generative AI systems: the
+computational costs facing AI operators, the concern that Generative AI
+systems may erode their own foundations by reducing traffic to platforms
+where training data is created, and the lack of credit given to
+individual users and communities for their data contributions. Our
+proposal is to give people credits, akin to the Bing search engine’s
+“Rewards”, for their past and future data contributions, which can be
+used to query expensive AI systems. All users would receive some
+replenishing supply of credits, in accordance with the collective nature
+of the vast data underlying AI, with additional credit given to notable
+data contributions. This approach can simultaneously address the
+incentives faced by AI-operating firms, online platforms, and individual
+users. We discuss the potential for a relatively lightweight system –
+that is quite similar to existing features of Bing, Dall·E 2, and cloud
+computing – to enable inclusive governance of AI systems.
+
+### Introduction
+
+Generative AI (GAI) systems like ChatGPT and now Bing Chat continue
+to dominate public discourse around computing and tech more generally.
+Not only do firms need to contend with the increased costs of new GAI
+systems, but Microsoft has decided
+to shorten the maximum conversation length with Bing Chat as a quick way
+to constrain the outputs. At the same, concerns around the “paradox
+of reuse” remain relevant: large-language models (LLMs) and other
+systems use data from platforms like Wikipedia, Reddit, and
+StackExchange to fuel their impressive capabilities, but may reduce
+traffic to these very platforms and cut off contributions. Finally,
+there is an open debate about whether data creators are being fairly
+compensated for their role in fueling generative AI. All three of these
+issues are high-stakes, and failing to address any individual issue
+could cause serious sustainability issues for the new AI ecosystem.
+
+In this post, we lay out a hopeful vision of a “three-for-one”
+strategy for developing a credit economy for LLMs, that responds to
+incentives facing different actors in the AI ecosystems: the firms that
+operate generative AI systems (e.g. OpenAI, Microsoft, Google, Stability
+AI), the platforms that host particularly important training data (e.g.
+Wikipedia, GitHub, StackExchange), and the individual users who generate
+training data (e.g. artists, writers, coders, and even everyday web
+surfers).
+
+First, firms want to maximize the ratio of revenue to query cost (to
+make more money). That is, they want to avoid running expensive
+inference operations if that computation won’t lead to ad revenue, user
+retention, and/or sales. Similarly, at a societal level we all share an
+interest in maximizing the ratio of information to query cost: everybody
+benefits from information retrieval systems with better signal to noise
+ratios (which can be improved by improving the system, or teaching
+people how to use the system).
+
+LLMs have higher compute costs than traditional search engines, so
+firms face a general incentive to limit how often LLMs are queried.
+While the primary incentive here is about firm revenue, there are also
+several other minor reasons to limit LLMs queries. It seems limiting
+conversation length is one way
+to constrain LLM outputs. Additionally, firms have made some efforts to
+address ecological impacts of computing (e.g., reducing carbon costs),
+but there is a societal interest in avoiding “excessive” energy
+consumption.
+
+Second, the platforms like Wikipedia, StackExchange, and GitHub that
+facilitate the creation of valuable knowledge artifacts and the broad
+sharing of knowledge via permissive licensing regimes need web traffic
+to attract new contributors, editors, and moderators. Ultimately, they
+need users and either revenue and donations. If LLMs cut off the flow of
+traffic to these platforms, the platforms could be severely negatively
+impacted (the “paradox
+of re-use”). Indeed, reductions in GitHub contributions or Wikipedia
+edits can be seen as LLMs eroding their own foundations, taking away
+opportunities to create training data needed to advance LLM capabilities
+further.
+
+These platforms could benefit if Bing or Google send new traffic
+their way (“Hey, we noticed you like getting answers from ChatGPT… did
+you know you can make ChatGPT 2.0 even better by helping out on
+Wikipedia or StackExchange?”). Indeed, Wikipedia is so often a key source for
+answering search queries that it may be optimal for all parties to send
+searchers straight to the Wikipedia platform. To work towards this kind
+of outcome, it may be helpful to collect more feedback from community
+leaders, which a credit system could facilitate.
+
+Third, individuals want more agency over the data they produce. We
+can assume that in general, if individuals have the option to receive
+direct compensation, or increased recognition, for contributions to AI,
+they would take that option. Making that credit tangible can be a
+stepping stone towards a better paradigm for allocating both credit and
+reward. The public is largely responsible
+for the success of LLMs, in a counterfactual sense -- without
+contributions to pre-training data like Wikipedia articles, GitHub
+commits, arXiv papers, blog posts, tweets, and more, LLM capabilities
+would be meaningfully impacted. With collective action, a united front
+of individual coders, writers, or artists could boost up or tear down
+generative AI capabilities.
+
+As we will illustrate below, a sort of “mini-economy” for LLM use is
+actually very practical. Precedents exist in systems like Microsoft Rewards,
+existing generative AI systems, and cloud compute credits.
+We also have a wide variety of examples to draw on from crowdsourcing
+and human computation literature to mini-economies in online virtual
+worlds like MMOs.
+
+In short, there may be an opportunity to solve several
+incentive-related challenges at once!
+
+### The Proposal
+
+Firms are starting to paywall and rate-limit
+access to GAI. OpenAI sells API calls to its models, and now has a
+ChatGPT “pro subscription”. The Bing Chat beta, though still free, now
+has limits on how many queries a user can submit.
+
+We can imagine an LLM system like Bing Chat that requires users to
+spend credits to query the LLM directly, and that provides fallbacks
+like traditional search or platform-situated search engines (like using
+DuckDuckGo’s “bangs” to
+search Wikipedia directly). The building blocks for this idea are
+already ubiquitous: buying and issuing credits
+is a common practice for cloud computing platforms like Azure and as
+noted above, the Bing rewards program (technically, "Microsoft Rewards")
+provides much of the scaffolding needed for LLM credits. Given Bing’s issues
+with longer conversations, the credit cost could even scale with session
+length (rather than capping at 5, double the credit cost after 5
+messages in a single session). This issue may also be solved in the
+future, at which point the pricing scheme can simply be updated.
+
+Users would receive a replenishing supply of credits simply for
+having an account. This would be justified for two reasons. First, it
+follows the basic logic that any Google or Bing user can access search
+results for free because they consume ads while they search. Presumably,
+Google, Bing, and firms operating similar technologies want people to
+use these systems and to remain within their respective ecosystems
+(e.g., to use Chrome and Google Docs or Edge and Microsoft Word,
+respectively). However, the replenishing supply of credits could also be
+justified on the basis that any user of a computing system has played,
+and will continue to play, a role in collectively producing the massive
+sea of training data that fuels systems like LLMs. We’ll likely never
+pinpoint people’s individual roles in creating training data with true
+granularity, so it makes sense to just give some credit to everyone.
+
+Notable data contributions could provide a path to earn additional
+credit. Most simply, when users actively give feedback on model results
+(i.e., perform the same kind of labor as contractors hired by OpenAI to
+build ChatGPT), they should receive credits. This would happen at
+recurring intervals, so users could be motivated by their interest in
+LLM usage to join GitHub or Wikipedia and make contributions that are
+accepted. Of course, the users would still need to follow community
+norms to become active users, but we could imagine the paradox of reuse
+being entirely reversed in the best case scenario.
+
+Credit could also be allocated for historical contributions to
+training data, along the lines of a “data dividend” (as opposed
+to a data market). If users link their LLM accounts to data creation
+platforms like GitHub, they could earn additional credits. It’s very
+difficult to tease out the impact of individual GitHub contributors,
+StackOverflow users, or Wikipedia editors on LLM capabilities, so the
+best first pass version of this system would involve giving a small
+amount of credits to anyone who participates in any of these
+communities. There’s precedent here: GitHub is giving free access to
+Co-pilot for open source maintainers.
+
+Down the line, if firms do want to perform data valuation and try to
+estimate the relative impact of different communities on LLM
+capabilities, it could make sense to allocate credits at the community
+level and let that community govern how the credits are allocated. So if
+GitHub users decide they do want to give extra credits to especially
+prodigious OSS contributors, they can do so. If LLMs continue to scale
+in capabilities and these credits become more powerful, this could chart
+a pathway towards sustainability funding OSS development (though we will
+discuss below that a weakness of this overall strategy is that it’s
+unlikely to provide a large number of well compensated jobs on its
+own).
+
+Of course, users who find this whole system excessively complex could
+just pay a subscription fee or buy credits directly (or continue to use
+search as it exists now).
+
+### How this Plays Out
+
+To illustrate how this system addresses the incentives described
+above, we’ll describe a few very short scenarios.
+
+For a user with relatively encyclopedic queries (“george washington
+biographical facts”, “history of singapore”, “who invented coffee”),
+they might choose to search Wikipedia directly instead of interfacing
+with the web exclusively through LLMs. This will lead to said user
+visiting Wikipedia directly. We’d also expect the compute burden of the
+LLM ecosystem (including carbon cost and demand on compute resources
+that could be used for other research areas) to fall a bit. Ideally,
+this might complement something like a carbon
+dividend.
+
+For AI operators looking to collect targeted training data, they can
+do so in a fair and transparent manner. Users will know exactly how much
+credit they’ll earn and what that will get them, so labor market
+dynamics can emerge. Of course, new questions will arise regarding the
+fairness of this new AI credit economy.
+
+For individuals interested in seeing historical training data
+acknowledged, the credits system can greatly elevate the visibility of
+large collective efforts like Wikipedia editing and contributing to OSS
+in fueling LLMs. It can also increase the “prestige” associated with
+doing things like provide human feedback for future AI systems. This
+acknowledgment alone may be pivotal in scaffolding collective action,
+using regulatory levers, or using data itself as a lever.
+
+### Downsides
+
+One primary concern that would likely arise with this system is that
+it adds additional layers of financialization to information retrieval
+and generative systems that currently sort of look like public goods. Of
+course, these systems have never been true public
+goods,
+and we’re seeing that the bricks are already being laid to paywall LLM
+access. Arguably, the best hope for more public goods-esque LLMs is to
+create a nationalized competitor (along the lines of a nationalized
+search engine), which this credit approach could actually support.
+Of course, this idea has never been proven, and so remains speculative
+(and is not core to this proposal). While financialization may feel bad
+for users, it could also represent an improvement over information
+retrieval systems that are opaquely reliant on targeted advertising.
+
+While credit-gating LLM queries could create inequities in access to
+knowledge (by e.g. imposing more search time costs on people who don’t
+have as many credits or means to pay subscription fees), we assume that
+existing search engines would continue to operate (and research would
+continue to improve them). Furthermore, individual platforms can still
+support search and recommendation; presumably Wikipedia’s native search
+engine will provide a baseline for equitable knowledge access, given
+Wikipedia’s unique incentives.
+
+Another concern is that this system could be seen as indirectly
+putting a price tag on Wikipedia edits or StackOverflow answers. This is
+best addressed by handling individual credits and community credits
+separately. When an individual provides direct feedback, they earn
+direct credit. While contributing to any of the platforms that are major
+data sources can earn individuals additional credit, credits should be
+allocated to Wikipedia itself or to GitHub itself, and then governed in
+a hierarchical fashion (so GitHub users might decide to pay prominent
+contributors directly, whereas Wikipedia might exchange credits for
+hosting costs or to support new AI technologies that improve Wikipedia
+directly). One particularly promising way to extend the credit system
+could be to give online communities the ability to spend their
+communally held credits on votes. Thus, by allocating credits
+to Wikipedia (or to a community of educators, or artists, etc.), the
+community could spend those credits to vote on how they’d like
+generative AI systems to be governed or constrained.
+
+Another major concern we foresee is that the program could be seen as
+giving out pittances. The closest real-world analogue is Microsoft
+Rewards, a program that gives users a $5 gift card for 380-1520 web
+queries (i.e., nothing close to a true “wage” in any context).
+Certainly, while we laid out many challenges that this approach could
+solve, in the short term it is probably not going to
+meaningfully impact economic inequality measures nor drastically
+increase the number of people on Earth earning a living wage. If people
+can exchange credits for cash, perhaps some people could add an
+additional income stream akin to crowdwork (which is itself commonly
+problematic in terms of wages and working
+conditions). Ultimately, this kind of approach must be implemented
+alongside ambitious state action to tackle poverty and drive economic
+growth.
+
+### Who
+Would Be Responsible for Implementing This Credit System?
+
+The easiest approach would be for firms themselves to implement this
+kind of system. As noted above, many firms and organizations are
+probably already halfway there (or more).
+
+We can compare this idea with existing Microsoft
+Rewards:
+
+-
+
+people earn points that can be converted to cash value (gift
+cards)
+
+-
+
+points can be donated to a joint cause
+
+-
+
+The actual “conversion rate”:
+
+-
+
+5-20 points per search
+
+-
+
+7600 points = $5 gift card (1000 points = about 66 cents). The
+exact rate varies by gift card.
+
+However, another option could be to scaffold this system via
+data-focused industrial policy. If a governmental body were to institute
+some kind of “Data Relations Board” (see e.g. this proposal
+for a Data Relations Board in California), this board could set
+standards for credit allocation. In fact, the easiest way for a state
+entity to set standards in the space would be for that entity to operate
+their own “nationalized” LLM, akin to a state-affiliated supermarket
+cooperative that competes on prices. Then, the Data Relations Board can
+set standards for labor practices in this space. Ideally, this could
+allow for a high-level of data sharing and rapid innovation, instead of
+a paradigm in which individual organizations are incentivized to “hide
+away” data that could be support the public interest.
+
+### Implementing in Stages
+
+The LLM credit system could be implemented in stages, with the early
+stage version being developed very rapidly. We’ll use Microsoft and Bing
+chat as a running example, but these stages are applicable to any LLM
+operator.
+
+A very simple alpha version could involve just two components:
+issuing every Microsoft account 100 credits a month and providing
+additional credits for each “feedback submission” (with some basic spam
+filtering).
+
+The second stage would involve adding a system that allows users to
+link their Microsoft account to a GitHub, StackOverflow, Wikipedia
+account to earn an additional “contributor stipend”. This would require
+defining a criteria for being an “Active Participant” on each platform,
+again to dis-incentivize spam. Ideally, this should involve deep
+collaboration with the platforms to make sure the new system drives
+primarily good faith engagement on the platform and avoids at all costs
+any incentive to spam Wikipedia with low quality edits or game GitHub
+contribution metrics. This will be an ongoing challenge, but critically
+the baseline to beat here is not starving the platforms of
+traffic.
+
+The third stage would involve performing collective data valuation,
+i.e. allocating a large number of credits to GitHub, StackOverflow, and
+Wikipedia, to let the contributors of those platforms allocate and
+govern how the credits are used.
+
+The fourth stage would involve allowing communities to exchange
+credits for some kind of governance power, rather than just using the
+credits to pay for queries (or to convert to gift cards).
+
+### A Worked "Back of the
+Napkin” Example
+
+Finally, we will work through a “back of the napkin” example with
+real numbers to show how this system might work.
+
+Let’s consider Bob the Bing user. Bob receives 100 credits at the
+start of the month, and the cost to query Bing Chat is one credit. These
+credits are valued at about 1 cent. Let’s assume there are still
+concerns with long conversations, so the cost doubles after five queries
+in a session.
+
+Bob can provide feedback on a query to earn a credit. This feedback
+undergoes some kind of spam detection, and not all queries allow for
+feedback. Let’s assume it takes about 5 minutes to provide a good
+feedback record, so Bob can earn 1000 credits for providing 12 pieces of
+feedback (i.e., a rate of $10 per hour). By consistently providing
+feedback, a user can build a reputation and greatly increase the credits
+they earn, similar to the vision laid out by Kittur et al. As Bob
+builds a reputation for providing good faith feedback, the rate
+increases, but presumably the amount of feedback needed will drop so
+eventually we’d expect Bob to spend much less time providing feedback
+but earn many more credits. Some users might spend 5 minutes a week so
+they can have an extra 100 queries, others might spend an hour or two
+per week to cash out for an extra $520 - $1040 a year.
+
+Bob links his GitHub account (he shares some small Python side
+projects, and reports issues in major scientific software repositories).
+His account meets an “active user criteria”, so he earns an extra 50
+credits per month. Bob does not directly earn credits for
+gameable metrics like number of individual commits. This system is still
+somewhat gameable, as people may try to do the bare minimum activity to
+meet the criteria, but presumably some fraction of users who make a
+GitHub account and try to do some basic level of commits will actually
+become real contributors; same with Wikipedia, StackExchange, etc. In
+other words, with a well-designed activity criteria, even people trying
+to game the system will end up contributing to these systems (and of
+course, sometimes the most impactful thing will be to get one new power
+user to join the platform, rather than getting 100 users who make just a
+single contribution). Furthermore, the credits from historical
+contributions will be much lower than credits from providing active
+feedback, so those who want to earn credits have a path of least
+resistance: they’ll provide active feedback directly to the AI operator
+rather than trying to “game” GitHub.
+
+At the end of the month, Microsoft makes a broad estimate of the
+impact of GitHub data on new capabilities. GitHub itself offers a voting
+platform (perhaps similar to, or using, something like PolicyKit), and Bob participates in
+voting on how the credits (some converted into cash), are distributed
+(or down the line, if the credits should be used to vote directly on how
+generative AI systems should be deployed).
+
+### Notes
+
+See Sam Altman’s tweet on early costs of
+ChatGPT
+
+See the OpenAI pricing
+page
+
+Image from: https://unsplash.com/photos/c53HvA-blYQ
+
+Source revision history
+
+Selected Git commits that changed this source file.
+
+- 9fb4674b8a 2026-07-12 - Migrate blog into digital presence monorepo
+
+Mirror freshness
+
+Maintenance status for tracked full-copy mirrors of this post.
+
+-
+Current
+substack
+
+mirror 2023-03-30
+
+Baseline from original_url
+
+Source and AT Protocol record
+
+Source path
+content/writing/posts/2023-03-30-bing-rewards-for-the-ai-age.md
+
+AT Protocol URI
+at://did:plc:doxvahqvyhyqf32v7wz7p5xk/site.standard.document/3mizedqd7du2g
+
+Exact public AT Protocol record cached for the Leaflet/Bluesky-facing copy.
+
+{
+"uri": "at://did:plc:doxvahqvyhyqf32v7wz7p5xk/site.standard.document/3mizedqd7du2g",
+"cid": "bafyreifcy3frb6y4ykljhlwtkhkbs4wnlmwuevpzhhpjo35gvdbeaqblpi",
+"value": {
+"path": "/3mizedqd7du2g",
+"site": "at://did:plc:doxvahqvyhyqf32v7wz7p5xk/site.standard.publication/3lzrsw2kvwc2m",
+"$type": "site.standard.document",
+"title": "Bing Rewards for the AI Age",
+"content": {
+"$type": "pub.leaflet.content",
+"pages": [
+{
+"$type": "pub.leaflet.pages.linearDocument",
+"blocks": [
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.image",
+"image": {
+"$type": "blob",
+"ref": {
+"$link": "bafkreid5spymx74qwtafw7ysgrcxb5df4fyd2sgk3mv26lpwlojzelaqfi"
+},
+"mimeType": "image/jpeg",
+"size": 167778
+},
+"aspectRatio": {
+"$type": "pub.leaflet.blocks.image#aspectRatio",
+"width": 1000,
+"height": 667
+}
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 107,
+"byteStart": 106
+},
+"features": [
+{
+"$type": "pub.leaflet.richtext.facet#italic"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 106,
+"byteStart": 86
+},
+"features": [
+{
+"uri": "https://unsplash.com/photos/c53HvA-blYQ",
+"$type": "pub.leaflet.richtext.facet#link"
+},
+{
+"$type": "pub.leaflet.richtext.facet#italic"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 86,
+"byteStart": 36
+},
+"features": [
+{
+"$type": "pub.leaflet.richtext.facet#italic"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 36,
+"byteStart": 18
+},
+"features": [
+{
+"uri": "https://en.wikipedia.org/wiki/Gardens_by_the_Bay",
+"$type": "pub.leaflet.richtext.facet#link"
+},
+{
+"$type": "pub.leaflet.richtext.facet#italic"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 18,
+"byteStart": 0
+},
+"features": [
+{
+"$type": "pub.leaflet.richtext.facet#italic"
+}
+]
+}
+],
+"plaintext": "The plants in the Gardens by the Bay evoke a sense of flourishing-by-design; photo by Victor from Unsplash."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "In this post, I’ll propose an approach for addressing three distinct concerns facing the actors responsible for generative AI systems: the computational costs facing AI operators, the concern that Generative AI systems may erode their own foundations by reducing traffic to platforms where training data is created, and the lack of credit given to individual users and communities for their data contributions. Our proposal is to give people credits, akin to the Bing search engine’s “Rewards”, for their past and future data contributions, which can be used to query expensive AI systems. All users would receive some replenishing supply of credits, in accordance with the collective nature of the vast data underlying AI, with additional credit given to notable data contributions. This approach can simultaneously address the incentives faced by AI-operating firms, online platforms, and individual users. We discuss the potential for a relatively lightweight system – that is quite similar to existing features of Bing, Dall·E 2, and cloud computing – to enable inclusive governance of AI systems."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "Introduction"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 395,
+"byteStart": 379
+},
+"features": [
+{
+"uri": "https://nmvg.mataroa.blog/blog/the-paradox-of-reuse-language-models-edition/",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 243,
+"byteStart": 236
+},
+"features": [
+{
+"uri": "https://www.wsj.com/articles/microsoft-puts-caps-on-new-bing-usage-after-ai-chatbot-offered-unhinged-responses-39c3252f",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "Generative AI (GAI) systems like ChatGPT and now Bing Chat continue to dominate public discourse around computing and tech more generally. Not only do firms need to contend with the increased costs of new GAI systems, but Microsoft has decided to shorten the maximum conversation length with Bing Chat as a quick way to constrain the outputs. At the same, concerns around the “paradox of reuse” remain relevant: large-language models (LLMs) and other systems use data from platforms like Wikipedia, Reddit, and StackExchange to fuel their impressive capabilities, but may reduce traffic to these very platforms and cut off contributions. Finally, there is an open debate about whether data creators are being fairly compensated for their role in fueling generative AI. All three of these issues are high-stakes, and failing to address any individual issue could cause serious sustainability issues for the new AI ecosystem."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "In this post, we lay out a hopeful vision of a “three-for-one” strategy for developing a credit economy for LLMs, that responds to incentives facing different actors in the AI ecosystems: the firms that operate generative AI systems (e.g. OpenAI, Microsoft, Google, Stability AI), the platforms that host particularly important training data (e.g. Wikipedia, GitHub, StackExchange), and the individual users who generate training data (e.g. artists, writers, coders, and even everyday web surfers)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "First, firms want to maximize the ratio of revenue to query cost (to make more money). That is, they want to avoid running expensive inference operations if that computation won’t lead to ad revenue, user retention, and/or sales. Similarly, at a societal level we all share an interest in maximizing the ratio of information to query cost: everybody benefits from information retrieval systems with better signal to noise ratios (which can be improved by improving the system, or teaching people how to use the system)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 305,
+"byteStart": 302
+},
+"features": [
+{
+"uri": "https://www.businessinsider.com/microsoft-limits-bing-chat-exchanges-and-conversation-lengths-2023-2",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "LLMs have higher compute costs than traditional search engines, so firms face a general incentive to limit how often LLMs are queried. While the primary incentive here is about firm revenue, there are also several other minor reasons to limit LLMs queries. It seems limiting conversation length is one way to constrain LLM outputs. Additionally, firms have made some efforts to address ecological impacts of computing (e.g., reducing carbon costs), but there is a societal interest in avoiding “excessive” energy consumption."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 459,
+"byteStart": 442
+},
+"features": [
+{
+"uri": "https://nmvg.mataroa.blog/blog/the-paradox-of-reuse-language-models-edition/",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "Second, the platforms like Wikipedia, StackExchange, and GitHub that facilitate the creation of valuable knowledge artifacts and the broad sharing of knowledge via permissive licensing regimes need web traffic to attract new contributors, editors, and moderators. Ultimately, they need users and either revenue and donations. If LLMs cut off the flow of traffic to these platforms, the platforms could be severely negatively impacted (the “paradox of re-use”). Indeed, reductions in GitHub contributions or Wikipedia edits can be seen as LLMs eroding their own foundations, taking away opportunities to create training data needed to advance LLM capabilities further."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 279,
+"byteStart": 269
+},
+"features": [
+{
+"uri": "https://dl.acm.org/doi/abs/10.1145/3449078",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "These platforms could benefit if Bing or Google send new traffic their way (“Hey, we noticed you like getting answers from ChatGPT… did you know you can make ChatGPT 2.0 even better by helping out on Wikipedia or StackExchange?”). Indeed, Wikipedia is so often a key source for answering search queries that it may be optimal for all parties to send searchers straight to the Wikipedia platform. To work towards this kind of outcome, it may be helpful to collect more feedback from community leaders, which a credit system could facilitate."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 388,
+"byteStart": 377
+},
+"features": [
+{
+"uri": "https://nmvg.mataroa.blog/blog/chatgpt-is-awesome-and-scary-you-deserve-credit/",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "Third, individuals want more agency over the data they produce. We can assume that in general, if individuals have the option to receive direct compensation, or increased recognition, for contributions to AI, they would take that option. Making that credit tangible can be a stepping stone towards a better paradigm for allocating both credit and reward. The public is largely responsible for the success of LLMs, in a counterfactual sense -- without contributions to pre-training data like Wikipedia articles, GitHub commits, arXiv papers, blog posts, tweets, and more, LLM capabilities would be meaningfully impacted. With collective action, a united front of individual coders, writers, or artists could boost up or tear down generative AI capabilities."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 364,
+"byteStart": 360
+},
+"features": [
+{
+"uri": "https://en.wikipedia.org/wiki/Eve_Online#Economy",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 207,
+"byteStart": 200
+},
+"features": [
+{
+"uri": "https://www.microsoft.com/en-us/azure-academic-research/",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 148,
+"byteStart": 131
+},
+"features": [
+{
+"uri": "https://www.microsoft.com/en-us/rewards",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "As we will illustrate below, a sort of “mini-economy” for LLM use is actually very practical. Precedents exist in systems like Microsoft Rewards, existing generative AI systems, and cloud compute credits. We also have a wide variety of examples to draw on from crowdsourcing and human computation literature to mini-economies in online virtual worlds like MMOs."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "In short, there may be an opportunity to solve several incentive-related challenges at once!"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "The Proposal"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 29,
+"byteStart": 22
+},
+"features": [
+{
+"uri": "https://openai.com/blog/chatgpt-plus",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "Firms are starting to paywall and rate-limit access to GAI. OpenAI sells API calls to its models, and now has a ChatGPT “pro subscription”. The Bing Chat beta, though still free, now has limits on how many queries a user can submit."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 571,
+"byteStart": 565
+},
+"features": [
+{
+"uri": "https://www.businessinsider.com/microsoft-limits-bing-chat-exchanges-and-conversation-lengths-2023-2",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 350,
+"byteStart": 343
+},
+"features": [
+{
+"uri": "https://azure.microsoft.com/en-us/pricing/member-offers/credit-for-visual-studio-subscribers/",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 231,
+"byteStart": 226
+},
+"features": [
+{
+"uri": "https://duckduckgo.com/bangs",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "We can imagine an LLM system like Bing Chat that requires users to spend credits to query the LLM directly, and that provides fallbacks like traditional search or platform-situated search engines (like using DuckDuckGo’s “bangs” to search Wikipedia directly). The building blocks for this idea are already ubiquitous: buying and issuing credits is a common practice for cloud computing platforms like Azure and as noted above, the Bing rewards program (technically, \"Microsoft Rewards\") provides much of the scaffolding needed for LLM credits. Given Bing’s issues with longer conversations, the credit cost could even scale with session length (rather than capping at 5, double the credit cost after 5 messages in a single session). This issue may also be solved in the future, at which point the pricing scheme can simply be updated."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Users would receive a replenishing supply of credits simply for having an account. This would be justified for two reasons. First, it follows the basic logic that any Google or Bing user can access search results for free because they consume ads while they search. Presumably, Google, Bing, and firms operating similar technologies want people to use these systems and to remain within their respective ecosystems (e.g., to use Chrome and Google Docs or Edge and Microsoft Word, respectively). However, the replenishing supply of credits could also be justified on the basis that any user of a computing system has played, and will continue to play, a role in collectively producing the massive sea of training data that fuels systems like LLMs. We’ll likely never pinpoint people’s individual roles in creating training data with true granularity, so it makes sense to just give some credit to everyone."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Notable data contributions could provide a path to earn additional credit. Most simply, when users actively give feedback on model results (i.e., perform the same kind of labor as contractors hired by OpenAI to build ChatGPT), they should receive credits. This would happen at recurring intervals, so users could be motivated by their interest in LLM usage to join GitHub or Wikipedia and make contributions that are accepted. Of course, the users would still need to follow community norms to become active users, but we could imagine the paradox of reuse being entirely reversed in the best case scenario."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 606,
+"byteStart": 600
+},
+"features": [
+{
+"uri": "https://docs.github.com/en/copilot/quickstart",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 115,
+"byteStart": 102
+},
+"features": [
+{
+"uri": "https://arxiv.org/abs/1912.00757",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "Credit could also be allocated for historical contributions to training data, along the lines of a “data dividend” (as opposed to a data market). If users link their LLM accounts to data creation platforms like GitHub, they could earn additional credits. It’s very difficult to tease out the impact of individual GitHub contributors, StackOverflow users, or Wikipedia editors on LLM capabilities, so the best first pass version of this system would involve giving a small amount of credits to anyone who participates in any of these communities. There’s precedent here: GitHub is giving free access to Co-pilot for open source maintainers."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Down the line, if firms do want to perform data valuation and try to estimate the relative impact of different communities on LLM capabilities, it could make sense to allocate credits at the community level and let that community govern how the credits are allocated. So if GitHub users decide they do want to give extra credits to especially prodigious OSS contributors, they can do so. If LLMs continue to scale in capabilities and these credits become more powerful, this could chart a pathway towards sustainability funding OSS development (though we will discuss below that a weakness of this overall strategy is that it’s unlikely to provide a large number of well compensated jobs on its own)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Of course, users who find this whole system excessively complex could just pay a subscription fee or buy credits directly (or continue to use search as it exists now)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "How this Plays Out"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "To illustrate how this system addresses the incentives described above, we’ll describe a few very short scenarios."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 552,
+"byteStart": 537
+},
+"features": [
+{
+"uri": "https://en.wikipedia.org/wiki/Carbon_fee_and_dividend",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "For a user with relatively encyclopedic queries (“george washington biographical facts”, “history of singapore”, “who invented coffee”), they might choose to search Wikipedia directly instead of interfacing with the web exclusively through LLMs. This will lead to said user visiting Wikipedia directly. We’d also expect the compute burden of the LLM ecosystem (including carbon cost and demand on compute resources that could be used for other research areas) to fall a bit. Ideally, this might complement something like a carbon dividend."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "For AI operators looking to collect targeted training data, they can do so in a fair and transparent manner. Users will know exactly how much credit they’ll earn and what that will get them, so labor market dynamics can emerge. Of course, new questions will arise regarding the fairness of this new AI credit economy."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 473,
+"byteStart": 451
+},
+"features": [
+{
+"uri": "https://www.datalevers.org/",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "For individuals interested in seeing historical training data acknowledged, the credits system can greatly elevate the visibility of large collective efforts like Wikipedia editing and contributing to OSS in fueling LLMs. It can also increase the “prestige” associated with doing things like provide human feedback for future AI systems. This acknowledgment alone may be pivotal in scaffolding collective action, using regulatory levers, or using data itself as a lever."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "Downsides"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 495,
+"byteStart": 469
+},
+"features": [
+{
+"uri": "https://www.theguardian.com/commentisfree/2017/aug/30/nationalise-google-facebook-amazon-data-monopoly-platform-public-interest",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 268,
+"byteStart": 263
+},
+"features": [
+{
+"uri": "https://www.technologyreview.com/2018/06/27/141776/lets-make-private-data-into-a-public-good/",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 262,
+"byteStart": 256
+},
+"features": [
+{
+"uri": "https://www.nytimes.com/2021/07/07/opinion/google-utility-antitrust-technology.html",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "One primary concern that would likely arise with this system is that it adds additional layers of financialization to information retrieval and generative systems that currently sort of look like public goods. Of course, these systems have never been true public goods, and we’re seeing that the bricks are already being laid to paywall LLM access. Arguably, the best hope for more public goods-esque LLMs is to create a nationalized competitor (along the lines of a nationalized search engine), which this credit approach could actually support. Of course, this idea has never been proven, and so remains speculative (and is not core to this proposal). While financialization may feel bad for users, it could also represent an improvement over information retrieval systems that are opaquely reliant on targeted advertising."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "While credit-gating LLM queries could create inequities in access to knowledge (by e.g. imposing more search time costs on people who don’t have as many credits or means to pay subscription fees), we assume that existing search engines would continue to operate (and research would continue to improve them). Furthermore, individual platforms can still support search and recommendation; presumably Wikipedia’s native search engine will provide a baseline for equitable knowledge access, given Wikipedia’s unique incentives."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 862,
+"byteStart": 857
+},
+"features": [
+{
+"$type": "pub.leaflet.richtext.facet#italic"
+}
+]
+}
+],
+"plaintext": "Another concern is that this system could be seen as indirectly putting a price tag on Wikipedia edits or StackOverflow answers. This is best addressed by handling individual credits and community credits separately. When an individual provides direct feedback, they earn direct credit. While contributing to any of the platforms that are major data sources can earn individuals additional credit, credits should be allocated to Wikipedia itself or to GitHub itself, and then governed in a hierarchical fashion (so GitHub users might decide to pay prominent contributors directly, whereas Wikipedia might exchange credits for hosting costs or to support new AI technologies that improve Wikipedia directly). One particularly promising way to extend the credit system could be to give online communities the ability to spend their communally held credits on votes. Thus, by allocating credits to Wikipedia (or to a community of educators, or artists, etc.), the community could spend those credits to vote on how they’d like generative AI systems to be governed or constrained."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 694,
+"byteStart": 689
+},
+"features": [
+{
+"uri": "https://doi.org/10.1145/3476060",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 385,
+"byteStart": 382
+},
+"features": [
+{
+"$type": "pub.leaflet.richtext.facet#italic"
+}
+]
+}
+],
+"plaintext": "Another major concern we foresee is that the program could be seen as giving out pittances. The closest real-world analogue is Microsoft Rewards, a program that gives users a $5 gift card for 380-1520 web queries (i.e., nothing close to a true “wage” in any context). Certainly, while we laid out many challenges that this approach could solve, in the short term it is probably not going to meaningfully impact economic inequality measures nor drastically increase the number of people on Earth earning a living wage. If people can exchange credits for cash, perhaps some people could add an additional income stream akin to crowdwork (which is itself commonly problematic in terms of wages and working conditions). Ultimately, this kind of approach must be implemented alongside ambitious state action to tackle poverty and drive economic growth."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "Who Would Be Responsible for Implementing This Credit System?"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "The easiest approach would be for firms themselves to implement this kind of system. As noted above, many firms and organizations are probably already halfway there (or more)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 56,
+"byteStart": 39
+},
+"features": [
+{
+"uri": "https://www.microsoft.com/en-us/rewards",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "We can compare this idea with existing Microsoft Rewards:"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.unorderedList",
+"children": [
+{
+"$type": "pub.leaflet.blocks.unorderedList#listItem",
+"content": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "people earn points that can be converted to cash value (gift cards)"
+}
+},
+{
+"$type": "pub.leaflet.blocks.unorderedList#listItem",
+"content": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "points can be donated to a joint cause"
+}
+},
+{
+"$type": "pub.leaflet.blocks.unorderedList#listItem",
+"content": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "The actual “conversion rate”:"
+}
+}
+]
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 197,
+"byteStart": 189
+},
+"features": [
+{
+"uri": "https://www.berggruen.org/ideas/articles/a-data-dividend-that-works-steps-toward-building-an-equitable-data-economy/",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "However, another option could be to scaffold this system via data-focused industrial policy. If a governmental body were to institute some kind of “Data Relations Board” (see e.g. this proposal for a Data Relations Board in California), this board could set standards for credit allocation. In fact, the easiest way for a state entity to set standards in the space would be for that entity to operate their own “nationalized” LLM, akin to a state-affiliated supermarket cooperative that competes on prices. Then, the Data Relations Board can set standards for labor practices in this space. Ideally, this could allow for a high-level of data sharing and rapid innovation, instead of a paradigm in which individual organizations are incentivized to “hide away” data that could be support the public interest."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "Implementing in Stages"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "The LLM credit system could be implemented in stages, with the early stage version being developed very rapidly. We’ll use Microsoft and Bing chat as a running example, but these stages are applicable to any LLM operator."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "A very simple alpha version could involve just two components: issuing every Microsoft account 100 credits a month and providing additional credits for each “feedback submission” (with some basic spam filtering)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 700,
+"byteStart": 663
+},
+"features": [
+{
+"$type": "pub.leaflet.richtext.facet#bold"
+}
+]
+}
+],
+"plaintext": "The second stage would involve adding a system that allows users to link their Microsoft account to a GitHub, StackOverflow, Wikipedia account to earn an additional “contributor stipend”. This would require defining a criteria for being an “Active Participant” on each platform, again to dis-incentivize spam. Ideally, this should involve deep collaboration with the platforms to make sure the new system drives primarily good faith engagement on the platform and avoids at all costs any incentive to spam Wikipedia with low quality edits or game GitHub contribution metrics. This will be an ongoing challenge, but critically the baseline to beat here is not starving the platforms of traffic."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "The third stage would involve performing collective data valuation, i.e. allocating a large number of credits to GitHub, StackOverflow, and Wikipedia, to let the contributors of those platforms allocate and govern how the credits are used."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "The fourth stage would involve allowing communities to exchange credits for some kind of governance power, rather than just using the credits to pay for queries (or to convert to gift cards)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "A Worked \"Back of the Napkin” Example"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Finally, we will work through a “back of the napkin” example with real numbers to show how this system might work."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Let’s consider Bob the Bing user. Bob receives 100 credits at the start of the month, and the cost to query Bing Chat is one credit. These credits are valued at about 1 cent. Let’s assume there are still concerns with long conversations, so the cost doubles after five queries in a session."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 475,
+"byteStart": 463
+},
+"features": [
+{
+"uri": "https://doi.org/10.1145/2441776.2441923",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "Bob can provide feedback on a query to earn a credit. This feedback undergoes some kind of spam detection, and not all queries allow for feedback. Let’s assume it takes about 5 minutes to provide a good feedback record, so Bob can earn 1000 credits for providing 12 pieces of feedback (i.e., a rate of $10 per hour). By consistently providing feedback, a user can build a reputation and greatly increase the credits they earn, similar to the vision laid out by Kittur et al. As Bob builds a reputation for providing good faith feedback, the rate increases, but presumably the amount of feedback needed will drop so eventually we’d expect Bob to spend much less time providing feedback but earn many more credits. Some users might spend 5 minutes a week so they can have an extra 100 queries, others might spend an hour or two per week to cash out for an extra $520 - $1040 a year."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 240,
+"byteStart": 237
+},
+"features": [
+{
+"$type": "pub.leaflet.richtext.facet#italic"
+}
+]
+}
+],
+"plaintext": "Bob links his GitHub account (he shares some small Python side projects, and reports issues in major scientific software repositories). His account meets an “active user criteria”, so he earns an extra 50 credits per month. Bob does not directly earn credits for gameable metrics like number of individual commits. This system is still somewhat gameable, as people may try to do the bare minimum activity to meet the criteria, but presumably some fraction of users who make a GitHub account and try to do some basic level of commits will actually become real contributors; same with Wikipedia, StackExchange, etc. In other words, with a well-designed activity criteria, even people trying to game the system will end up contributing to these systems (and of course, sometimes the most impactful thing will be to get one new power user to join the platform, rather than getting 100 users who make just a single contribution). Furthermore, the credits from historical contributions will be much lower than credits from providing active feedback, so those who want to earn credits have a path of least resistance: they’ll provide active feedback directly to the AI operator rather than trying to “game” GitHub."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 202,
+"byteStart": 193
+},
+"features": [
+{
+"uri": "https://policykit.org/",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "At the end of the month, Microsoft makes a broad estimate of the impact of GitHub data on new capabilities. GitHub itself offers a voting platform (perhaps similar to, or using, something like PolicyKit), and Bob participates in voting on how the credits (some converted into cash), are distributed (or down the line, if the credits should be used to vote directly on how generative AI systems should be deployed)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "Notes"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 50,
+"byteStart": 34
+},
+"features": [
+{
+"uri": "https://twitter.com/sama/status/1599671496636780546",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "See Sam Altman’s tweet on early costs of ChatGPT"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 22,
+"byteStart": 8
+},
+"features": [
+{
+"uri": "https://openai.com/pricing",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "See the OpenAI pricing page"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 51,
+"byteStart": 12
+},
+"features": [
+{
+"uri": "https://unsplash.com/photos/c53HvA-blYQ",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "Image from: https://unsplash.com/photos/c53HvA-blYQ"
+}
+}
+]
+}
+]
+},
+"description": "The plants in the Gardens by the Bay evoke a sense of flourishing-by-design; photo by Victor from Unsplash.",
+"publishedAt": "2023-03-30T00:00:00.000Z"
+}
+}

@@ -1,0 +1,50 @@
+---
+title: "Preventing the future"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2024
+date: 2024-10-22
+venue: "Programmable Mutter (Substack)"
+authors: "Henry Farrell"
+source_url: https://www.programmablemutter.com/p/preventing-the-future
+retrieved: 2026-08-13
+content: full-text
+notes: "Substack post id 150523389; free to all readers (audience: everyone). Retrieved via the Substack API (api/v1/posts/by-id). Images/captions and comments removed."
+---
+
+# Preventing the future
+
+*Why Ireland used not have one*
+
+## Full text
+
+Tom Garvin died last week. I expect that his name is unfamiliar to most of my readers. Paul Musgrave is the only non-Irish person I know who was familiar with him (he spent a year abroad at University College Dublin’s political science department, where Tom taught until he retired in 2008). I hadn’t seen Tom myself in over two decades. But I owe him a great deal. It was in my final year at University College Dublin that I took his course on nationalism, and was bitten and besmitten by the academic life. I had had a mediocre enough college career up to that point - muddling through without ever distinguishing myself - but was lucky that what really counted for my degree was how well I did in the final exams of my final year. I did far better than I deserved, and went to talk to Tom, who was department chair, about doing a Masters. It was the first time he’d particularly noticed my existence - but he had liked my exam answers on Ernest Gellner and Benedict Anderson, where I seemed to be thinking in the exam room - and he told me I ought do it. 
+
+Subscribe now
+
+I did - and then went to do my Ph.D. in the U.S. on Tom’s recommendation. You could go to Oxford or Cambridge, he said, but you wouldn’t get the same training. As it turned out, I was far less prepared for American political science than I had thought. I had fancied that political scientists could regularly have careers like Anderson, reading nineteenth century novels, coming up with grand, sweeping ideas expressed in magisterial prose, and getting paid for it. That turned out not to be quite the case. Still, I’ve been lucky and done fine, never completely fitting into the discipline I chose, but finding a space within it nonetheless. 
+
+The last time that I saw Tom - probably sometime around 2001-2002 - he reproved me for not having yet made a big splash (I thought I was doing grand - he wanted me to do better). I fell out of contact with him - building a new life in the U.S, consumed with kids and the usual - and never picked up again. I don’t know if he followed me after - the kinds of research and writing I ended up doing didn’t really overlap with his.
+
+But he was always a presence for me. His intellectual generosity and conversation had shaped me; so too his example. He had never fit in political science either, or more accurately, fit far better with its earlier incarnation when it overlapped with history and practical sociology. And with other things too - he had a great liking for literature, and an interest in the politics surrounding it (in my Masters, he’d let me write papers on Yeats’ aristocratic disdain for the ‘ungodly ruck of sweaty-headed swine’ whom he had to share a country with). Like me and my sister Maria (who he also fostered, a little later), Tom came from one of the families that had helped build the Irish Free State after the War of Independence. His father, an intelligent young man from an ordinary rural background, had become a senior civil servant. Garvin pere had been the superior of Brian O’Nolan (better known under his pen name, Flann O’Brien) and protected that great writer from being fired for many years. O’Nolan was a hard man for the drink, and only irregularly attached to his official duties.
+
+Tom too drank more than he should have, like so many male Irish academics of his generation. He could regularly be found in the UCD bar from the early afternoon on. He could certainly hold his beer - his conversation was perpetually sharp and engaging - but I did sometimes wonder what marvels he would have been capable of under different circumstances. When I knew him, he’d written two well received books on 19th century Irish nationalism and was in the throes of writing his third, on 1922 and Ireland’s transition to independence. It was written for a broader Irish audience, and the next one, Preventing the Future, which came out a decade later, had a bigger audience still. Ireland had finally made the transition to a modern society and economy, but it had taken many decades - Tom wanted to know why. Others did too - the book made a splash in the Irish debate. Solid chunks of Diarmaid Ferriter’s new book on modern Irish history, which came out a couple of months ago, are clearly in dialogue with Tom’s arguments from two decades before. 
+
+Preventing the Future is the book that I want to talk about, and not just because I think it’s his most important. It is the one that is most relevant to the politics of the country where I now live. One faction of the U.S. right, associated with people like J.D. Vance, champions a strain of Catholicism that is strongly reminiscent of the Jansenist variety that dominated in Ireland during its decades of stagnation, and indeed is partly descended from it. There are books that hark back to Ireland as it was as a vision of what America might only be, if it embraced the true faith and the common good.
+
+Tom’s book is a potent antidote. He grew up in that Ireland (I myself only witnessed its dying throes). It describes a squalid, censorious, sometimes vicious country, despite the decency of many of its people, which was almost proud of its backwardness, governed by a tacit alliance between economic interests that preferred stagnation, and a Catholic church determined to hold back modernity as long as it possibly could. For those who didn’t fit with the ethos, who didn’t behave as it demanded, or were simply vulnerable to predation, it was a terrible place to live. The revelations that have poured out about the Irish Catholic Church since its moral collapse - Magdalen laundries, pervasive sexual abuse - give some sense of what it was like. People often had an implicit sense that some teacher, priest or Christian Brother was a bad sort - but gossip networks provided scant protection for those who weren’t able to distance themselves. 
+
+And it was the public abuses as well as the hidden ones. As Tom described it, the church controlled nearly all aspects of the education system (the partial exception was vocational education, which it resented, and alternatively sought to stifle and to bring under its control). The result was that children were educated less with an eye to providing them with skills and knowledge than to indoctrinate them, in the full expectation that very many would emigrate, since there was nothing for them at home. The universities too were stunted things. The Church took particular care to keep control of departments such as philosophy and political science where alien ideas might creep in to infect the young and perhaps take root.
+
+All this was reinforced by the power of settled interests to protect their interests against disruption. As Joyce’s couplet says: “Oh Ireland, my first and only love/ Where Christ and Caesar are hand and glove.” Tom’s diagnosis was center right, rather than center left, blaming unions as well as employers. But for him, the important desire was the desire to break free of stagnation. His book displays great sympathy for Sean Lemass and others who were inspired by Keynesianism and planning to try to break up the log jam. A willingness to press back against the system of mutually reinforcing interests; that was the thing, and a certain catholicity of approach and ideology was warranted.
+
+The Ireland I grew up in was the Ireland where this system was visibly decaying, and it collapsed when I was in college. I’ve previously described the day that it actually fell apart in 1992, a few years after the collapse of the Berlin Wall.
+
+In 1992 Eamon Casey, a prominent, media-friendly bishop, was discovered not only to have fathered a son, but to have maintained his son’s mother using church funds. The day the news broke, I met one of my professors, who had a sideline as a scrupulously evenhanded television host, wandering across campus in dazed delight. “It’s over,” he said. “They’ve lost.” He was right.
+
+The professor in question was Brian Farrell (also deceased), not Tom, and I bowdlerized the quote slightly (as I recall, the precise phrase was “the bastards have lost.” But he spoke for a generation of Irish writers and thinkers who had grown up and suffered under the old dispensation, including liberal Catholics like the historian Margaret McCurtain. While Ireland has seen some ugly politics since, there is no significant political party calling for a return to the old days. There are too many people alive who remember, or have heard stories, about what the old days were actually like.
+
+That’s not the case in the United States, where the Republican vice-presidential candidate appears attached to a variety of politics that does hark back to a “common good conservatism” where the commoners ought be told what was good for them. I finished re-reading Preventing the Future a few months ago, because it seemed to me the best description of the best plausible outcome if that faction wins, and has any opportunity to set its agenda in motion. I say “best plausible outcome” because Ireland back then was, for all its faults, a thoroughly democratic country, where most people publicly subscribed to conservative Catholic values, whatever their private lapses. It didn’t have to be imposed upon them by force. Furthermore, it was lucky enough to have a relatively uncorrupted state, with a professionalized civil service. Its squalor and stagnation were the by-product of its popular ethos and gerontocratic political ineptitude. Things are likely to be different and much, much worse if this faction wins in the U.S. 
+
+Subscribe now

@@ -1,0 +1,31 @@
+{
+ "did": "did:plc:a3h6mkohqeiu6xl4fnrwuk4t",
+ "handle": "himself.bsky.social",
+ "displayName": "Henry Farrell",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a3h6mkohqeiu6xl4fnrwuk4t/bafkreigxz2mgbi2va5dojvbks3t3lq2s4ldpliono262wud4lmefcc5t5q",
+ "associated": {
+  "chat": {
+   "allowIncoming": "none",
+   "allowGroupInvites": "none"
+  },
+  "activitySubscription": {
+   "allowSubscriptions": "followers"
+  }
+ },
+ "labels": [],
+ "createdAt": "2023-05-01T02:33:00.935Z",
+ "verification": {
+  "verifications": [
+   {
+    "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+    "issuerDisplayName": "Bluesky",
+    "issuerHandle": "bsky.app",
+    "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lzb6pt7nto2g",
+    "isValid": true,
+    "createdAt": "2025-09-20T10:37:16.713Z"
+   }
+  ],
+  "verifiedStatus": "valid",
+  "trustedVerifierStatus": "none"
+ }
+}

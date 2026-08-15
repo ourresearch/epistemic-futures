@@ -1,0 +1,41 @@
+---
+title: "'Explainer journalism' can do a better job at explaining"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2014
+date: 2014-09-29
+venue: "The Monkey Cage (The Washington Post)"
+authors: "Henry Farrell"
+source_url: https://goodauthority.org/news/explainer-journalism-can-do-a-better-job-at-explaining/
+retrieved: 2026-08-13
+content: full-text
+notes: "Post from The Monkey Cage, retrieved from the Good Authority archive (goodauthority.org), which hosts the complete Monkey Cage back catalogue; themonkeycage.org itself is offline. Text spot-verified against Wayback captures of the original themonkeycage.org pages (100% word coverage on 3 checks). Legacy Textile link markup surviving the WordPress migration was converted to markdown links. The Good Authority archive carries this post twice (duplicate import under slug 'explainer-journalism-can-do-a-better-job-at-explaining-2'); kept once."
+---
+
+# ‘Explainer journalism’ can do a better job at explaining
+
+## Full text
+
+Protesters gather to listen to speeches in the streets outside the Hong Kong Government Complex on Sept. 29, 2014, in Hong Kong. (Chris McGrath/Getty Images)
+Update: It has become apparent that explainer journalism on explainer journalism also needs to do a better job at explaining. Ezra Klein has emailed me to say that the quoted text about the “realm of possibility” was in the original published version and was not, as I said, a later correction that sought to dilute down the original claim. My sincere apologies for this embarrassing error. This said, the original article had a Vox blurb making the strong claim that “[t]he symbol of protest has spread from Missouri halfway around the world.” This post also appears to have been taken up by some readers as a specific attack on Vox.com, rather than a broader discussion of general problems faced by explainer journalism, including (as noted) my own work. This is, to put it mildly, a misreading.
+
+Sunday, Max Fisher wrote a [story](http://www.vox.com/2014/9/28/6860493/hong-kong-protests-mike-brown-ferguson) for Vox.com arguing that the ‘hands up don’t shoot’ gesture had spread from protests in Ferguson to the pro-democracy demonstrations on the streets of Hong Kong. However, another [writer](http://qz.com/272630/hands-up-dont-shoot-comes-to-hong-kongs-pro-democracy-protest-movement/) at Quartz.com, who has actually interviewed protesters, says that this is wrong. The evidence seems to show that the gesture had probably not in fact ‘spread’ as Fisher and other commentators believed. Instead, the activists organizing the protests appear to have independently chosen to hold their hands up to emphasize their peaceful intentions to police. This led to a corrected post on Vox, which now argues:
+
+Still, Hong Kongers pride themselves on being plugged in to the world, so it is within the realm of possibility that some of them followed the events in Ferguson and are now appropriating the gesture for their own use, even if only subconsciously.
+
+This theory is indeed within the realm of possibility. However, it is a very weak explanation of what is happening on the ground in Hong Kong. There is a strong alternative explanation which seems (at least given the currently available evidence) to explain the observed facts much better. Moreover, the Vox explanation is nearly impossible to prove or disprove. ‘Subconscious influence’ is, almost by definition, extremely difficult to measure or test.
+
+To be clear, Fisher’s theory of how the gesture spread wasn’t obviously stupid or incorrect. The problem was that, like many initially plausible hypotheses, it appears to have been wrong.
+
+This raises some broader issues for ‘explainer journalism’ – an enterprise that includes not only Vox.com, but our own blog, The New York Times’s The Upshot, 538.com and other smaller sites, too. All of these sites have built their core identity around explaining complicated issues or situations to a well-informed general public. This means that they (and again: that they includes the Monkey Cage, too) are asserting a a claim to expertise. Specifically, they are claiming that their writers understand an issue on a sufficiently deep level that they can explain it. Conventional journalists can quote outside experts and hedge their bets a little by riding on the coattails of these experts’ authority and blaming them if their theories are wrong. Explainer journalism rests instead on the authority of the person doing the explaining.
+
+The problem with this is twofold. First, the explainers are sometimes going to get things wrong. This is especially likely in international politics, where the explaining journalist is supposed to have expertise in far more countries and far more issues than any human being can possibly know much about. Second, the explainer is going to have difficulty in admitting that he or she has gotten something wrong. If your authority and livelihood as a writer rests on your supposed ability to explain, you are not going to want to admit that you got things seriously wrong, even if you did.
+
+Rather than responding to failure by watering down one’s initial claim to the point that it becomes meaningless, explainer journalism needs to change its implicit claim to authority. Specifically — like social science — it needs to think about how evidence doesn’t show that this or that claim is true. Instead, evidence supports (or doesn’t support) the hypothesis that this or that claim is true.
+
+This doesn’t mean that explainer journalism needs to adopt the leaden prose and formulaic caveats of the average academic article. But even when it is making strong and interesting claims, it should set out the evidence supporting the claims, talk about alternative explanations, and give the reader some sense of why the major claim (rather than a competing claim) seems the most plausible. In other words, it needs to build a sense of the explainer’s own fallibility into the argument, and give the reader some of the necessary tools to assess the claims herself. This would both help explainer journalism avoid trouble when it makes mistakes and leave the reader better informed.
+
+For example, an article on the way that protesters in Ferguson and Hong Kong both used the ‘hands up’ signal could talk about how protesters indeed sometimes take symbols or techniques from previous protests and adapt them for their own purposes. An academically inclined piece might look to the work of Sidney Tarrow and his colleagues on protests and framing devices, as well as to the ideas of Marc Lynch, Zeynep Tufekci and others. The piece might also note that protesters might do the same thing as previous protesters even when they are not imitating them, because human beings, when they are trying to solve similar problems, may independently come up with similar solutions. If it wanted to get super fancy, it could talk about the problems that social scientists face in [figuring out when copying is happening](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328971/), but that would probably be too deep in the weeds for any other explainer site than this one.
+
+As already noted, Vox.com is not the only site that has to think hard about how to improve explainer journalism. We and other sites face exactly the same challenge (I know that if I went back through my own posts, I’d find a lot of assertions that were way more strongly worded than they should have been). Indeed, this may be a challenge that the Vox.com model is better suited to dealing with than many more traditional kinds of journalistic publishing. The Vox.com model of frequently updated ‘cardstacks’ could be adapted to allow writers both to lay out different hypotheses or understandings of a situation on different cards, and to show readers the updating process, in which one understanding turns out to be better than others, as new explainers supersede old ones. Indeed, social scientists — who are trying to [figure out how to deal with related problems](http://www.washingtonpost.com/blogs/monkey-cage/wp/2014/09/24/can-greater-transparency-lead-to-better-social-science/) in their own research could eventually learn from these new forms of journalistic presentation how to up their own game (which certainly needs a lot of upping).

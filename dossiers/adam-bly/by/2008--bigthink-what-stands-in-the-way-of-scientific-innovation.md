@@ -1,0 +1,26 @@
+---
+title: "What stands in the way of scientific innovation?"
+person: adam-bly
+section: by
+type: interview
+year: 2008
+date: 2008-02-12
+venue: "Big Think"
+authors: "Adam Bly (interviewee); Big Think (interviewer)"
+source_url: https://bigthink.com/videos/what-stands-in-the-way-of-scientific-innovation/
+retrieved: 2026-08-13
+content: full-text
+notes: "Big Think publishes an official text transcript alongside each video, so this is text, not video (the video itself is also listed in video.md). Filmed while Bly was founder/editor-in-chief of Seed. bigthink.com serves a Cloudflare challenge to non-browser clients, so the page was retrieved through the r.jina.ai text-extraction proxy (https://r.jina.ai/https://bigthink.com/videos/what-stands-in-the-way-of-scientific-innovation/); the transcript text is Big Think's own. Big Think's transcripts contain underscore runs (e.g. '__________') where the transcriber could not make out a word — those are in the source, not damage from extraction."
+---
+
+# What stands in the way of scientific innovation?
+
+## Full text
+
+_**Question: What stands in the way of scientific innovation?**_
+
+**Adam Bly:** I think the United States has suffered from an anti-scientific presidential administration for the last seven years. I think that we’ve seen a war on science, in the words of our Washington correspondent Chris Mooney, that has had devastating consequence on America; on the American dream; on the perception of America in the world; on the competitiveness of the United States; on the U.S. economy; on every possible facet of American life. I think when you disregard science, you are at risk of damaging some of the great strengths of a modern society. And so I think that part of the reforms that need to take place in the United States right now are, in fact, to elect a president – Democrat or Republican – who recognizes the importance of science to the future of America. One presidential candidate very recently just gave a major policy speech on that a few days ago. And so I think that what we’re starting to see is a return of reasoned inquiry; of rational inquiry; of evidence-based decision making; of the kinds of values that science brings to the table to Washington. It’s a function now of whether Americans elect a leader who believes that or not and elevates science to even places that it has been previously in the United States in both Democrat and Republican administrations. This is a non-partisan or post-partisan issue. Science is not for one side at all. And so I think that reform in the United States, the greatest barrier to scientific renaissance, scientific innovation is President Bush. And that’s, you know . . . that’s a few days away.
+
+I think globally it is about starting to see the disruptors working against science. But I think there are a lot of things going for science right now. More than anything else they’re greater . . . There are far more enablers for scientific renaissance and scientific innovation in the world than there are disruptors. That’s kind of why the net effect is a greater rise in the scientific culture in the world today. I think the fact that the African Union came together this past year, and their leadership summit in Ethiopia was focused on science for Africa’s development; I think the fact that China’s premier and president both have spoken publically about the importance of science for economic and social development in China bodes incredibly well for the future of science. I think the fact that India has put a substantial emphasis on science is exciting. I think that the new leadership in Europe right now – one who in Germany is in fact a physical chemist by training – bodes very, very strongly for the state of science in Germany and elsewhere in the European Union. I just came back from Japan, and there is certainly no shortage of cultural emphasis and social emphasis on science in Japan. So I think in many, many, many parts of the world, we are seeing the great rise of science and of a scientific culture. It’s . . . It’s kind of unfortunate that the United States has just not been part of that for the last few years, but the world is moving ahead. And if anything, part of the challenge is to U.S. kind of dominance in the world may in fact be whether or not it rekindles that kind of “change the world” spirit that is characteristically American; and that has, in many cases in history, come out of science and innovation or not. And I think this is fairly binary right now. I think that we’re at a moment in time where this is about progress or not. But at the same time I’m deeply optimistic and deeply enthusiastic about what I see when I travel around the world. Science is reaching a point where it is the topic of conversation on the world stage. I know that, you know, at one upcoming meeting of world leaders early next year that takes place regularly, science will be a much more substantial focus of global dialogue – of multi-state ___________ dialogue than ever before. So there are significant steps being taken now to . . . that reflect this, you know, increased discussion about science at sort of the leadership stage in the world.
+
+**Recorded on: 10/17/07**

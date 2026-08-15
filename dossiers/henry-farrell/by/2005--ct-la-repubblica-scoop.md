@@ -1,0 +1,38 @@
+---
+title: "La Repubblica scoop"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2005
+date: 2005-10-25
+venue: "Crooked Timber"
+authors: "Henry Farrell"
+source_url: https://crookedtimber.org/2005/10/25/la-repubblica-scoop/
+retrieved: 2026-08-13
+content: full-text
+notes: "Crooked Timber post id 3980; retrieved via the site's WordPress REST API (wp-json/wp/v2/posts). Comments not included."
+---
+
+# La Repubblica scoop
+
+## Full text
+
+As various bloggers have noted, the Italian paper _La Repubblica_ seems to have a scoop on the sources of the famous forged Niger documents, and the role played by the Italian intelligence services. Laura Rozen has a summary article in the Prospect, but there’s some additional detail in the original article. For the benefit of non-Italian readers, I’ve done a quick translation of the relevant bits and put it below the fold. Two health warnings. First – this is a rough and ready translation – I’m not a professional, and there may well be a few inaccuracies (please point them out in comments if you spot them). Second, _La Repubblica_ is, as Italian newspapers go, a trustworthy publication – but like all Italian newspapers, it’s surrounded by a swirl of politics and special interests. I’m obviously not in a position to attest to the veracity of its claims – but at the least, they’re very interesting.
+
+For Niccolo Pollari, the director of SISMI, the rules of his job are unambiguous. He told _La Repubblica_, “I am the director of intelligence, and my only institutional interlocutor, after September 11 in Washington DC is the head of the CIA, George Tenet.” It’s obvious that I only talk with him …” But is it really true that our spies [barbefinte] have worked only with the CIA? Or have they also supported the parallel clandestine intelligence services created by Dick Cheney and Paul Wolfowitz with the “Iraq Group,” the Office for Special Plans of the Pentagon, and the office of the National Security Adviser, which were absolutely determined to find useful evidence for ‘regime change’ in Iraq?
+
+It’s a fact that on the eve of the Iraq war, and under the supervision of the diplomatic advisor to the Foreign Ministry, Gianni Castellaneta (today ambassador to the USA), the director of SISMI organized his agenda in Washington with the staff of Condoleeza Rice, who was National Security Adviser to the White House at that time. _La Repubblica_ is able to document this two track process between the government and Italian intelligence. At least one of these ‘barely official’ [molto poco istituzionali] meetings of Pollari’s was, according to secret service agents, the ‘creation of a system’ that would bring together government, intelligence and public affairs [informazione].
+
+To summarize: Nicolo Pollari’s SISMI wanted to substantiate the [case for] the Iraqi acquisition of raw uranium to build a nuclear bomb. The game-plan was rather transparent. ‘Authentic’ documents relating to an attempted acquisition in Niger (old Italian intelligence from the 1980’s) were the dowry of the second-in-command of CISMI’s center in Rome (Antonio Nucera). They were bundled together with other fabricated documents … through a simulated burglary on the Nigerien embassy (from which they had gotten headed notepaper and seals). The documents were shown by Pollari’s men to CIA station agents, and at the same time, a SISMI ‘postman’ by the name of Rocco Martino was sent to Sir Richard Dearlove of MI6 in London.
+
+turning to the second chapter of the Great Swindle, organized in Italy, to build the case that military intervention in Iraq was necessary. … the Italian report on uranium …
+
+… The CIA analysts thought the first report ‘very limited’ and ‘without the necessary details.’ INR analysts in the Department of State assessed the information as ‘highly suspect.’ … The immediate impact on the American Intelligence community wasn’t very gratifying for Pollari … Gianni Castellaneta advised him to look in ‘other directions’ too, while the minister of Defence, Antonio Martino invited him to receive ‘an old friend of Italy’s.’ The American friend was Michael Ledeen, an old fox in the ‘parallel’ intelligence community in the US, who had been declared an undesirable person in our country [Italy] in the 1980’s [editorial note – I understand that this claim was contested when it was made by Sidney Blumenthal]. Ledeen was at Rome on behalf of the Office of Special Plans, created at the Pentagon by Paul Wolfowiz to gather intelligence that would support military intervention in Iraq. A source at Forte Braschi told _La Repubblica_ : “Pollari got a frosty reception from the CIA’s station head in Rome, Jeff Castelli, for this information on uranium. Castelli apparently let the matter drop [lascia cadere la storia]. Pollari got the hint and talked about it with Michael Ledeen.’ We don’t know what things brought Michael Ledeen to Washington. But at the beginning of 2002, Paul Wolfowitz convinced Dick Cheney that the uranium trail intercepted by the Italians had to be explored top to bottom. The vice-president, as the Senate Select Committee on Intelligence tells it, once again asked the CIA ‘very decisively’ to find out more about the ‘possible acquisition of Nigerien uranium.’ In this meeting, Dick Cheney explicitly said that this piece of intelligence was at the disposition of a “foreign service.”
+
+… Forte Braschi says that “Pollari was incredibly cunning – he knew that it wasn’t enough to rely on the CIA to push the uranium story. It was necessary to work, as Palazzo Chigi and the Department of Defence had indicated, with the Pentagon and with the National Security Adviser, Rice. … An administration official has told _La Repubblica_ “I can confirm that on September 9 2002, General Nicolo Pollari met Stephen Hadley, the deputy to the National Security Adviser, Condoleeza Rice.”… SISMI’s ‘postman,’ Rocco Martino contacted a journalist for a weekly newspaper – edited by Carlo Rossella – to sell her the documents at issue. … Panorama had a worldwide scoop. Title “The War? It’s already begun,’ it spoke of ‘half a ton of uranium.” … The government asked. The intelligence service gave. The media spread it. The government confirmed it. It was an old disinformation technique from the Cold War. Exaggerate the danger of the threat. Terrify and convince public opinion of it. 
+
+… Having thus prepared his ground, Pollari could concentrate on another essential aspect of his stratagem. Promoting SISMI and himself, extracting the proceeds of his secret labour over a year. … After returning from his secret meeting with Hadley, Pollari sought a hearing from the parliamentary committee that oversees the secret services. There were two hearings. In the first, the director of SISMI maintained “We don’t have documentary evidence, but we do have information that a central African state has sold pure uranium to Baghdad.” Thirty days later, Pollari said, “We have documentary evidence of the acquisition of natural uranium by Iraq in a central-African republic. …”
+
+On leaving the Parliament, Pollari still had the problem of how to convey the fake document to Washington without leaving any of his fingerprints. … The SISMI ‘postman,’ Rocco Martino, who had already knocked on MI6’s door, contacted the Panorama correspondent, Elisabetta Burba, and tried to sell her the document. … Burba correctly checked the information in Niger … she concluded that the story didn’t stand up. … But … the editor of the weekly, Carlo Rossella, enthusiastic that he might have found, as his staff describe it, a ‘smoking gun,’ sent her with the document to the American embassy, as the ‘highest source for verification.’ 
+
+Update: for a complete translation go here

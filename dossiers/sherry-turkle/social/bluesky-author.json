@@ -1,0 +1,13 @@
+{
+ "did": "did:plc:qrmqs7nwiu45g42cdpn37bjk",
+ "handle": "sturkle.bsky.social",
+ "displayName": "Sherry Turkle",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qrmqs7nwiu45g42cdpn37bjk/bafkreidxk432r6lvki2tyvtkcoogfr2dzi3h6mk6luwzaskp4cpqf5jrjy",
+ "associated": {
+  "activitySubscription": {
+   "allowSubscriptions": "followers"
+  }
+ },
+ "labels": [],
+ "createdAt": "2025-03-05T18:54:39.045Z"
+}

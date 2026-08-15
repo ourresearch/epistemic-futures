@@ -1,0 +1,46 @@
+---
+title: "Academic Freedom: Some Propositions"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2008
+date: 2008-04-22
+venue: "Crooked Timber"
+authors: "Henry Farrell"
+source_url: https://crookedtimber.org/2008/04/22/academic-freedom-some-propositions/
+retrieved: 2026-08-13
+content: full-text
+notes: "Crooked Timber post id 6852; retrieved via the site's WordPress REST API (wp-json/wp/v2/posts). Comments not included."
+---
+
+# Academic Freedom: Some Propositions
+
+## Full text
+
+I suspect that I disagree with Eric (and very likely other CTites) on how we should think about academic freedom. To clarify this (and also to figure out better for myself why I think what I think), some propositions below.
+
+(1) Academic freedom is not a right. I can’t see any good reason why we might think that academics _qua_ academics bear more or different rights than other rights-bearing subjects. Sometimes academics talk about academic freedom _as if_ it were a right – but I haven’t seen anything approaching a good argument to justify this quasi-claim, nor do I think there is one.
+
+(2) As a result of (1), whatever arguments we make for the protection or extension of academic freedom should start from pragmatic considerations, not rights. What benefits flow from academic freedom for society? The usual (and in my opinion quite convincing) pragmatic case to be made for academic freedom goes as follows – that by allowing a group of individuals to engage in wide-ranging debate about a wide variety of subjects, subject only to the norms of their particular disciplines, we may expect substantial material and non-material benefits to flow to society as a whole. Here, the claim is that we need a space in society where people engaged in expert disciplines can freely debate their ideas without any fear of losing their job, in order to generate a variety of pragmatic social benefits, not least of which are (a) scientific advancement, and (b) the broader improvement of broader public debates. Note, however, that as a pragmatic claim, this only works if the causal story that it invokes is, in fact, correct.
+
+(3) Following (2), we can define academic freedom better. As an institution or set of institutions, academic freedom is best considered as a form of delegated self-regulation, along the lines of other professions that have some self-regulatory capacities, such as medicine. Here, I borrow from a simplified notion of Jack Knight and Jim Johnson’s notion of democratic deliberation as a second order means of choice.1 We may imagine that there are many spheres of life where we don’t want to engage in deliberation all the time, because governing these spheres through deliberation would be inefficient, would require expert knowledge that most people don’t have etc. 
+
+We don’t, for example, want to deliberate with the grocer about the appropriate prices for oranges every time we want to pick up twelve of them. However, even if we don’t want to deliberate over everything, we do want to deliberate over the means that are appropriate to different spheres – so that the decision to leave the price of oranges to market forces, to delegate decision making over telecommunications policy to a specialized authority etc, should be the product of democratic choice, and contingent on a continued democratic consensus that this form of delegation is appropriate. In this specific instance, we may reasonably imagine (at least as a first approximation) that reasonable deliberators might want to delegate a considerable deal of authority for the governance of the academy to academics themselves, reasoning that overt politicization of the academy is likely to limit the free flow of argument, and that political decision makers in any event will usually lack the technical knowledge to determine what makes for good or bad scholarship.
+
+(4) Even so, to the extent that academic freedom is the result of delegated self-regulation, academics carry a _burden of justification._ They need to be able convincingly to argue to the general public that a broad definition of academic freedom is, in fact, broadly beneficial _for that public_ and not just for academics themselves. Members of the public are entitled to treat academics with a moderate degree of skepticism when they make claims of this sort; after all, it may be difficult for academics to separate out their own self interest from the public good. Academics, if they are to justify their privileges of self regulation (for academic freedom is indeed a kind of privilege), need to be able to persuade the public that it is a good thing. Merely harrumphing about academic freedom without justifying it doesn’t cut the ice. 
+
+Some academics may reply that this call for public justification is unreasonable in a political climate where academics are the subject of irrational attack from a variety of critics. This is far from being a stupid argument – but I don’t see that the imperfections of our current form of democracy are any greater when it comes to discussions over academia than they are with regard to a whole host of other issue-areas which (I suspect) most academics believe should be subject to democratic control, at least in the final analysis along the lines suggested above.
+
+(5) It is difficult to cover cases like that of John Yoo under a pragmatically defensible account of academic freedom. The pragmatic justification for academic freedom, as I see it, is that it allows academics to argue about a variety of issues without worrying too much about whether they will lose their jobs for expressing unpopular ideas. If John Yoo were to lose his job for having written the torture memos for the US government, I can’t see how this free flow of argument and ideas within the academy would be hurt one whit. None of Yoo’s critics, to my knowledge, are arguing that he should lose his job for his ideas; rather that he should lose his job for actions that he took as a servant of the US government. Similarly, academic freedom wouldn’t apply, say, to academics in Europe in the 1960s and 1970s, who moved from espousing the ideas of radical left wing terrorist groups to actually helping them in material ways.
+
+(6) Nonetheless, John Yoo shouldn’t lose his job. As I’ve written before there are excellent pragmatic reasons why employers shouldn’t fire people for political activities that take place outside the workplace. A society in which individuals can be fired without cause is a society in which individuals will very reasonably fear that they will face retaliation if they engage in unpopular forms of political activity. 
+
+It seems to me that in the absence of (a) a determination from a court (not necessarily a US court) that Yoo is in fact guilty of criminal activities up to and including war crimes, or (b) a determination from the relevant bar association that he should be disbarred, that firing him would be to make the kind of judgment about his political activities that the University (or any employer) shouldn’t be in the business of making. I’ve seen some arguments suggesting that the quality of his legal advice to the USG was so bad that it constitutes grounds for firing – so far, I’m not convinced (although I’m not closed to persuasion). Note, anyway that my argument against firing him _doesn’t appeal to academic freedom._ Instead, it appeals to a more general norm – that people, whether they be academics or non-academics shouldn’t be fired for legal political activities that they undertake outside the workplace. 
+
+(7) More an aside than anything else – much of the discussion about Yoo’s case dithers between vague appeals to academic freedom, and specific discussions of the nature of Yoo’s contractual arrangement with the University of California at Berkeley. Strictly speaking, debates over academic freedom that turn on detailed discussion of the ins and outs of Yoo’s (or any other academic’s) contract are yer bum. The relevant question is: if Berkeley found a loophole in Yoo’s contract tomorrow that allowed them to fire him for writing the torture memos, and used this loophole, would we consider this to be a breach of academic freedom or not? 
+
+I’ve argued that this would not be a breach of academic freedom, but that it would be a breach of the broader norm that we shouldn’t fire people for their political activities. But while we may (and, I think, should) try to instantiate both of these norms in contracts and in laws, they shouldn’t be limited to situations where those contracts or laws clearly apply. Otherwise, academic freedom would effectively be limited to a minority of the professoriate (those with tenure, or at a pinch with tenure-track jobs), while work freedoms would be limited to those lucky individuals who live in states that have some approximation of “for cause,” or who work for employers who have granted them these rights.
+
+So there you are. Am open to disagreement and correction on any and all of this, but think it’s no harm to clarify exactly where I am coming from when I opinionate about these topics.
+
+1 Without implying that either Jack or Jim would necessarily agree with this extension of their argument – as best as I can tell, they wouldn't.

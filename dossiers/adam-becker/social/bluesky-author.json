@@ -1,0 +1,35 @@
+{
+ "did": "did:plc:jwiu7iyac6pi3vzktwjxtkv2",
+ "handle": "alondra.bsky.social",
+ "displayName": "Alondra Nelson",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jwiu7iyac6pi3vzktwjxtkv2/bafkreia3axokjeatk4sktyvnsi6ikirdgr2wx3deun3y6z33k24dbzbjry",
+ "associated": {
+  "activitySubscription": {
+   "allowSubscriptions": "mutuals"
+  }
+ },
+ "labels": [
+  {
+   "src": "did:plc:jwiu7iyac6pi3vzktwjxtkv2",
+   "uri": "at://did:plc:jwiu7iyac6pi3vzktwjxtkv2/app.bsky.actor.profile/self",
+   "cid": "bafyreiclbthvn44lau4ytzfx6yb653swdspoatsmbbq2hojnrgqx4erebe",
+   "val": "!no-unauthenticated",
+   "cts": "1970-01-01T00:00:00.000Z"
+  }
+ ],
+ "createdAt": "2023-05-02T03:31:06.071Z",
+ "verification": {
+  "verifications": [
+   {
+    "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+    "issuerDisplayName": "Bluesky",
+    "issuerHandle": "bsky.app",
+    "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3m6hcnsmvmn2n",
+    "isValid": true,
+    "createdAt": "2025-11-25T12:09:40.527Z"
+   }
+  ],
+  "verifiedStatus": "valid",
+  "trustedVerifierStatus": "none"
+ }
+}

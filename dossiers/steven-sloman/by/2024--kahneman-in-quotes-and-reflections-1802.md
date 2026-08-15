@@ -1,0 +1,1192 @@
+---
+title: "Kahneman in quotes and reflections"
+person: steven-sloman
+section: by
+type: journal-article
+year: 2024
+venue: ""
+authors: "Brett Buttliere, Alexios Arvanitis, Michal Bialek, Shoham Choshen- Hillel, Shai Davidai, Tom Gilovich, Uriel Haran, Ángela Jiang-Wang, Qiao Kang Teo, Vojtěch Kotrba, Chengwei Liu, David R. Mandel, Gordon Pennycook, Tobias R. Rebholz, Michael Schulte-Mecklenbeck, Norbert Schwarz, Steven A. Sloman, Joakim Sundh, Cass R. Sunstein, Daniel Västfjäll, Mario Weick, Hal R. Arkes, Shahar Ayal, Ofer H Azar, Wilson Cyrus-Lai, Mandeep K Dhami, Vera Rita Ferreira, Helen Fischer, Guy Hochman, John Leaptrott, Talya Miron-Shatz, Rajeshwari Narendran, Shubham Pandey, Jyotirmaya Satpathy, Warren Tierney, Eric Luis Uhlmann"
+source_url: https://doi.org/10.31234/osf.io/m4c7f
+openalex_id: W4399431802
+doi: https://doi.org/10.31234/osf.io/m4c7f
+cited_by_count: 0
+retrieved: 2026-08-13
+content: full-text
+notes: "preprint version; OA: https://osf.io/m4c7f/download; full text via OpenAlex Content API (PDF, pdftotext extraction)"
+---
+
+# Kahneman in quotes and reflections
+
+## Abstract (from OpenAlex metadata)
+
+In this retrospective honoring the exemplary psychologist Daniel Kahneman (1934 - 2024), we present a curated selection of quotes from the academic community reflecting on his ideas. These submissions, gathered from a wide range of scholars, highlight Kahneman's contributions to fields spanning attention, judgment, decision-making, and well-being. From his exploration of cognitive biases to his ground breaking work on prospect theory, Kahneman's research revolutionized our understanding of human behavior and decision-making. Beyond his research, many of the quotes also emphasize Kahneman’s thoughts on what it means to be a behavioral scientist — focusing on a commitment to criticism, transparency, and adversarial collaboration; showcasing the dynamic nature of scientific inquiry across disciplinary divides; and highlighting his dedication to advancing the greater good. Together, these reflections paint a portrait of a visionary thinker whose theoretical and meta-scientific contributions have left an indelible mark on psychology and other social sciences.
+
+## Full text
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+1
+
+Kahneman in quotes and reflections: The psychology of intuitive judgment, adversarial
+collaboration, and what it really means to be a ‘behavioral scientist’
+
+Buttliere, Brett, University of Warsaw, Poland
+Arvanitis, Alexios, University of Crete, Rethymno, Greece
+Białek, Michał, University of Wrocław, Poland
+Choshen-Hillel, Shoham, The Hebrew University of Jerusalem, Israel
+Davidai, Shai, Columbia Business School, USA
+Gilovich, Thomas, Cornell University, Ithaca, NY 14850, USA
+Haran, Uriel, Ben-Gurion University of the Negev, Beer-Sheva, Israel
+Jiang-Wang, Ángela, Luxembourg Institute of Socio-Economic Research (LISER), Luxembourg
+Teo, Qiao Kang, National University of Singapore, Singapore
+Kotrba,Vojtech, J. E. Purkyně University,
+Liu, Chengwei, Imperial College London, UK
+Mandel, David, University of Waterloo and York University, Canada
+Pennycook, Gordon, Department of Psychology, Cornell University, Ithaca, USA
+Rebholz, Tobias R., University of Tübingen, Germany
+Schulte-Mecklenbeck, Michael, University of Bern, Switzerland
+Schwarz, Norbert, University of Southern California, Los Angeles, USA
+Shtudiner, Zeev, Ariel University, Israel
+Sloman, Steven, Brown University, Providence, USA
+Sundh, Joakim, Uppsala University, Uppsala, Sweden
+Sunstein, Cass, Harvard Law School, USA
+Weick, Mario, Durham University, Durham, UK
+
+Please make sure your quote has a page number
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+2
+
+Abstract
+In this first of the new series reflecting on exemplary psychologists, we honor Daniel Kahneman (1934 2024) by collecting reflections from contributors on their favorite quote or idea of Kahneman’s that is
+perhaps underappreciated or deserve more attention. These submissions, gathered from a wide range of
+scholars, highlight Kahneman's contributions to fields spanning attention, thinking fast and slow,
+judgment, decision-making, and well-being. From his exploration of cognitive biases to his
+groundbreaking work on prospect theory, Kahneman's research revolutionized our understanding of
+human behavior and decision-making. Beyond his research, many of the quotes also emphasize
+Kahneman’s thoughts on what it means to be a behavioral scientist, with quotes highlighting Kahneman’s
+commitment to well intentioned critical thought, transparency, and adversarial collaboration. The quotes
+also showcase the dynamic nature of scientific inquiry across disciplinary divides and highlight his
+dedication to advancing the greater good. Truly, a career worth reflecting on. Kahneman is thus a setting
+example for the first of this new series in Psychological Inquiry, which will reflect on the best of the past,
+to learn from them, and hopefully build a better future.
+
+Author note: The tribute/series was proposed by Brett Buttliere and directed by editor Igor Grossman. The
+contributors are listed in alphabetical order. Contributions were publicly invited and selected by Igor
+Grossmann, based on votes of anonymized submissions by the Editorial Board of Psychological Inquiry.
+The abstract was written by Igor Grossmann and Brett Buttliere. The contributions were arranged by Brett
+Buttliere. All authors proofed the document before it was finalized and submitted by Brett Buttliere.
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+3
+
+“I hope that more efficient procedures for the conduct of controversies will be part of my legacy.”
+(Kahneman, 2011, p. 277).
+To me, Professor Kahneman’s advocacy for "adversarial collaboration" stands out as one of his
+most notable and impactful contributions to science. It stands as a refreshing departure from what he aptly
+terms “angry science”, where opposing scholars engage in a competitive spectacle aimed at scoring points
+and undermining each other. Instead, adversarial collaboration promotes constructive discussion and
+cooperation among adversaries in the face of academic controversies, guiding them toward a shared
+pursuit of truth.
+At its core, this approach rests on three principles: first, a dedication to articulating each other’s
+perspectives in good faith; second, a joint effort to design studies that fairly test competing ideas; and
+third, a commitment to publishing the results regardless of the outcome. By necessitating the rigorous
+testing of hypotheses and transparency, adversarial collaboration reduces blind spots and biases and
+curtails questionable research practices. In doing so, it advances scientific inquiry, yielding more reliable
+and robust insights for all involved.
+Over the years, Professor Kahneman has engaged in adversarial collaborations with some of his
+fiercest opponents. Collaborations like those with Gary Klein have yielded nuanced insights into the
+boundary conditions of intuitive expertise, while others presented more challenges. Yet, even in cases
+where consensus was not achieved, these collaborations have sparked enriching discussions and
+contributed to scientific knowledge.
+In an era marked by escalating polarization and dwindling civility, the significance of adversarial
+collaboration is more pertinent than ever. By transcending theoretical divides and fostering constructive
+engagement, it serves as a beacon of hope for the advancement of science and the pursuit of truth. It is no
+surprise that Professor Kahneman, amidst his immense contributions, envisions adversarial collaboration
+as part of his illustrious legacy.
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+4
+
+Submitted by Qiao Kang Teo, Department of Psychology, National University of Singapore, Singapore
+“The unusually high openness to scrutiny may be annoying and even offensive, but it is a small price to
+pay for the big prize of restored credibility” (Kahneman, 2012, p.1)
+Embarking on an academic career, many of us dream of contributing to society and effecting
+positive change, inspired by luminaries like Newton and Einstein. These figures stand as monumental
+heroes, symbols of what we aspire to achieve. Their stories, not just their discoveries, fuel our ambition
+and pride in our work. Yet, when our research faces intense scrutiny, it can feel like a personal affront,
+threatening the very pride we've cultivated in our achievements.
+Kahneman's perspective offers a transformative realization: it's not the individual, but their
+contributions to the collective knowledge that truly matter. Newton and Einstein are revered not merely
+for their personas but for how their work propelled humanity forward, offering us a deeper understanding
+of the universe. Their legacy is not in their fame but in the societal advancements their discoveries
+enabled, reminding us that science thrives on collective progress rather than individual recognition. This
+realization demands we detach from our work. Accepting that our theories might be eclipsed by better
+ones is not a defeat but a contribution to the greater body of knowledge. In this process, the ego takes a
+backseat to the pursuit of truth.
+Kahneman also highlights the critical role of credibility in science. Our contributions gain
+significance only when the public, from the average Joe to Yehor and Chen, trusts in their validity. The
+pandemic starkly illustrated this; despite the swift development of vaccines, scepticism prevailed among
+many. To counter this, a portion of our ego must be sacrificed for the greater good, emphasizing that
+detachment from personal accolades is crucial for fostering trust and advancing society.
+Submitted by Michał Białek, Institute of Psychology, University of Wrcoław, Poland
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+5
+
+“I call it theory-induced blindness: once you have accepted a theory and used it as a tool in your thinking,
+it is extraordinarily difficult to notice its flaws. If you come upon an observation that does not seem to fit
+the model, you assume that there must be a perfectly good explanation that you are somehow missing”
+(Kahneman, 2011, p. 277).
+Thanks to Kahneman's work, we may have come to terms with our own cognitive biases.
+However, it is still disquieting when one considers the extent of their impacts on science. Consider the
+replication crisis: we were slow to acknowledge that our methods had flaws, and, even today, replication
+efforts remain poorly incentivized. We excel at coming up with justifications for our findings rather than
+questioning them. We tend to think, “there must be a reason they can’t be reproduced, but the effect still
+exists.” Combine this with overconfidence and confirmation bias, and you have a recipe for extremely
+stubborn minds that overlook evidence more rational minds would not.
+Initially met with lukewarm reception by psychologists and outright coldness by economists,
+Prospect Theory nowadays commands the respect that comes with a Nobel Prize. Economists are finally
+listening to behavioral scientists. However, despite hard-to-ignore evidence, it took years for the
+acceptance that expected utility theory might not accurately describe human behavior. We scientists must
+admit that we are reluctant to embrace change and update our beliefs. All of this makes scientific progress
+slow.
+Scholars are now identifying flaws in Prospect Theory. Sufficient time has passed for it to stir
+theory-induced blindness too, and I wonder if we will fall victim to the same cognitive biases. What
+makes me hopeful is that behavioral economics is a field born from challenging pre-existing theories.
+Could this be optimism bias? Perhaps. Yet, even Kahneman, a natural pessimist, has acknowledged that
+optimism takes you places too.
+Submitted by Ángela Jiang-Wang, Luxembourg Institute of Socio-Economic Research (LISER),
+Luxembourg.
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+6
+
+"This true story [about flight instructor] illustrates a saddening aspect of the human condition. We
+normally reinforce others when their behavior is good and punish them when their behavior is bad. By
+regression alone, therefore, they are most likely to improve after being punished and most likely to
+deteriorate after being rewarded. Consequently, we are exposed to a lifetime schedule in which we are
+most often rewarded for punishing others, and punished for rewarding." (Kahneman &Tversky, 1973, p.
+251)
+Kahneman and Tversky's 1973 paper not only challenges intuitive predictions with the
+representativeness heuristic but also illuminates the common oversight of regression-to-the-mean, a
+principle vividly illustrated through Kahneman's conversation with a flight instructor. This concept, while
+statistically fundamental, reveals unsettling truths about human judgment and superstitious learning.
+The implications of ignoring regression-to-the-mean are widespread and documented in
+subsequent studies. For instance, firms celebrating their leaders as 'Best CEOs' often witness a decline in
+performance following their accolades. Sports teams that replace their coaches due to poor performance
+frequently see an uptick. The performance changes are not necessarily due to CEOs becoming complacent
+or new coaches saving the day but to statistical regression from high or low performances.
+Despite compelling evidence, the allure of causal narratives often overshadows
+regression-to-the-mean. This tendency to seek explanations beyond randomness reflects a deep-seated
+human need, even in the face of contrary evidence. However, the increasing interest in
+regression-to-the-mean, according to Google Trend, notably since Kahneman's "Thinking, Fast and
+Slow," suggests a growing appreciation for statistical principles in understanding human behavior and
+decision-making. This gradual shift towards acknowledging statistical regression's role offers hope for
+more informed interpretations of success, failure, and the dynamics of change. The power of the idea
+prevails over the regression of regression-to-the-mean.
+Submitted by Chengwei Liu, Imperial College London, UK
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+7
+
+“The illusion that we understand the past fosters overconfidence in our ability to predict the future”
+(Kahneman, 2011, p. 212).
+Daniel Kahneman holds the title of being my “academic grandfather.” I had the honor of being
+supervised during my doctoral thesis by Bradley Ruffle, who was mentored by Kahneman during his time
+at Princeton University. The extent of Kahneman's impact on research can be measured by the multitude
+of citations his work has garnered. Google Scholar records indicate that his papers and books have been
+cited a total of 530,146 times over the years.
+One of the concepts emphasized in Kahneman's research is overconfidence. Overconfidence may
+appear as a trivial and insignificant human weakness. Nonetheless, this quote from Kahneman's book
+"Thinking, Fast and Slow" underscores the significance of this concept: "The illusion that we understand
+the past fosters overconfidence in our ability to predict the future".
+Before the research conducted by Kahneman and his co-author Amos Tversky, economic models
+were predicated on the assumption of "rational actors," meaning that individuals' financial decisions were
+believed to be made rationally to maximize personal profits as much as possible. Kahneman and Tversky
+demonstrated that this assumption is not entirely accurate and that various influences, sometimes
+challenging to predict, play a role in our decisions.
+Another example is provided by economic forecasts, which frequently depend on historical
+economic data and models to anticipate future economic conditions, covering aspects such as GDP
+growth, inflation rates, and unemployment levels. Relying excessively on past economic trends can lead
+to overly optimistic or pessimistic forecasts, potentially resulting in policy errors and missed opportunities
+for intervention.
+Submitted by Zeev Shtudiner, Economics and Business Administration Department, Ariel University,
+Ariel, Israel
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+8
+
+“The affect heuristic is an instance of substitution, in which the answer to an easy question (How do I feel
+about it?) serves as an answer to a much harder question (What do I think about it?)” (Kahneman, 2011, p.
+1).
+Affect and emotion were central to Danny Kahneman's work, from his early studies on attention
+and effort, the development of Prospect Theory (initially intended to be called Regret Theory), to the
+heuristics and biases program, the discovery of the peak-end rule, his research on hedonic well-being, and
+ultimately to the concept of “System 1”. Yet, Kahneman never explicitly labeled any of the effects he
+studied as the “affect heuristic”; instead, his longtime friend and collaborator, Paul Slovic, coined the
+term. I’d like to believe that this is because Kahneman treated affect as integral to many of the problems
+he explored throughout his career. As the quote above suggests, Kahneman regarded the affect heuristic as
+one of the all-purpose heuristics (along with representativeness and availability), and perhaps the best
+example of attribute substitution, where affect (the associated attribute) tends to be more accessible and
+salient than most target attributes. The substitution of the target attribute with affective feelings often goes
+undetected by System 2, thus exerting a significant influence on many of our everyday judgments and
+decisions. This substitution process can be heuristic and mostly helpful, but at times it biases behavior.
+Therefore, it might be fitting to consider the role of affect in judgments and decisions as 'affect, good and
+bad'. Kahneman's work has been central in advancing our understanding of the interplay between affect
+and cognition in judgments and decisions, and its implications for behavioral interventions and public
+policy. When I read and teach about Kahneman, I see affect everywhere in his work. I like to believe that
+Danny would have agreed.
+Submitted by Daniel Västfjäll, Department of Behavioral Sciences and Learning, Linköping University,
+Linköping, Sweden; Decision Reseach, Eugene, Oregon, USA
+“Nothing in life is as important as you think it is when you are thinking about it” (Kahneman, 2011b, p.
+1).
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+9
+
+This statement is about what Daniel Kahneman calls “the focusing illusion”: the idea that some
+aspect of life is a major contributor to well-being, which often turns out to be an illusion, created because
+you are focusing on that aspect of life on the time. Consider, for example, the question whether you would
+be happier living in Miami or instead Chicago. If you focus on weather, you might think that you would
+be happier in Miami; it’s much warmer there. But for most people, weather has little or no impact on
+happiness. Most of the time, people’s happiness is a product of numerous other things: their relationships,
+their work, their wealth, their health. If you are thinking about weather, a car, or a restaurant, you will
+likely exaggerate its impact on your well-being.
+Kahneman was keenly interested in attention, and his work on the focusing illusion was
+connected with that interest. Hedonic forecasting errors may well be a product of the focusing illusion.
+You might wrongly think that some change – a new job, a new city – will have a large effect on your state
+of mind, simply because you are focusing on that change.
+Submitted by Cass Sunstein, Harvard Law School
+“Nothing in life is as important as you think it is while thinking about it.” (Kahneman, 2011b, p. 1).
+Danny often summarized the focusing illusion in the pithy format of a Chinese fortune cookie. It
+is an insight to heed in daily life: Many things seem extremely important and elicit intense feelings while
+we focus on them – and once attention moves elsewhere, importance, pain, and pleasure fade.
+Unfortunately, we rarely remember that insight when we need it most -- in thrall of what we focus on.
+Submitted by Norbert Schwarz, Mind & Society Center, University of Southern California, Los Angeles,
+USA
+[1] “The moment-based approach raises a question that should not be dismissed too lightly. How much
+time will be spent in such consumption of memories relative to the duration of the original experience?
+The weight of memory relative to actual experience is likely to be reduced when time is taken
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+10
+
+seriously….” [2] “Because memories and stories of the past are all we ultimately get to keep, memory and
+stories often appear to be all that matters….” [3] “Although wholly devoid of permanence, the
+experiencing subject deserves a voice.” (Kahneman, 2000, p. *)
+Many know that Daniel Kahneman described himself as the grandfather of behavioral economics,
+but perhaps few know that he also regarded himself as the intellectual grandson of Kurt Lewin, the father
+of social psychology. At least, that was how he described himself in our final correspondence in 2022.
+Danny’s self-description reflects keen self-insight for much of his work indeed reveals a deep
+appreciation of Lewinian tension systems. His exploration of experienced utility provides a poignant
+example. As many know, Danny drew an important distinction between moment utility, the utility
+experienced in discrete time slices of the moving present, and remembered utility, the utility we
+reconstruct looking back on hedonic experiences. But, as Quote 1 reveals, he went much further,
+encouraging us to grapple with the psychological tension between these irreconcilable perspectives and
+with how much weight each should receive. He eschewed oversimplification, acknowledging as Quote 2
+suggests, that weight must also reflect qualitative considerations, such as the value of meaning imbued in
+episodic memory. Yet in true dialectical style, he returns to the tension, imploring us in Quote 3 to give
+voice to the perspective of the fleeting underdog. Let’s remember that the grandfather of behavioral
+economics was also a skillful neo-Lewinian practiced in the art of exposing psychological tension
+systems.
+Submitted by David Mandel, Department of Psychology, University of Waterloo, Canada; Department of
+Psychology, York University, Canada
+“Because people are limited in their ability to comprehend and evaluate extreme probabilities, highly
+unlikely events are either ignored or overweighted, and the difference between high probability and
+certainty is either neglected or exaggerated. Consequently, π is not well-behaved near the end-points.”
+(Kahneman, & Tversky, 1979).
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+11
+
+This is admittedly not the most inspiring or the most groundbreaking thing that Danny has ever
+written or said. Rather, it is simply a reiteration of an empirical fact and a brief explanation of how it is
+expressed in the context of Prospect Theory (subsequently restated for Cumulative Prospect Theory). I
+chose to emphasize this quote, not because it is an important aspect of the theory (although it is), but
+because I think it illustrates an important point that we should all bear in mind when looking back at
+Danny’s work.
+Because, hand over heart, how many of us actually knows that π is not well-behaved near the
+end-points? I certainly did not, until I read the original paper. This is a risk we inevitably run into when a
+theory becomes as successful and as widely cited as Cumulative Prospect Theory; the basic components
+of the theory, in this case the statement that small probabilities are overweighted, are cited and referenced
+so often that we are led to believe that is the extent of what the theory implies. As such, we might end up
+believing that we ‘know’ the theory without even reading the original work, meaning that references to
+the theory might become watered down, simplified, or simply incorrect. This is not just bad for research,
+it is also disrespectful to the original authors. Danny left behind a treasure trove of excellent research. We
+owe it to him to treat this inheritance with respect, by reading the original works and representing them
+properly.
+Submitted by Joakim Sundh, Department of Psychology, Uppsala University, Uppsala, Sweden
+“The mathematical psychologists who participated in the survey not only should have known better—they
+did know better. Although their intuitive guesses were off the mark, most of them could have computed
+the correct answers on the back of an envelope.”
+In their 2002 paper that reconceptualized (most) judgment heuristics as the product of “attribute
+substitution,” Kahneman and Frederick described the failure of members of the Mathematical Psychology
+Society to give sufficient weight to sample size when making statistical estimates. Their words, in turn,
+capture a key finding from the heuristics and biases program of research: that many of our most common
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+12
+
+errors of judgment result, as the economist Matthew Rabin put it, “not because the right answers are so
+complex…[but] because the wrong answers are so enticing” (Rabin, 2013). That perspective is important
+because it has proven to be unusually effective in disarming frequently-encountered objections to
+Kahneman and Tversky’s research: “People aren’t that stupid” or “Things are different in the real world
+where the stakes are higher than in the lab.” Tellingly, even those who raise such objections will confess
+to having whatever rational analysis they might have conducted in response to some challenging problem
+beaten to the punch by a compelling intuitive assessment. More broadly, Kahneman and Frederick’s
+words also highlight the utility of the two systems perspective on judgment and decision making, even to
+those critics who take a dim view of such an approach. Although critics offer several reasons for their
+skepticism (parsimony among them), even two-systems skeptics often find themselves using two systems
+language. Indeed, I wish I had a dollar for every time I’ve heard a behavioral scientist say, “I don’t believe
+in the two-systems idea, but…”
+Submitted by Thomas Gilovich, Department of Psychology, Cornell University, Ithaca, NY 14850
+“In his consideration of evidence, man is not a conservative Bayesian, he is not Bayesian at all.”
+(Kahneman, & Tversky, 1972).
+In 1972, Kahneman and Tversky concluded (p. 450), “In his consideration of evidence, man is not
+a conservative Bayesian, he is not Bayesian at all.” Looking beyond the sexist language of the time, this
+sentence, uttered more than 50 years ago, was a plea to recognize the limitations of humanity, a step
+helpful in overcoming those limitations. The brilliance of Kahneman and Tversky was to show, in the
+most direct and unassailable ways, not that people are inherently irrational (irrationality depends on one’s
+goals and can be overcome), but that individual thinking deviates systematically from normative
+prescription. Not only did they demonstrate that people violate the most basic principles of good
+judgment but they revealed what the cognitive system is actually doing (following principles of similarity
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+13
+
+and availability in memory). To do the right thing, people need help. They need the help of normative
+theories, of other people, and of social institutions.
+When I look at what’s going on in the world, it could not be more obvious than that
+individuals—and some communities—have beliefs and behaviors that are (to put it mildly)
+counter-normative. I have never really overcome the shock that instead of taking Kahneman and
+Tversky’s insights as a starting point, many psychologists have instead insisted that we should use a
+rational analysis to model human behavior. It’s not that people are necessarily irrational; it’s that, if we are
+going to build a science of human behavior that provides a service to society, we need to recognize the
+way the system is built, how it is adaptive and how it is not. I take it as some justification for their project
+that the non-human systems that are most like humans—large-language models—are built from the same
+core principles as those identified by Kahneman and Tversky.Submitted by Steven Sloman, Cognitive and
+Psychological Sciences, Brown University, Providence, USA
+Submitted by Steven Sloman, Cognitive and Psychological Sciences, Brown University, Providence, USA
+“Irrational is a strong word, which connotes impulsivity, emotionality, and a stubborn resistance to
+reasonable argument. I often cringe when my work with Amos is credited with demonstrating that human
+choices are irrational, when in fact our research only showed that Humans are not well described by the
+rational-agent model.” (Kahneman, 2011)
+When reflecting on Kahneman’s legacy to the field, it is important to override what many take to
+be the intuitive implication of his work: That people are irredeemably irrational. As Kahneman
+consistently argued, the implication of his work is that humans are simply not rational. This is a subtle but
+important distinction. Being irrational is different from not being rational; someone who is irrational
+cannot be reasoned with and may have little hope of improving. Nowhere in Kahneman’s work can you
+find a picture of humanity that is so bleak.
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+14
+
+If the goal is not to demonstrate that people are irrational, then why focus so much on errors? The
+answer to this is actually rather simple: We often learn the most from our errors. As George Miller
+famously argued in his 1969 address to the American Psychological Association, the direst problems that
+humanity faces are ones that we’ve created for ourselves. In this context, Kahneman’s work on the
+limitations of our cognition is absolutely critical if we are to improve our decision-making.
+Indeed, Kahneman understood that humans are imperfect but have the potential for improvement.
+We make predictable mistakes, sure, but with some help we can make more accurate judgments and better
+decisions. It is for this reason that the implication that I take from Kahneman’s work is often opposite to
+what is commonly assumed: Not only is it inaccurate to characterize people are being fundamentally
+irrational, but there is tangible hope for improvement!
+Submitted by Gordon Pennycook, Department of Psychology, Cornell University, Ithaca, USA
+"The reliance on heuristics and the prevalence of biases are not restricted to laymen," (Tversky &
+Kahneman, 1974, p. 1130)
+In his life’s work with Amos Tversky, Daniel Kahneman revolutionized the field of behavioral
+economics, shedding light on the inherent biases and reliance on heuristics that infiltrate human
+decision-making. However, as behavioral economics has evolved, it has encountered challenges,
+including a replication crisis and issues with research falsification.
+Kahneman's quote, "The reliance on heuristics and the prevalence of biases are not restricted to
+laymen," (Tversky & Kahneman, 1974, p. 1130) contains a fundamental truth about human cognition that
+even experts are susceptible to cognitive biases and heuristic thinking. This acknowledgment is
+particularly touching given the current state of behavioral economics.
+In recent years, the field has faced scrutiny for the integrity of its research. Scholars have raised
+concerns about replication failures and the prevalence of underpowered studies, which compromise the
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+15
+
+reliability of findings. Despite these challenges, some researchers have been reluctant to confront the
+issues head-on, choosing instead to downplay the significance of replication failures or ignore them
+altogether.
+However, Kahneman stands out as a beacon of intellectual honesty within the field. By
+acknowledging the limitations of his own work and the broader challenges facing behavioral economics,
+he sets an example for others to follow. Rather than shying away from criticism or clinging to dogma,
+Kahneman's willingness to confront uncomfortable truths demonstrates a commitment to rigorous inquiry
+and intellectual integrity.
+In conclusion, Kahneman's quote serves as a poignant reminder that the pitfalls of heuristic
+thinking and cognitive biases are not exclusive to laypeople; even experts in behavioral economics are
+susceptible. However, by acknowledging these limitations and striving for transparency and honesty in
+research, scholars can uphold the integrity of the field and continue to advance our understanding of
+human decision-making.
+Submitted by Vojtech Kotrba, Department of Economics and Management, J. E. Purkyně University, Ústí
+nad Labem, Czechia; Department of Economics, Prague University of Economics and Business, Prague,
+Czechia
+“Psychological theories of intuitive thinking cannot match the elegance and precision of formal normative
+models of belief and choice, but this is just another way of saying that rational models are psychologically
+unrealistic” (Kahneman, 2003, p.1449)
+In his keynote address at the 2017 APA convention, Daniel Kahneman expressed the opinion that,
+although behavioral economics is, in fact, applied social psychology, its prominence in shaping public
+policy stems from the fact that economics is portrayed as a mathematics-based, ‘hard’ science. The
+connection between psychology and economics was strengthened through the collaborative work of
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+16
+
+Tversky and Kahneman, which, though psychological in nature, drew upon the formal normative model
+of economics because it required a standard against which judgment and decision-making could be
+evaluated.
+Initially, statistics provided such a standard, exemplified by concepts such as the law of large
+numbers, which were used to discern correct and incorrect responses to their constructed scenarios. As
+their research progressed, the criteria for sound reasoning expanded beyond statistics to encompass the
+rational agent model, the basis of economics. By systematically identifying behavioral deviations from the
+rational agent model, their psychological work exposed weaknesses in traditional economic theories.
+Psychology defies confinement within a rigid set of rules and theorems, continually challenging
+our understanding of human nature. In contrast, economics’ view of human nature can be neatly
+encapsulated in an hour-long presentation. As Kahneman’s quote suggests, the dynamic between the two
+fields presents a dichotomous conundrum: psychology cannot elegantly explain human behavior in a
+restricted number of statements, while economics will struggle to offer a realistic interpretation of human
+behavior. Nevertheless, the ongoing dialogue between these disciplines propels the overarching field of
+behavioral science forward. Daniel Kahneman’s contributions have been pivotal in initiating and
+advancing this discourse.
+Submitted by Alexios Arvanitis, Department of Psychology, University of Crete, Rethymno, Greece
+“An algorithm that is constructed on the back of an envelope is often good enough to compete with an
+optimally weighted formula, and certainly good enough to outdo expert judgment.” (Kahneman, 2011)
+Daniel Kahneman opened our eyes to the limitations of human judgment and prediction. He
+taught us that the world is less certain than we think, that the future does not resemble the past, and that
+people, even experts, are far worse at forecasting than they expect. One of the major takeaways was the
+need for objective, bias-free forecasting instruments. Indeed, newly-developed algorithms avoid many
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+17
+
+traps that fail humans. Algorithms favor the informative and diagnostic over the vivid and available,
+weight uncertainty properly and are impervious to emotional and social influences. Consequently, they
+can answer medical, financial, and geopolitical questions more accurately than humans and form the basis
+for better decision making. Problem solved? Not quite. The flaws of human judgment get in the way
+again. Although algorithms generally achieve vastly superior performance, people keep rejecting them. In
+trying to understand the impediments to the acceptance of algorithms, Kahneman has the answers yet
+again. His findings on overconfidence, confirmation bias and regret aversion explain the tendency of
+people to favor their own faulty judgments over those of more accurate systematic tools. Kahneman’s
+insights have brought together psychologists, computer scientists, and scholars from related fields,
+collaborating to integrate behavioral insights in the design of algorithmic decision aids to which people
+would be receptive. Multidisciplinary research on the cognitive and behavioral aspects of algorithm
+acceptance is still in its infant stages, with so much yet to explore. Thus, Daniel Kahneman’s work has not
+only influenced decades of research so far, but will continue to shape the study of decision making for
+decades to come.
+Submitted by Uriel Haran, Department of Management, Ben-Gurion University of the Negev,
+Beer-Sheva, Israel & Shoham Choshen-Hillel, Business School and The Federmann Center for the Study
+of Rationality, The Hebrew University of Jerusalem, Jerusalem, Israel
+“Declarations of high confidence mainly tell you that an individual has constructed a coherent story in his
+mind, not necessarily that the story is true.” (Kahneman, 2011)
+In the digital age, people increasingly interact with large language models (LLMs) that are
+primarily trained and fine-tuned to tell coherent stories. However, “declarations of high confidence
+mainly tell you that an individual has constructed a coherent story in his mind, not necessarily that the
+story is true.” (Kahneman, 2011) By promoting the “illusion of validity,” the coherence of AI-generated
+text is often criticized for communicating falsities with high confidence. Similar to overconfident human
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+18
+
+advisors, System 2, or slow thinking, could thus be a countermeasure against hallucinatory generative AI.
+In education, LLMs in tutoring systems are enabled to ‘think’ in the backend. Output that is not
+observable to student users in the frontend is necessary because relevant context, such as the solution path
+for a task, must be generated before students can be given valuable hints on how to approach the problem
+themselves. Instead of “jump[ing] to conclusions from little evidence” (Kahneman, 2011), or “context” in
+LLM terminology, thinking in the backend can be seen as slowly thinking through the problem. On the
+one hand, this is due to the fact that the corresponding text generation requires more time and
+computational resources. On the other hand, and much more importantly, the inherent enforcement of
+multi-shot prompting triggers more deliberate and logical thinking, as evidenced by the improved quality
+of such LLM-generated output. Students benefit from being trained to solve the task on their own, rather
+than being provided with the correct solution immediately. The intention is to help them to improve their
+own slow-thinking skills through fruitful and affordable one-on-one tutoring in LLM-augmented digital
+learning environments. System 2 will not only facilitate this transition in individualized education, but
+also has the potential to be a game changer in everyday life, which is increasingly threatened by
+overconfidence in hallucinatory generative AI.
+Submitted by Tobias R Rebholz, Psychology Department, University of Tübingen, Tübingen, Germany
+"A failure to disagree" (Kahneman & Klein, 2009)
+Truth, not consensus, is science’s ultimate goal. Although a state of consensus signals to the
+world that we, as a scientific community, have reached (for the time being) some semblance of the truth,
+reaching the truth requires disagreement, not harmony. The path to the truth requires academic debate, not
+academic unity. Our goal should never be a room of similarly minded others nodding their heads or a
+first-round acceptance by a prestigious journal. Our goal has always been, and always should be,
+disagreement. No psychologist in recent memory has embodied this goal better than Daniel Kahneman.
+Daniel Kahneman has, without a doubt, taught us a lot about the inner workings of the human mind. Yet,
+he has given us much more than that. Kahneman has given us a roadmap, a goal, and an understanding of
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+19
+
+what we, as scientists, should be striving for. It's all there, in the title of one of his most provocative
+articles, a blueprint for how we should all be doing science: “a failure to disagree” (Kahneman & Klein,
+2009). In trying to understand human judgment, Kahneman tried, and failed, to disagree. Luckily, we are
+still reaping the fruits of his failure.
+Only when we find the truth and finally understand the ins and outs of the human experience,
+should we stop trying to disagree. Reaching scientific consensus may be satisfying, but it should never be
+our objective. Only when we fail to disagree will we know that we have reached the truth. Until then, we
+must never stop trying. By striving for the truth rather than for consensus, Daniel Kahneman was the
+embodiment of intellectual humility. I hope you disagree.
+Submitted by Shai Davidai, Columbia Business School
+“My position when I wrote “Thinking, Fast and Slow” was that if a large body of evidence published in
+reputable journals supports an initially implausible conclusion, then scientific norms require us to believe
+that conclusion. Implausibility is not sufficient to justify disbelief, and belief in well-supported scientific
+conclusions is not optional. This position still seems reasonable to me – it is why I think people should
+believe in climate change. But the argument only holds when all relevant results are published. ... The
+lesson I have learned, however, is that authors who review a field should be wary of using memorable
+results of underpowered studies as evidence for their claims.” (Kahneman, 2017, p. 1).
+There are many papers I read and talks when I heard Daniel Kahneman live at conferences but
+what immediately came to my mind was a comment in the above blog post. To me these lines summarize
+Daniel Kahneman's approach to science and also speak to his character. Admitting error is something that
+brings any science forward, saves hundreds or hours of work and ultimately public money. If a Nobel
+laureate can do it - everybody should be able to adhere to these standards of scientific work.
+Submitted by Michael Schulte-Mecklenbeck, University of Bern, Switzerland
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+20
+
+“We need a common label for our shared activities. […] I would be proud to be called an applied
+behavioral scientist.” (Kahneman, 2013, p. ix)
+Kahneman’s words are taken from a foreword of a book on behavioural science and public policy.
+In a characteristically humble manner, Kahneman recalls how his collaborators planted the seeds for the
+creation of ‘nudge’ units embedded in the US and UK governments. What commenced with a focus on
+nudging in central government quickly turned into a global movement. Specialised consultancies and
+agencies have sprung up, and behavioural insight units are now embedded in governments, industries, and
+third sector organisations around the world. As the movement gained traction, practitioners moved
+beyond nudging and embraced the full spectrum of behaviour change approaches.
+Kahneman describes the movement as one of the major achievements of applied social and
+cognitive psychology. It is one of Kahneman’s enduring legacies. The movement has touched the lives of
+thousands if not millions of people benefiting from improved policies and services around the world. It
+has also profoundly changed the lives of many psychology graduates who are, and will be, working in this
+area.
+For many, nudging is synonymous with behavioural economics. Kahneman recognised the
+opportunities and challenges arising from applied social and cognitive psychology becoming popular
+under the mantle of economics. In the foreword, he expressed concerns that young psychologists may be
+put off and may not recognise the achievements of their own discipline. Kahneman suggested
+‘behavioural scientist’ as a unifying label for those working in this space. It is incumbent upon us to
+honour Kahneman’s legacy by educating psychology students about the behavioural insights movement,
+giving them the skills they need, and instilling a sense of pride and confidence to lead the way as the next
+generation of behavioural scientists.
+Submitted by Mario Weick, Department of Psychology, Durham University, Durham, UK
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+21
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+22
+
+References
+Bedeian, A. G. (2016). A note on the aphorism “there is nothing as practical as a good theory.” Journal of
+Management History, 22(2), 236–242. https://doi.org/10.1108/JMH-01-2016-0004
+Kahneman, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux.
+Kahneman, D. (2011). 2011 : What scientific concept would improve everybody's cognitive toolkit?
+Focusing illusion. Available at: www.edge.org/response-detail/11984
+Kahneman, D., & Smith, V. (n.d.). The Sveriges Riksbank Prize in Economic Sciences in memory of
+Alfred Nobel 2002. Daniel Kahneman - Biographical.
+https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/
+Kahneman, D. (2012). A proposal to deal with questions about priming effects. Nature,
+https://www.nature.com/news/polopoly_fs/7.6716.1349271308!/suppinfoFile/Kahneman%20Lett
+er.pdf
+Kahneman, D. (2000). Experienced utility and objective happiness: a moment-based approach. In D.
+Kahneman & A. Tversky (Eds.), Choices, values, and frames (pp. 673-692). Cambridge
+University Press.
+Kahneman, D. (2003). Maps of bounded rationality: Psychology for behavioral economics. The American
+Economic Review, 93(5), 1449–1475. https://doi.org/10.1257/000282803322655392
+Kahneman, D. (2017, Feb. 2). Comment on Replication Index Blog Post.
+https://replicationindex.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-w
+ent-of-the-rails/comment-page-1/#comment-1454
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+23
+
+Kahneman, D. (2013). Foreword. In E. Shafif (Ed.), The behavioral foundations of public policy (pp.
+vii-ix). Princeton University Press. https://doi.org/10.2307/j.ctv550cbm
+Kahneman, D., & Klein, G. (2009). Conditions for intuitive expertise: A failure to disagree. American
+Psychologist, 64(6), 515–526.
+Kahneman, D., & Tversky, A. (1972). Subjective probability: A judgment of representativeness.
+Cognitive Psychology, 3(3), 430-454. p. 450.
+Kahneman, D., & Tversky, A. (1973). On the psychology of prediction. Psychological Review, 80(4),
+237-251.
+Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica,
+47(2), 363-391.
+Kahneman, D., & Tversky, A. (2002). Representativeness revisited: Attribute substitution in intuitive
+judgment. In T. Gilovich, D.W. Griffin, & D. Kahneman (Eds.), Heuristics and biases: The
+psychology of intuitive judgment (pp. 49-81). Cambridge, UK: Cambridge University Press.
+Rabin, M. (2013). Incorporating limited rationality into economics. Journal of Economic Literature,
+51(2), 528-543.
+Tversky, A., & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases. Science,
+185(4157), 1124–1131. https://doi.org/10.1126/science.185.4157.1124
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+24
+
+Other contributors:
+
+Cyrus-Lai, Wilson, Graduate School of Business, Stanford University, California, USA
+Pandey, Shubham, University of Osnabrück, Germany
+Buttliere, Brett, University of Warsaw, EUROREG
+Fischer, Helen, Leibniz Institut für Wissensmedien, Tübingen, Germany
+Arkes, Hal, Department of Psychology, Ohio State University, Columbus, OH, USA
+Hochman, Guy, Baruch Ivcher School of Psychology, Reichman University, Herzliya, Israel
+Narendran, Prof Dr Rajeshwari, NTPC School of Business India
+Miron-Shatz, Talya, Business School, Ono Academic College, Kiryat Ono, Israel
+Azar, Ofer H., Ben-Gurion University of the Negev, Beer Sheva, Israel
+Satpathy, Col Prof Dr Jyotirmaya, Neurointegral Scientific Institute of Colombia, Republic of Colombia
+Leaptrott, John, Georgia Southern University, Statesboro, USA
+FERREIRA, VERA RITA, São Paulo, Brazil
+Ayal, Shahar, Reichman University, Herzliya, Israel
+Dhami, Mandeep K., Middlesex University, London, UK
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+25
+
+“The main point of my letter is that you should do something, and that you must do it
+collectively.”
+One of Daniel Kahneman’s enduring legacies will be his advocacy for scientific
+approaches that hinge on the intrinsic motivation to seek truth, such as adversarial collaborations
+and scaling up for multi-lab collaborations when the standard small-teams approach to science
+has potentially failed. Knowledge accumulation is inherently a collective enterprise, but depends
+on the individual labors of scientists, whose professional payoffs can be misaligned with the
+collective good. The prevailing incentive system discourages the abandonment of signature
+theories and creates barriers against mass collaborations. But fortunately, academia selects for
+the intrinsic motivation Prof. Kahneman embodied as well. Large-scale initiatives have
+flourished in recent years, despite the limited professional benefits of either leading or joining
+the crowd. In the inspirational quote from Prof. Kahneman above, he advocated for a daisy chain
+of expert laboratories to attempt to replicate prime-to-behavior effects. The failure to answer his
+call for more than a decade now has sent an unmistakable signal: that priming researchers have
+no faith in our own findings. Our ongoing adversarial collaboration including both proponents
+and critics of priming has organized a replication ring of more than 100 laboratories to
+re-examine nine published studies volunteered by the original authors. The consortium includes
+both an “inner ring” of expert teams and an “outer ring” consisting of any colleague willing to
+help. This will put to a rigorous empirical test not only the robustness and context sensitivity of
+prime-to-behavior effects under the most favorable circumstances possible, but also Prof.
+Kahneman’s assumption that topic experts are more effective at obtaining such findings.
+Although intuitive, the presumed expert advantage in carrying out experiments of this kind could
+be just another misfiring heuristic.
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+26
+
+Submitted by: Cyrus-Lai, Wilson, Graduate School of Business, Stanford University, California,
+USA
+
+‘A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is
+not easily distinguished from truth.’ (Kahneman, 2011).
+In an era of information overload, where screens are flooded with news and opinions, the
+elusive nature of truth becomes increasingly apparent. At the heart of this phenomenon lies the
+intricate interplay among information repetition, familiarity, and the perception of truth. Daniel
+Kahneman's quote, "A reliable way to make people believe in falsehoods is frequent repetition,
+because familiarity is not easily distinguished from truth," encapsulates a profound insight into
+human cognition and the mechanisms underlying belief formation. This statement emphasises
+peoples' susceptibility to persuasion through the manipulation of information repetition, shedding
+light on the cognitive biases that influence decision-making processes. At its essence, this quote
+underscores the illusory truth effect, wherein repeated exposure to a statement or idea enhances
+its perceived validity, irrespective of its actual veracity.
+For instance, social media platforms serve as fertile ground for disseminating
+information, both accurate and misleading. The algorithmically curated echo chambers within
+these platforms amplify the impact of repetition, exposing users to a constant stream of content
+that reinforces their existing beliefs. This phenomenon bears significant implications for societal
+cohesion as individuals retreat into ideological bubbles, shielded from opposing viewpoints.
+Moreover, political campaigns leverage the incessant repetition of slogans and talking points to
+shape public opinion. Culturally, the prevalence of information repetition has fueled
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+27
+
+binge-watching culture and the consumption of repetitive narratives, shaping perceptions of
+success and identity.
+For the scientific community, Kahneman's quote serves as a reminder of the imperative of
+empirical evidence and critical thinking in assessing assertions. It underscores the necessity of
+rigorous research methodologies and scepticism in the face of persuasive rhetoric. In essence,
+Kahneman's quote sheds light on the intricate interplay between cognition, persuasion, and belief
+formation, offering invaluable insights that underscore the enduring relevance of his
+contributions to understanding human behaviour.
+
+Submitted by: Pandey, Shubham, University of Osnabrück, Germany
+
+‘This book presents my current understanding of judgment and decision making, which has been
+shaped by psychological discoveries of recent decades.’ (Page i, Kahneman, 2011).
+This description by Kahneman of Thinking Fast and Slow is important to highlight
+because it is what the field needs more of, summaries of expert knowledge on large and general
+topics, for the public. There are many good reasons to encourage writing on such large topics
+with informed opinion. It is also easy to see the value Kahneman unlocked with the action.
+Of course it takes more than just writing a book to impact science the way Kahneman
+has, and in this regard it is worth noting another quote which concerns especially his assessment
+of his and Tversky’s personalities when creating the work and understanding that would lead to
+their success.
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+28
+
+‘Both Amos and I were critical and argumentative, he even more than I, but during the years of
+our collaboration neither of us ever rejected out of hand anything the other said’ (Kahneman,
+2011. P. ii)
+Being ready to argue and to point out where our collaborators are wrong appears to be a
+necessary part of doing great scientific work. The file drawered Kuhnian anomaly must be
+presented to a researcher or team that are ready to discuss and debate about it with the field.
+Otherwise it will never become a crisis, and the field will miss or delay this development.
+This tendency, indeed ability, to debate, argue, and identify problems is something that
+takes practice, especially so that one can do it with the care and grace that Kahneman did, so that
+everyone stays involved and with a good will at the end of the day.
+Submitted by: Buttliere, Brett, EUROREG, University of Warsaw, Poland
+
+"Considering how little we know, the confidence we have in our beliefs is preposterous - and it is
+also essential" (Kahnemann, 2011, p. 209).
+In today’s discourse surrounding climate change, Daniel Kahneman's words ring true:
+"Considering how little we know, the confidence we have in our beliefs is preposterous - and it is
+also essential" (Kahnemann, 2011). This quote highlights two opposing dynamics: the
+unwarranted confidence in flawed beliefs and the essential need for confidence in
+evidence-based knowledge, despite inherent uncertainties.
+On one hand, Kahneman's notion of preposterousness applies to the resistance against
+evidence due to unwarranted confidence in flawed beliefs. Despite the abundance of evidence on
+anthropogenic climate change and its associated risks, some individuals cling to flawed beliefs,
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+29
+
+dismissing or ignoring contradictory evidence. This unwarranted confidence obstructs
+meaningful political action to address climate change and its consequences.
+Conversely, the quote's assertion of essentiality resonates with the necessity of confidence
+in the robustness of climate change evidence and the effectiveness of scientific, political, and
+technological solutions. Without confidence in scientific and technological knowledge,
+individuals and societies may hesitate to adopt necessary changes or advocate for impactful
+policies, impeding progress toward addressing climate change. This essential confidence is
+further exemplified by skeptical campaigns that often exploit uncertainties in climate science to
+sow doubt and undermine confidence in climate science and the effectiveness of climate policy.
+Kahneman's quote serves as a reminder of the delicate balance required in navigating
+confidence in climate change beliefs. While acknowledging the folly of unwarranted confidence
+in flawed beliefs, it highlights the importance of sufficient confidence in scientific evidence and
+our ability to act. Striking this balance is crucial in effectively addressing the challenges of
+climate change.
+Submitted by: Fischer, Helen, Leibniz Institut für Wissensmedien, Tübingen, Germany
+
+”More generally, a sunk-cost effect arises when a decision is referred to an existing account in
+which the current balance is negative. Because of the nonlinearities of the evaluation process, the
+minimal account and a more inclusive one often lead to different choices.” (Tversky &
+Kahneman, 1981, p. 457).
+The following lines are page 457 in Tversky and Kahneman’s classic 1981 paper in
+Science: ”More generally, a sunk-cost effect arises when a decision is referred to an existing
+account in which the current balance is negative. Because of the nonlinearities of the evaluation
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+30
+
+process, the minimal account and a more inclusive one often lead to different choices.” One year
+before this paper was published, Thaler (1980) had presented his famous anecdote pertaining to
+the basketball ticket-holder who would drive through a snowstorm to attend the game, because
+he had already bought the ticket. He had incurred a sunk cost. A person who had no ticket was
+less eager to attend the game. He had not incurred a sunk cost. Thaler’s excellent article was in a
+new journal that was not likely to have been read by psychologists and perhaps not yet
+well-known even to economists. According to the Social Science Citation Index, there were less
+than 10 usages of the keyword “sunk cost” before the Tversky and Kahneman paper. As of this
+month (April, 2024) there have been over 8,200 articles that have used that keyword—almost
+one every day since the 1981 paper in Science. The Tversky and Kahneman classic 1981 article
+has helped foster a cottage industry in sunk cost research in a vast number of domains. I know
+that it had a seminal influence on my own research.
+Submitted by: Arkes, Hal, Department of Psychology, Ohio State University, Columbus, OH,
+USA
+
+“The idea that the future is unpredictable is undermined every day by the ease with which the
+past is explained,” (Kahneman, 2012, p. 218)
+Reflecting on the profound contributions of Professor Daniel Kahneman to
+decision-making and behavioral economics, it becomes evident that his work is not merely a
+series of academic inquiries but a groundbreaking shift in understanding human behavior, akin to
+Einstein’s revolution in physics. Just as Einstein’s theory of relativity challenged and expanded
+our understanding of time and space, Kahneman’s research has fundamentally altered our
+perception of the human mind. As a second-generation student of his seminal work, I have been
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+31
+
+privileged to witness firsthand how his theories reshaped our understanding of human rationality.
+His quote “The idea that the future is unpredictable is undermined every day by the ease with
+which the past is explained,” (Kahneman, 2012, p. 218) resonate powerfully in our current era,
+marked by complexities such as the war in Israel, the proliferation of fake news, and the
+retrospective oversimplification of past events.
+In today’s tumultuous world, Kahneman’s theories gain acute relevance. The conflict in
+Israel, for instance, exemplifies the complexities of human decision-making under uncertainty,
+where Kahneman’s findings offer deep insights into both the actions of leaders and the reactions
+of the populace. The rampant spread of fake news underscores the pertinence of Kahneman’s
+work on how easily we construct coherent narratives from the past, often ignoring the
+unpredictable nature of unfolding events. The cognitive ease with which humans retrospectively
+explain complex phenomena illuminates the challenges we face in discerning truth from
+falsehood in a post-truth era.
+Kahneman’s contributions extend beyond academia. Through teachings and research,
+Kahneman advanced our understanding of the human mind and equipped us with the intellectual
+tools to better understand and shape our world, reflecting a monumental and transformative
+legacy.
+Submitted by: Hochman, Guy, Baruch Ivcher School of Psychology, Reichman University,
+Herzliya, Israel
+
+‘Wherever There Is Judgment, There Is Noise—And More Of It Than You Think.’
+"(embedded in the text):
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+32
+
+This quote has the capability to stir you up when you are aware that you are a victim of
+the judgment, especially the social judgment. Our societies have been ruthless on being
+judgmental. Many of the conversations are piercing and ripping your soul when they start in the
+social circle with your weight, color of skin or hair as a starting point of conversation. Many
+silent victims have suffered much deeper wounds just because of such judgmental comments one
+passes on. The habit of labeling someone is so rampant that it comes from the seeds of social
+biases about gender, color, region, belief, education, and language of communication, economic
+status and what not. Workplace bullying has been a great subject off-late.
+I dedicate this poem to the warriors who have come out shining bright after their
+struggles of being judged.
+Poem - I'm ME
+And yes Daniel you are right there are occasions very tight,
+we lost many stars that were bright!
+There is a deeper hue and cry,
+there is a reason for someone to die!
+There is something that is so compelling,
+there is a storm brewing silent inside yelling!
+
+Let me attain freedom from the noises around me
+let me rise and show that I'm “ME”
+unfathomed by your labels certificates and here
+I liberate myself and stop being a part of that “WE” !
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+33
+
+The WE which is self centered,
+divided, unholy, and spreads Hatred and leaves many lives forever shattered!
+O dear the world I weave for self
+let me be divine in myself!
+And I have the courage to Say
+I'm Me a
+ccept reject or do whatever
+I am not going to listen or take that deject.”
+Long live the great work of Daniel Kahneman
+Submitted by: Narendran, Prof Dr Rajeshwari, NTPC School of Business, India
+
+“We expanded on existing knowledge on the memory-experience gap by looking at individual
+days, which contain both positive and negative events. … We found that a memory-experience
+gap exists for pleasant and unpleasant emotions, and it persists regardless of variations in how
+the DRM [Day Reconstruction Method] was administered. … when participants recall, for
+instance, how happy they were overall during the previous day, this recollection seems to contain
+the events’ distilled essence, rather than the milder flavors of the actual happiness experienced
+during each and every episode. … The memory-experience gaps were more pronounced for
+unpleasant emotions; people remembered being angrier, sadder, and more tense overall than they
+reported through measures of their
+actual experiences.” (Kahneman, ****, p. *)
+Happiness Studies: Quintessentially and Pessimistically Danny
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+34
+
+One cannot imagine the field of judgment and decision making without Daniel
+Kahneman’s mighty contributions )with Amos Tversky) - heuristics and biases, prospect theory,
+System 1 and system 2, and more.
+His work on happiness is less well known. I had the privilege of studying happiness with
+him, as his last post-doc. In the end, it all came back to his mighty contributions.
+“We expanded on existing knowledge on the memory-experience gap by looking at
+individual days, which contain both positive and negative events. … We found that a
+memory-experience gap exists for pleasant and unpleasant emotions, and it persists regardless of
+variations in how the DRM [Day Reconstruction Method] was administered. … when
+participants recall, for instance, how happy they were overall during the previous day, this
+recollection seems to contain the events’ distilled essence, rather than the milder flavors of the
+actual happiness experienced during each and every episode. … The memory-experience gaps
+were more pronounced for unpleasant emotions; people remembered being angrier, sadder, and
+more tense overall than they reported through measures of their
+actual experiences.”
+This is happiness work, which is perfectly explained by Kahneman’s JDM discoveries.
+People apply heuristics to judge days, basing their System 1 opinion on a few emotionally salient
+episodes. Our findings also resonate with loss aversion: The man who won the Nobel Prize was
+sad and offended when a paper he authored was rejected. He knew from much graver incidences,
+how pain lingers. And he managed to embed his thoroughly human insights in the heart of
+happiness and economic thinking.
+It’s not simplistic to explain everything with heuristics, prospect theory, and System 1;
+It’s parsimoniously brilliant. For this, while we mourn the death of a giant, we should be happy.
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+35
+
+Submitted by: Miron-Shatz, Talya, Business School, Ono Academic College, Kiryat Ono, Israel
+
+"“Imagine that you are about to purchase a jacket for ($125) [$15], and a calculator for ($15)
+[$125]. The calculator salesman informs you that the calculator you wish to buy is on sale for
+($10) [$120] at the other branch of the store, located 20 minutes drive away. Would you make the
+trip to the other store?
+…
+68 percent of the respondents were willing to make an extra trip to save $5 on a $15 calculator;
+only 29 percent were willing to exert the same effort when the price of the calculator was $125.
+…
+By the curvature of v ,a discount of $5 has a greater impact when the price of the calculator
+is low than when it is high.
+…
+the data of Pratt et al. are consistent with the hypothesis that consumers hardly exert more effort
+to save $15 on a $150 purchase than to save $5 on a $50 purchase.” (Kahneman, ****, p. *).
+The jacket-and-calculator experiment quoted above, capturing the behavioral bias that
+was later termed “relative thinking,” is one of the nicest examples of Kahneman’s work (with
+Tversky), for several reasons: It is a very robust behavior; it is easy to understand why it is
+irrational, and yet we can observe cases where we ourselves exhibit this bias; and even after
+knowing about this bias, it is hard to get rid of this behavior. Moreover, it is a bias that affects
+decisions we make very frequently, and it even has implications for market outcomes such as
+retailers’ markups and price dispersion. Further research has shown that people exhibit this bias
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+36
+
+not only when deciding whether to travel to a cheaper store, but also when considering substitute
+goods that differ in price and quality and when choosing effort based on incentives.
+Submitted by: Azar, Ofer H., Ben-Gurion University of the Negev, Beer Sheva, Israel
+
+‘Wherever There Is Judgment, There Is Noise—And More Of It Than You Think.’
+Making persuasive psychosomatic decisions, in state of Chaos and Versatility, is a
+decision activity. Cerebral Science has made progress bringing phenomenal experiences into
+brain and decision making. This is about coordinating focal points for understanding intersection
+with cerebral and decision laying a conduit. This appears as anomalous guess with unbounded
+‘Scrolling’, Chaos, Complexity and ‘Interpolations’. Impression that decisions are taken through
+level-headed handle have been uncovered to addressing tests that examine estimation towards
+decision making. Reference is drawn to bio - forms that affect decisions, actuate to distinguish
+based on different signals of root conditions that back or nullify discoveries and help understand
+how neuro - arrangements impact decision. Documentation of neural - markers accurately
+estimate judicious physiognomies for understanding neural components of Chaos and Flexibility.
+Are ‘decision actors’ threatened by ‘decision-making’? 'Entrepreneurial actors' claim that
+decisions they make are correct, based on available data. Now, these applications have been
+scanned under cellular and chromosomal prism. Prof Daniel attempted to create ‘corrective’
+decisions by exploring issues like disruption of decision making processes in brain pathways,
+brain's perception of data sources, and internal processes that execute with strong values.
+Endeavor was to monitor perception of neuro-economic drivers of behavioral patterns using tools
+from Economics, Psychology, Neuroscience, Mathematics and Statistics to understand
+underlying behavior and decision making. Notes of Daniel inspire new questions, powerful
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+37
+
+theoretical and practical implications, challenging approaches and outcomes, and bold
+implications. Considering management of decision, in terms of 'homo-psycho-economics', chaos
+and rationalization, to infinity of 'next' and 'transition' of 'brain' formulas' presents theoretical and
+empirical methods to understand neuro-economic drivers underlying ‘stimulus’ through
+inter-disciplinary tools. Focus is to replicate chaos and biology of control data to explore nature
+of causal relationships, identify ways to test causal relationships, use cognitive and neural
+approaches, and describe neural pathways of decisions.
+Submitted by: Satpathy, Col Prof Dr Jyotirmaya, Neurointegral Scientific Institute of Colombia,
+Republic of Colombia
+
+“In particular, judgments of relatively inaccessible properties are expected to be substantially
+slower and more susceptible to interference by concurrent mental activity, in comparison to
+judgments of accessible attributes.”
+
+My academic field is Entrepreneurship and Small Business Management. In addition, I
+had many years of experience as both a business owner and consultant. This quote was the
+inspiration for my dissertation which investigated the decision-making behavior of entrepreneurs
+during the startup up phase of their business. Unless the entrepreneur is very experienced, the
+requisite knowledge regarding key business strategic factors is not very accessible. The
+dissertation findings were consistent with the expectation that cognitive busyness, caused by the
+entrepreneurs having to complete multiple complex and novel tasks in a short period of time
+prior to the startup of the business, interfered with the quality of their due diligence and strategic
+planning efforts. As a result, they tended to make hasty decisions regarding key elements of
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+38
+
+business strategy formulation. In addition, my reflections on my prior business decisions and
+that of many of my consulting clients which had less than optimum results lead me to realize that
+cognitive busyness associated with a startup often resulted in missing something important.
+This insight, and others related to the dual system of reasoning theoretic framework, became the
+subject of the initial meeting of my undergraduate and M.B.A. strategic management capstone
+classes. My message was that they needed to identify decisions that require a System 2 process.
+This allowed them to best use the tools from their business education. I will always be grateful
+for the insights he generously shared and I am confident that many of my students are grateful as
+well.
+
+Submitted by: Leaptrott, John, Georgia Southern University, Statesboro, USA
+
+“The idea of an affect heuristic (Slovic et al., 2002) is probably the most important development
+in the study of judgment heuristics in the last decades. There is compelling evidence for the
+proposition that every stimulus evokes an affective evaluation, which is not always conscious
+(see reviews by Zajonc,1980, 1997; Bargh, 1997). Affective valence is a natural assessment, and
+therefore a candidate for substitution in the numerous responses that express attitudes.
+(…) In the same vein, Kahneman and Ritov (1994) and Kahneman, Ritov, and Schkade (1999)
+proposed that an automatic affective valuation – the emotional core of an attitude – is the main
+determinant of many judgments and behaviors. (Kahneman, 2002, p. 470-471).
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+39
+
+When Kahneman acknowledges the essential role of an affect heuristic, “the emotional
+core of an attitude”, and later explains why he does it, he broadens the perspective to integrate
+cognitive and emotional aspects of mental functioning, which is crucial for an in-depth
+understanding of the mind, behaviour and decision-making (it is worth reading the full section).
+For me, it was particularly interesting to find this kind of reference in his Nobel speech,
+because although I have been involved with economic psychology for thirty years, I have a
+background in psychoanalysis that goes even further back, and it did sound to me quite
+converging with some psychoanalytical views on the process of thinking, as described by Freud,
+Klein and Bion.
+In fact, I was even happier to hear him say on a video from a talk on intuition at Berkley,
+in 2013, that “there are shades of Freudian psychology here, but this is a modern version of
+Freudian psychology”, when speaking about Systems 1 and 2. Bravo!
+
+Submitted by: FERREIRA, VERA RITA, São Paulo, Brazil
+
+“We expanded on existing knowledge on the memory-experience gap by looking at individual
+days, which contain both positive and negative events. … We found that a memory-experience
+gap exists for pleasant and unpleasant emotions, and it persists regardless of variations in how
+the DRM [Day Reconstruction Method] was administered. … when participants recall, for
+instance, how happy they were overall during the previous day, this recollection seems to contain
+the events’ distilled essence, rather than the milder flavors of the actual happiness experienced
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+40
+
+during each and every episode. … The memory-experience gaps were more pronounced for
+unpleasant emotions; people remembered being angrier, sadder, and more tense overall than they
+reported through measures of their
+actual experiences.”
+
+This is happiness work, which is perfectly explained by Kahneman’s JDM discoveries.
+People apply heuristics to judge days, basing their System 1 opinion on a few emotionally salient
+episodes. Our findings also resonate with loss aversion: The man who won the Nobel Prize was
+sad and offended when a paper he authored was rejected. He knew from much graver incidences,
+how pain lingers. And he managed to embed his thoroughly human insights in the heart of
+happiness and economic thinking.
+It’s not simplistic to explain everything with heuristics, prospect theory, and System 1; It’s
+parsimoniously brilliant. For this, while we mourn the death of a giant, we should be happy.
+
+"“We call this phenomenon the pseudocertainty effect because an outcome that is actually
+uncertain is weighted as if it were certain.” (Kahneman, 20**, p. *).
+
+The "pseudo-certainty effect" described in this quote was demonstrated by Tversky and
+Kahneman (1986) in their seminal paper on “Rational Choice and the Framing of Decisions”
+(problems 9-11, pp. 265-268). In this scenario, participants encountered a two-stage game. The
+first stage had a 75% chance of ending without any winnings, with a 25% chance of progressing
+to the second stage. The second stage involved a choice between a sure gain of $30 and an 80%
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+41
+
+chance of winning $45, where participants had to choose one of these two alternatives before
+starting the game. Surprisingly, participants largely disregarded the uncertainty of the first stage,
+with most choices favoring the sure gain of $30 over the alternative with the higher expected
+value. That is, people behaved as though reaching the second stage was certain, and then
+replicated their risk aversive tendency which was observed in the certainty effect.
+Comparing the certainty and pseudo-certainty effects illustrates how behavioral patterns
+that are explainable by normative considerations or individual preferences (e.g., risk aversion)
+can be mistakenly applied in situations where 'certainty' is merely an illusion caused by a
+misunderstanding of conditional probability. These effects also further the insight that even when
+people intuitively grasp normative axioms such as cancellation, they can fail to recognize its
+relevance to the situation at hand by ignoring the cancellation rule when it is crucial but
+paradoxically adhering to it when it is irrelevant.
+Kahneman and Tversky's talent in demonstrating complex ideas through preference
+reversal in different framings is the cornerstone of behavioral economics. Their certainty and
+pseudo-certainty effects have had myriad theoretical and practical implications in numerous
+fields including probabilistic insurance, medical decision-making, and financial investments.
+
+Submitted by: Ayal, Shahar, Reichman University, Herzliya, Israel
+
+“…the process of mental construction has been relatively neglected….There appear to be many
+situations in which questions about events are answered by an operation that resembles the
+running of a simulation model. The simulation can be constrained and controlled in several
+ways… We construe the output of simulation as an assessment of the ease with which the model
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+42
+
+could produce different outcomes, given its initial conditions and operating parameters.”
+(Kahneman & Tversky; 1982, p. 201).
+
+In their 7-page paper on the simulation heuristic, Kahneman and Tversky present
+preliminary research on the rules of mental simulation and its importance in performing several
+types of judgment tasks (e.g., prediction, assessing probability and causality) as well as
+experiencing different affective states (e.g., regret). In doing so, they connect cognition with
+emotion, and consider the effect of this interplay on people’s hedonic adaptation.
+Despite garnering considerably fewer citations than their other work (i.e., &lt;3,000
+according to GoogleScholar), the simulation heuristic went on to inspire a whole area of
+psychological inquiry, namely that on ‘counterfactual thinking.’ This has resulted in
+understanding of, for example, norms in social cognition, causal judgment, coping mechanisms,
+as well as solutions to problems in domains such as health and justice. I found that prompting
+offenders to think about what ‘coulda, woulda, or shoulda’ happened when committing crime,
+being caught and convicted increased their willingness to accept culpability – useful for
+sentencing and alternative dispute resolution.
+Recently, counterfactual simulations are being employed by computer scientists to aid
+algorithmic transparency in what is called interpretable or ‘explainable’ Artificial Intelligence
+(AI). Specifically, efforts are being made to understand how people reach an explanation,
+through simulation of causes-and-effects, for machine learning algorithms. Kahneman and
+Tversky’s simulation heuristic can therefore help shape our trust and acceptance of AI as it
+continues to pervade our lives.
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+Submitted by: Dhami, Mandeep K., Middlesex University, London, UK
+
+43
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+44
+
+References full list
+
+Kahneman, D. (2011). Thinking, fast and slow. Penguin Books.
+Kahneman, D. (2012). A proposal to deal with questions about priming effects. Retrieved April
+2, 2024 at:
+https://www.nature.com/news/polopoly_fs/7.6716.1349271308!/suppinfoFile/Kahneman
+%20Letter.pdf
+Miron-Shatz, T., Stone, A., & Kahneman, D. (2009). Memories of yesterday’s emotions: Does
+the valence of experience affect the memory-experience gap? Emotion, 9(6), 885.
+Kahneman, Daniel; Sibony, Olivier; Sunstein, Cass (16 May 2021). Noise: A Flaw in Human
+Judgment. New York: Little, Brown Spark. pp. 37–38. ISBN 978-0-00-830899-5. OCLC
+1242782025.
+Kahneman, D. (2003). A perspective on judgment and choice: Mapping bounded rationality.
+American Psychologist, 58, 697-720.
+Kahneman, D. (2002, December 08). “Maps of bounded rationality: a perspective on intuitive
+judgment and choice”. Nobel Prize Lecture, Stockholm, Sweden.
+https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf
+
+Kahneman, D., & Tversky, A. (1982). The simulation heuristic. In D. Kahneman, P. Slovic, & A.
+Tversky (Eds.), Judgment under uncertainty: Heuristics and biases (pp. 201-208).
+Cambridge: Cambridge University Press.
+Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice.
+Science, 211, 453-458.
+
+KAHNEMAN IN QUOTES AND REFLECTIONS
+
+45
+
+Tversky, A., & Kahneman, D. (1986). Rational choice and the framing of decisions. Journal of
+business, 59(4), 251-278.

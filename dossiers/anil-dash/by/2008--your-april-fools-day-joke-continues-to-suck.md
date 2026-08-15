@@ -1,0 +1,24 @@
+---
+title: "Your April Fool's Day Joke Continues to Suck"
+person: anil-dash
+section: by
+type: blog-post
+year: 2008
+date: 2008-04-01
+venue: "anildash.com"
+authors: "Anil Dash"
+source_url: https://anildash.com/2008/03/31/your-april-fools-day-joke-continues-to-suck/
+retrieved: 2026-08-13
+content: full-text
+notes: "tags: humor, internet, andy baio, criticism"
+---
+
+# Your April Fool's Day Joke Continues to Suck
+
+## Full text
+
+Having been blogging for a few years, I’ve developed a few annual traditions. This one’s a favorite: Warning you off of lame April Fool’s jokes on the web. Every year, I get called a curmudgeon, or lambasted for having no sense of humor. And every year, the jokes online get lamer and lamer.
+
+I’d mentioned that [Your April Fool’s Day Joke Sucks](</2006/03/your-april-fool>) two years ago, revisited the idea [last year](</2007/04/your-april-fool-1>), and have been proud to have been joined in my assessment by luminaries such as [Joshua Schachter](<http://joshua.schachter.org/2008/03/stupid-internet-joke-day.html>) and [Andy Baio](<http://www.waxy.org/archive/2006/03/31/internet.shtml>) in taking a critical eye at this sort of thing.
+
+The exception, of course, is if you’re doing something truly hysterical or on a magnificent scale. But I fear we won’t run into too many of those.

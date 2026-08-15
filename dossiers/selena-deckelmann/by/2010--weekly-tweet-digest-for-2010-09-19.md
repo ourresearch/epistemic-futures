@@ -1,0 +1,48 @@
+---
+title: "Weekly tweet digest for 2010-09-19"
+person: selena-deckelmann
+section: by
+type: blog-post
+year: 2010
+date: 2010-09-19
+venue: "chesnok.com (personal blog)"
+authors: "Selena Deckelmann"
+source_url: https://www.chesnok.com/daily/2010/09/19/weekly-tweet-digest-for-2010-09-19/
+retrieved: 2026-08-13
+content: full-text
+notes: "Automated Twitter digest post: an archive of her own tweets for that date, auto-published to the blog. Her pre-2011 tweets are no longer available on X, so these blog mirrors are the surviving copy. Retrieved via the blog's WordPress REST API."
+---
+
+# Weekly tweet digest for 2010-09-19
+
+## Full text
+
+- home sweet home. [#](http://twitter.com/selenamarie/statuses/24317455247)
+
+- enjoying coffee from my kiwifoo mug, waiting for the bus. have an idea! [#](http://twitter.com/selenamarie/statuses/24395999313)
+
+- alright, who's going to @[nopoconi](http://twitter.com/nopoconi) tonight? 🙂 [#](http://twitter.com/selenamarie/statuses/24416745708)
+
+- oh awesome! @[igniteGov](http://twitter.com/igniteGov) has appeared… [#](http://twitter.com/selenamarie/statuses/24425330827)
+
+- OH: Not gnuTwitter? (:D) [#](http://twitter.com/selenamarie/statuses/24518621627)
+
+- feeling a bit overwhelmed. but also, full of win. status: [http://flic.kr/p/8AhuGT](http://flic.kr/p/8AhuGT) [#](http://twitter.com/selenamarie/statuses/24540349211)
+
+- current status: [http://en.wikipedia.org/wiki/File:Corna_01_(RaBoe).jpg](http://en.wikipedia.org/wiki/File:Corna_01_(RaBoe).jpg) [#](http://twitter.com/selenamarie/statuses/24702775922)
+
+- woo postgresql 9.0 release will be translated into 11 languages! [#](http://twitter.com/selenamarie/statuses/24706791782)
+
+- getting ready for @[pdxpug](http://twitter.com/pdxpug) [#](http://twitter.com/selenamarie/statuses/24717125182)
+
+- watching @[eknuth](http://twitter.com/eknuth) show layers from [http://oregonexplorer.info/imagery/](http://oregonexplorer.info/imagery/) inside of Quantum GIS 🙂 [#](http://twitter.com/selenamarie/statuses/24720627369)
+
+- Now, @[eknuth](http://twitter.com/eknuth) demoing ogrinfo on the commandline (from gdal.org) @[pdxpug](http://twitter.com/pdxpug) [#](http://twitter.com/selenamarie/statuses/24721167623)
+
+- OH: "ESRI throws very expensive parties and produces expensive tools that governments buy." #[realtalk](http://search.twitter.com/search?q=%23realtalk) @[pdxpug](http://twitter.com/pdxpug) [#](http://twitter.com/selenamarie/statuses/24721235154)
+
+- Current status: [http://hungoverowls.tumblr.com/photo/1280/1098971655/1/tumblr_l8jxh49fSA1qclcx7](http://hungoverowls.tumblr.com/photo/1280/1098971655/1/tumblr_l8jxh49fSA1qclcx7) [#](http://twitter.com/selenamarie/statuses/24722319054)
+
+- Feeling slightly guilty for having cream in my coffee while volunteering at #[vegfest](http://search.twitter.com/search?q=%23vegfest) but flier sez we're all on a continuum [#](http://twitter.com/selenamarie/statuses/24860922021)
+
+- The rain's not going to stop, is it? #[hrmph](http://search.twitter.com/search?q=%23hrmph) [#](http://twitter.com/selenamarie/statuses/24881634690)

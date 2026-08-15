@@ -1,0 +1,26 @@
+---
+title: "Backup, Backup, Backup"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2008
+date: 2008-10-20
+venue: "Crooked Timber"
+authors: "Henry Farrell"
+source_url: https://crookedtimber.org/2008/10/20/backup-backup-backup/
+retrieved: 2026-08-13
+content: full-text
+notes: "Crooked Timber post id 8185; retrieved via the site's WordPress REST API (wp-json/wp/v2/posts). Comments not included."
+---
+
+# Backup, Backup, Backup
+
+## Full text
+
+Michael Froomkin has a tale of terror.
+
+Recently, the system has been a bi[t] weird, with very slow file access times (windows explorer would take forever to open, ditto with file dialogs in programs), and I also was worried that my copy of Firefox was compromised … First, I decided to take the plunge and migrate to a larger disk, and ordered up a “green” WD7500AACS. (Three quarters of a terrabyte! Whoohoo!) About three or four weeks ago, I copied my files on to it using using XXClone, a nice piece of freeware that basically makes an entire copy of Drive A (including operating system) onto drive B. … But things were still slow sometimes. I decided it was time to kill the trojan, or whatever, that seemed to be infesting my system. I also decided that I should go back to hardware RAID, since I don’t back up my files enough. … When I got back, the files were there, and I ran the first one. It duly called for a reboot and I did it — only to get error messages and a lockup. …at which point the disk wouldn’t boot any more. But no problem, I had my backup, the 160GB version. … But now that the two disks are in the system, with the 750Gb disk on the second pair of SATA ports, which are RAID capable (but were properly set for ordinary non-RAID use in the bios), the Windows system on the first 160GB disk decided they needed to be reactivated. … But the 750GB version worked. So that’s good. But now I’m nervous, things seemed jinxed. So I order up a second WD7500AACS, and plan to RAID mirror them. … Now, time extra backups. I’m a little nervous about hardware raid, in part because I’m a little dyslexic. … So I decided to make a software clone onto the new disk with XXClone, so that whichever way I copied the data would be OK. … I installed the disk, started up the format, and went of to do some stuff. When I got back, I found a blue screen of death, a 0024 failure (that I gather means a loose wire, something version one the sata hardware standard made all too easy). When I tried to reboot, I got a smart drive error – the disk is bad. I flip some disks around. One of the 160GB disks won’t boot either — “Disk error”. When the dust settles I have some very high-tech paperweights. … I’ve lost 3 weeks or more of personal data, only most of which can be reconstructed. . My work files, on the other hand, either on a unix server or on a USB stick, which I religiously back up at home and work, so that’s OK. My personal financial info, which isn’t backed up for the last 3+ weeks, I can recreate
+
+Some life lessons here – the most obvious being the frequently repeated one of backup, backup, backup and _keep non-local copies of your data_ in case of massive system breakdown/fire/nuclear war etc. If it can happen to Michael Froomkin, who is much more technically adept and conscientious about backing up than you are (for most local values of ‘you’) it can happen to anyone. Happily, Michael appears to have lost nothing more than some easily recreatable data (and a lot of time, assuming he can get refunds for non-functioning hardware). If he were someone who didn’t religiously back up his material, he’d be in far worse shape. Non-local file backup is pretty easy to do these days, and relatively cheap. I use Sugarsync which synchronizes my three Windows machines very nicely 1 and as a side-benefit provides me with backups against local hardware errors. Kieran discusses a couple of alternatives here (PDF), but whatever system you use, I really recommend that you institute _some system for doing this_ and that you _do it today_ rather than putting it on the long finger (which will most likely mean, given most people’s heuristics for this kind of stuff, that you won’t do it until you REALLY NEED TO, at which point it will sadly be too late).
+
+1 I understand that it doesn’t work as well for Macs, which to my deep and everlasting regret isn’t a problem for me. The week before last, my university unexpectedly delivered me a lovely new MacBook Pro, which I had some eight hours to fall in love with before I discovered that it had been sent to me thanks to an administrative error, and that it in fact belonged to one of my colleagues. I’m still bitter, as you can tell (but in the unlikely event that an Apple executive is reading this post, and wants to reach out to the crucial academic-blogger constituency by handing out one of their new machines, they can find an enthusiastic evangelist for their product at this address …) More generally (and to get back from the griping), be aware that Sugarsync is not designed as a back-up product as such, and will do _nothing_ to save you from user generated errors (indeed it may make them more devastating). If you delete the one and only copy of your dissertation datafile from a synchronized folder, you will find of course that it is deleted from the copies of this folder on your other machines too. So caveat emptor.

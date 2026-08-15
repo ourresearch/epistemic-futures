@@ -1,0 +1,78 @@
+---
+title: "Retraction Watch turns 10: A look back, and a look forward"
+person: ivan-oransky
+section: by
+type: blog-post
+year: 2020
+date: 2020-08-03
+venue: "Retraction Watch"
+authors: "Ivan Oransky"
+source_url: https://retractionwatch.com/2020/08/03/retraction-watch-turns-10-a-look-back-and-a-look-forward/
+retrieved: 2026-08-13
+content: full-text
+notes: "Fetched via WordPress REST API; CC-licensed blog content."
+---
+
+# Retraction Watch turns 10: A look back, and a look forward
+
+## Full text
+
+Adam and Ivan, circa 2012
+
+Ten years.
+
+On Aug. 3, 2010, we published our first post on Retraction Watch. Titled, [“Why write a blog about retractions?”](https://retractionwatch.com/2010/08/03/why-write-a-blog-about-retractions/), the welcome letter to readers outlined our hopes for the new blog. Retractions, we felt then, offered “a window into the scientific process,” as well as a source of good stories for journalists. In both regards, we have not been disappointed. 
+
+But the post didn’t explain how *we* came to blog about retractions. Although we’ve explained that history many times in talks and interviews, we’ve never written about it on Retraction Watch. So, for those who are curious, here’s the brief version: The year before, one of us (Adam) was the editor of *Anesthesiology News*, a monthly magazine for anesthesiologists; Ivan, meanwhile, was editing the online edition of Scientific American. In March 2009, [*Anesthesiology News*](https://www.anesthesiologynews.com/Policy-Management/Article/03-09/Fraud-Case-Rocks-Anesthesiology-Community/12634/ses=ogst) broke the case of [Scott Reuben](https://retractionwatch.com/category/by-author/scott-reuben-retractions/), a Massachusetts pain specialist who had fabricated his data in roughly 20 studies. Ivan saw the story for what it was — not just a bit of misconduct in a small medical specialty but a “[Medical Madoff](https://www.scientificamerican.com/article/a-medical-madoff-anesthestesiologist-faked-data/)” moment — and covered it as well. (That instinct was right; Reuben eventually went to prison for health care fraud and lost his medical license, and the field of anesthesiology coped with the fallout from his misconduct for years.) 
+
+That story prompted frequent emails and phone calls between us about retractions one or the other of us had seen. “What do you think that means?” “Isn’t that his third?” In July 2010, Ivan suggested that we start a blog about retractions. He’d already been working on another blog, [Embargo Watch](https://embargowatch.wordpress.com/), and knew the WordPress ropes. Adam, a novice to the blogosphere, figured that covering a retraction or two a month wouldn’t be a heavy lift. 
+
+That would not be the last time one of us misjudged a situation.
+
+As it turned out, the problem wasn’t finding retractions to write about — it was trying to prioritize which ones to cover first. We quickly amassed a to-do list with dozens of potential posts. 
+
+We had some early good luck. A week after our launch, Ivan wrote about the retraction of a [paper which claimed that Jesus cured a woman with flu](https://retractionwatch.com/2010/08/12/the-shroud-of-retraction-virology-journal-withdraws-paper-about-whether-christ-cured-a-woman-with-the-flu/). That caught the attention of a public radio station in Hartford, Conn., which booked him for an interview on the Colin McEnroe Show. We also caught the eye of Craig Silverman, then at the Columbia Journalism Review, who [profiled our new project](https://archives.cjr.org/the_observatory/retraction_action.php). (“Hopefully, Retraction Watch will nudge scientific publishers towards increased openness.”) And Nicholas Wade, of the *New York Times*, [wrote about our work](https://www.nytimes.com/2010/10/15/science/15retract.html) two months later, after we covered the retractions of a paper in *Nature* by Harvard’s Amy Wagers. 
+
+We were getting recognized — and we were having fun. 
+
+Adam and Ivan circa 2013. We showed up to a meeting — unplanned — wearing the same shirt.
+
+That was part of our only real rule: As long as we were having fun, and the effort wasn’t costing us money — later modified to “too much money” — we would keep it up. As early followers of our work know, we tried not to take ourselves too seriously. Our headlines were irreverent, and overdosed on puns — like one of our all-time favorites, “[Carrion, my wayward son: Vulture paper from Spanish researcher suspected of misconduct retracted](https://retractionwatch.com/2012/09/10/carrion-my-wayward-son-vulture-paper-from-spanish-researcher-suspected-of-misconduct-retracted/),” from 2012. 
+
+Some readers appreciated the attempts at humor, others did not. Still others [turned to legal threats](https://retractionwatch.com/2013/04/10/md-andersons-bharat-aggarwal-threatens-to-sue-retraction-watch/) to get us to take down posts (we never have, although we have [retracted one post](https://retractionwatch.com/2019/05/07/authors-remorse-researchers-retract-paper-so-they-can-publish-it-in-a-journal-with-a-higher-impact-factor/) of the more than 5,000 we’ve published, not because of a lawsuit threat but because it turned out to contain a significant error). Others [filed false DMCA takedown notices](https://retractionwatch.com/2013/02/05/wordpress-removes-anil-potti-posts-from-retraction-watch-in-error-after-false-dmca-copyright-claim/) — which typically had the [opposite effect the filers intended](https://retractionwatch.com/2014/03/14/fight-against-false-copyright-claims-goes-to-capitol-hill/). 
+
+But all the while it was just the two of us — “two guys with day jobs” was how we often put it, turning out a couple of posts a day, five days a week. That changed in 2014, when to our enormous good fortune we were approached by the MacArthur Foundation. A program officer there had been following Retraction Watch and was intrigued by our work and thought it deserved a chance to grow. MacArthur gave us a generous grant that allowed us to hire several people — among them Alison McCook, who became our editor — so that we could focus on building not only Retraction Watch the news site but also the Center for Scientific Integrity, the non-profit we created to support our work, and the Retraction Watch Database. While we always gave relevant people — authors, editors, publishers and universities, among others — opportunities to comment on stories, the additional staff allowed us to dive deeper. 
+
+Less than six months into that grant, we broke a story that seemed to [cement our place](https://www.nytimes.com/2015/06/16/science/retractions-coming-out-from-under-science-rug.html) — and crashed our servers.
+
+Most of the Retraction Watch staff, circa 2016: Adam, Alison Abritis, Shannon Palus, Alison McCook, Ivan
+
+In May 2015, Michael LaCour was a political scientist with a bright future. He was graduating from UCLA, and heading to a tenure-track position at Princeton. That wasn’t surprising. LaCour had published a blockbuster of a paper in *Science* the previous December, one claiming to show that short conversations with “gay canvassers” could change peoples’ minds on same-sex marriage. 
+
+The paper could not have come at a more opportune time for advocates. It was published five months before an Irish constitutional referendum on the subject. It captured attention worldwide, and was the subject of an episode of This American Life.
+
+But when David Broockman and Joshua Kalla, graduate students at University of California, who were excited about the results and wanted to extend the work, took a look at the data — or, as will become clear, the alleged data — something didn’t sit right. Eventually, Broockman and Kalla made LaCour’s co-author, Donald Green, aware of their doubts, and Green retracted the paper. 
+
+As [*The New Republic* recounted a day later](https://newrepublic.com/article/121876/door-door-deception), we were tipped off to the story by Lila Guterman, then of *Science News*, [published a post](https://retractionwatch.com/2015/05/20/author-retracts-study-of-changing-minds-on-same-sex-marriage-after-colleague-admits-data-were-faked/) a little after 7 a.m. Eastern time on May 20th, and then saw our servers crash just a few hours later because of all of the traffic. For two weeks, it seemed, Ivan did nothing but media interviews. We had been quoted often before, but nothing like this — until of course, COVID-19, during which reporters’ calls [have been non-stop](https://www.google.com/search?q=%22retraction+watch%22+coronavirus&rlz=1C1GCEB_enUS826US826&tbm=nws&sxsrf=ALeKk00J295-JH8s9nuX0qMT0ZPG9bJjqg:1596409683316&source=lnt&tbs=sbd:1&sa=X&ved=0ahUKEwjv09vA0f3qAhX9gXIEHVICBBsQpwUIJA&biw=1280&bih=561&dpr=1.5), not that we are complaining.
+
+Meanwhile, the funding from MacArthur was soon followed by another generous grant, this one from the John and Laura Arnold Foundation. That money enabled us to continue to build the [Retraction Watch Database](http://retractiondatabase.org/), which our outstanding researcher, Alison Abritis, has turned into the world’s largest and most comprehensive repository of retractions. 
+
+The Helmsley Charitable Trust followed that with a third grant, which allowed us to hire a consultant to explore how to make our project sustainable. The Helmsley grant also allowed the two of us to pay ourselves a part-time salary — something we’ve had the opportunity to do for short periods of time, but not for most of the 10 years of Retraction Watch. A renewal from Helmsley allowed us to put some of the plans we created into place.
+
+Over the years, directly and indirectly, support from foundations, individual donors, and revenue from freelance writing and speaking — all of which we donate to the Center — has allowed us to introduce various features and grow our capabilities. We launched [Weekend Reads](https://retractionwatch.com/category/weekend-reads/) in late 2013, and it has appeared every Saturday since. Our [daily newsletter](http://eepurl.com/bNRlUn) — now with nearly 6,500 subscribers — debuted in January 2016. We began filing public records requests regularly once we figured out the best document targets, and those requests have paid off in [important stories](https://retractionwatch.com/2015/01/14/u-colorado-golden-boy-grad-student-faked-data-drug-lab-says-investigation/), whether about [what really happened in a case of misconduct](https://undark.org/2018/05/14/scientific-fraud-academic-fraud-universities/), or [how slow journals have been to correct the record](https://retractionwatch.com/2018/07/13/nearly-two-years-after-a-university-asked-for-retractions-two-journals-have-done-nothing/).
+
+And we officially launched the [Retraction Watch Database](http://retractiondatabase.org) in October 2018 with a [feature piece in *Science*](https://www.sciencemag.org/news/2018/10/what-massive-database-retracted-papers-reveals-about-science-publishing-s-death-penalty), working with their data team, reporters, and editors. We’re thrilled that dozens of scholars have requested the dataset for their work, and that so many studies have cited it, or our work elsewhere. We still smile every time a Zotero user [tweets their pleasant surprise](https://twitter.com/thoughtsofaphd/status/1189635190135672838) at learning that one of the papers in their library has been retracted — the result of our [partnership with Zotero](https://www.zotero.org/blog/retracted-item-notifications/) that launched last year. There are now more than 22,000 retractions in the database.
+
+Some of the Retraction Watch staff, circa 2017: Alison McCook, Alison Abritis, Victoria Stern, and Andrew Han
+
+Of course, the blog has continued apace. We’ve now published more than 5,000 posts on RetractionWatch.com. But over the past decade we’ve also written scores of articles about retractions and related issues for a variety of other news outlets. The first of these were for *Lab Times*, which [in 2011](https://retractionwatch.com/2011/03/29/why-all-retraction-notices-should-be-open-access-our-first-labtimes-column/) invited us to write a regular column about interesting retractions we’d come across. [Since 2013](https://www.the-scientist.com/daily-news/top-10-retractions-of-2013-38213), we’ve been pleased to be asked by *The Scientist* to round up the year’s top 10 retractions.
+
+Then, in late 2015, we joined the roster of regular contributors to what was then a new website called STAT, a spin-off of the *Boston Globe*. Through our [Watchdogs](https://www.statnews.com/category/the-regulars/the-watchdogs/) column, we covered not just retractions but [problems with peer review](https://www.statnews.com/2017/07/20/peer-review-research/), [reproducibility](https://www.statnews.com/2016/06/01/reproducibility-science/) of results and other hot topics in science. We landed opinion pieces in places like [*JAMA*](https://doi.org/10.1001/jama.2018.0358), the [*New York Times*](https://www.nytimes.com/2015/05/23/opinion/whats-behind-big-science-frauds.html), the [*Washington Post*](https://www.washingtonpost.com/opinions/more-science-than-you-think-is-retracted-even-more-should-be/2018/12/26/dc14fa98-0950-11e9-a3f0-71c95106d96a_story.html), the [*Wall Street Journal*](https://www.wsj.com/articles/getting-the-bogus-studies-out-of-science-1440024409) and [*Wired*](https://www.wired.com/story/the-science-of-this-pandemic-is-moving-at-dangerous-speeds/). And while we don’t intend on making a habit of it — we’ll leave that to the scholarly experts — we have even co-authored some [original research](https://www.americanjournalofsurgery.com/article/S0002-9610(17)31228-X/abstract).
+
+Over time, many of our grants ended as the funding priorities of our foundation benefactors evolved, as they naturally do. We’ve had to pare down our staff and are now back to where we started, plus Alison — whose PhD thesis was about retractions — and the occasional intern to help us report and write. But last year, thanks to C.K. Gunsalus, of the University of Illinois, and her colleagues, we are contributing to a multi-year project funded by the Howard Hughes Medical Institute to help improve training in research integrity — important work that we’re honored to be a part of. 
+
+As we enter our second decade, we remain committed to this “side project” that, when we’re being honest, has taken over our nights and weekends. It’s truly a privilege to be able to do this work, and we can’t wait to see what happens over the next 10 years — and the 10 years after that. We could not do it without our tens of thousands of readers, contributors, tipsters, and experts around the world. (For those wondering, traffic has never been consistently higher, with more than 600,000 pageviews per month for the last three months.)
+
+We would be remiss, however, if we did not use this celebration as an opportunity to ask for your help in continuing our work. Through the generosity of a few donors, we have secured a match for up to \$10,000 we raise in the next two months. We’re already part of the way there, thanks to some readers who have responded to an email we sent out last week. Every bit helps, so please consider contributing [here using Paypal](https://www.paypal.com/us/fundraiser/charity/1909130) or [here using Crowdrise](https://www.crowdrise.com/donate/charity/the-center-for-scientific-integrity-inc) — and thanks! To send a check, make it out to “The Center For Scientific Integrity” and mail it to: 121 W. 36th St., Suite 209, New York, NY 10018.
+
+Thanks for making this a productive and instructive decade for us. For a look at 10 takeaways from the last decade, [click here](https://retractionwatch.com/2020/08/03/ten-takeaways-from-ten-years-at-retraction-watch/).

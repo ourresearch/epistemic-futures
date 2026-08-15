@@ -1,0 +1,40 @@
+---
+title: "What I Do"
+person: adam-becker
+section: by
+type: blog-post
+year: 2011
+date: 2011-08-18
+venue: "freelanceastrophysicist.com (personal blog)"
+authors: "Adam Becker"
+source_url: https://freelanceastrophysicist.com/2011/08/what-i-do/
+retrieved: 2026-08-13
+content: full-text
+notes: ""
+---
+
+# What I Do
+
+## Full text
+
+Sorry I’ve been off the radar for the past two weeks. I’ve been preparing to go to this conference, one of the largest cosmology conferences in the world. Hopefully, I’ll have time to post about a few of the things going on there. For now, though, I’m going to tackle what’s easily the most common question that I get…
+
+The story so far:
+
+Physicists are notorious for oversimplifying things in the name of mathematical modeling. There’s the old joke about spherical cows, radiating milk isotropically, which I’ll spare you here, but the reason we do this is that you can often learn an awful lot about something by simplifying it down to the interesting and easy-to-model parts — which are hopefully the same! The trick is knowing which parts can safely be ignored, but if you do that right, you can get an amazing amount of information about something with a very simple model of it. A powerful example of this is thermodynamics: we can totally ignore the working details of a device — any device of any kind that does anything remotely useful, from a refrigerator to a spaceship to a human brain — and still calculate hard limits on how much stuff we can get the device to do, how long it can do it, and how efficient it can be. Cosmologists do the same thing with the universe as a whole. We ignore small-scale details — anything smaller than a galaxy, as a rule — and find that we can still get a picture of what’s happening to the universe on the largest scales over its entire history. For our most impressive tricks, like calculating the age of the universe, we use two of our most helpful simplifying assumptions: we assume that the universe is homogeneous, meaning that no region of space is particularly special or different from any other; and isotropic, meaning that no direction in space is particularly special or different from any other. Plug these assumptions into the Einstein field equations from general relativity, and out pops a set of equations that describe the entire universe. Four guys came up with these equations independently of one other, so the set of equations is named after all of them: the Friedmann-Lemaître-Robertson-Walker (FLRW) metric. I’m not going to go into a detailed description of the FLRW metric here, at least not now. The point is merely that by making a couple of assumptions about the symmetries of the universe, we get these wonderful equations that give us a story about the history of the Universe which matches remarkably well with all of our data.
+
+Except, of course, that those equations are wrong, because the universe is neither homogeneous nor isotropic. Look around you. I’m going to go out on a limb and guess that you see things, probably made of stuff. If the universe were perfectly homogeneous and isotropic, there wouldn’t be any things, because everything would look the same, no matter where you looked. You wouldn’t exist either — after all, you’re a thing too. The universe would simply be filled with stuff, smeared out evenly and smoothly in all directions, like cream cheese on a cosmic bagel, without a thing in sight. Obviously, we don’t live in a universe like that; even on big scales, the universe is lumpy with galaxies and the vast spaces between them. Yet the FLRW metric does describe a perfectly even and smooth universe, and somehow matches all of our data from this universe remarkably well anyway. What’s going on here?
+
+Our universe certainly isn’t a “cream cheese” universe, ((The technical term we use for “cream cheese” in cosmology is “dust.”)) even on big scales, but if you look at it on really big scales — and I mean really big, like tens or hundreds of thousands times bigger than the Milky Way — it is kind of smooth. Have a look at this picture here, taken from the same simulation as the picture up on the top of the site:
+
+Sure, there’s some structures in there — looks kind of like bubbles, or a web — but those structures are really small compared to the size of the picture, and this picture is only a simulated image of 1/10,000th of the entire universe. So on the whole, the universe is kind of homogeneous and isotropic, and modeling it that way is justified. And the universe was even more homogeneous and isotropic when you go way back in time. These days, the dense regions (bright areas in the image) can be several hundred percent denser than the sparse regions (dark areas). But in the really early universe, the differences in density between the densest regions and the sparsest regions were more like one part in 100,000. Over time, matter was attracted to the slightly denser regions due to gravity, and eventually we ended up with the massive differences in density that we see today. This video shows part of that process really well, from about ten million years after the Big Bang to today, 13.8 billion years later: ((The box expands to keep up with the expansion of the universe, so you’re looking at the “same” cube of space, which today is about 140 million light-years on a side (a thousand times bigger than the diameter of the Milky Way). That number up in the corner is the redshift parameter z, for those of you keeping score at home. The simulations shown in the video were performed at the National Center for Supercomputer Applications by Andrey Kravtsov (The University of Chicago) and Anatoly Klypin (New Mexico State University), with visualizations by Andrey Kravtsov.))
+
+But now we have a new question — or a new spin on a very old question. Without those tiny differences in density, one part in 100,000, way back in the very early universe, none of us and none of our things would exist: no Milky Way, no Sun, no Earth, no nothing. So where did those little differences come from? To put it a different way, where did we come from?
+
+Our best guess is a theory called inflation. Basically, the idea is that immediately after the Big Bang, there was a period of insanely fast exponential expansion that lasted roughly a billionth of a trillionth of a trillionth of a second, during which the universe increased in size by a factor of at least 1078 — a million trillion trillion trillion trillion trillion trillion, a one with 78 zeros after it. This solves the puzzle of the early differences in density through the magic of quantum mechanics. ((This isn’t the only problem that inflation solves — inflation was originally proposed as a solution to several other puzzles about the early universe. But that’s a subject for a different post.)) Quantum mechanics famously says that at tiny scales, a kind of random behavior takes over, a random behavior that doesn’t really show up at larger scales. ((Yes, yes, I know really well that this is a hideous simplification. But it’s not wrong, and it’s perfectly adequate for explaining what I’m talking about here. If you want to take me to task for this, feel free to do so in the comments.)) Inflation says that right after the Big Bang, just before (and during) this super-fast expansion, there were tiny random quantum fluctuations in the amount of stuff at small scales. But because of this super-fast expansion, those tiny differences in density at small scales got blown up to gigantic scales in a fraction of a second, becoming the tiny differences in density on large scales that eventually led to stars, galaxies, and us.
+
+But there’s a problem: inflation is a theory, in the weak sense — we don’t know if it’s correct. Worse, there are different theories of inflation, so even if inflation is the answer, we don’t know which of those inflationary theories is the correct one. So how do we figure out what really happened?
+
+Well, that’s what I — and a lot of other people — try to do.
+
+Next time: how I (and others) actually do that…

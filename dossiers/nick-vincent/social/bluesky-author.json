@@ -1,0 +1,13 @@
+{
+ "did": "did:plc:doxvahqvyhyqf32v7wz7p5xk",
+ "handle": "nickmvincent.bsky.social",
+ "displayName": "Nick Vincent",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:doxvahqvyhyqf32v7wz7p5xk/bafkreibzipyfkfluuot65islh576nymryjrmc4y4wxhc4sh65jo3ei2agi",
+ "associated": {
+  "activitySubscription": {
+   "allowSubscriptions": "followers"
+  }
+ },
+ "labels": [],
+ "createdAt": "2023-04-07T16:36:12.853Z"
+}

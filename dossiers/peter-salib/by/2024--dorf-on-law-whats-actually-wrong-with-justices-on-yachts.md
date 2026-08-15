@@ -1,0 +1,52 @@
+---
+title: "What's Actually Wrong with Justices on Yachts?"
+person: peter-salib
+section: by
+type: blog-post
+year: 2024
+date: 2024-01-12
+venue: "Dorf on Law"
+authors: "Peter N. Salib & Guha Krishnamurthi"
+source_url: https://www.dorfonlaw.org/2024/01/whats-actually-wrong-with-justices-on.html
+retrieved: 2026-08-13
+content: full-text
+notes: "Guest post on Michael Dorf's blog. Companion to the article 'Justices on Yachts: A Value-Over-Replacement Theory.' Found via the Dorf on Law Blogger search feed; not listed on peternsalib.com/writing/."
+---
+
+# What's Actually Wrong with Justices on Yachts?
+
+## Full text
+
+By Guha Krishnamurthi & Peter N. Salib
+
+In recent months, reporting has opened a window into the fabulous lifestyles of the Justices of the Supreme Court. Certain Justices have been luxuriously pampered by wealthy benefactors, individual and institutional. This includes various expensive vacations—including yacht trips with glacial ice cocktails—and plush book deals from various publishing houses. Perhaps most starkly, Justice Thomas has received sweetheart deals on a real estate property and a luxury RV. His grand-nephew’s private school tuition was likewise paid for by billionaire-friend Harlan Crow. 
+
+Something seems wrong, though it’s not clear what. Some commentators have attempted to unearth connections between these gifts and the voting behavior of the beneficiary Justices, but these are tenuous at best. Without trying to predict ProPublica’s next blockbuster report, we think that the current state of public knowledge does not show any kind of quid pro quo, cash-for-votes kind of corruption. 
+
+This has led many to another explanation—that such pampering erodes the public legitimacy of the Court. While there is some public survey evidence that suggests the public is rankled, it remains unclear why they should be. Perhaps the public is simply wrong to be upset. 
+
+We think that the public may well be right, and we proffer an explanation why. In our model, pampering Justices is not intended to influence how any Justice votes in any particular case. Rather, the point is to influence whether the Justice will stick around on the Court to vote at all. Justices, especially the more seasoned ones, have many career options. Almost all of them are far more lucrative than government work. Thus, as a Justice’s star rises, the siren song of the speaking circuit, or a cushy nominal partnership at a big law firm, may begin to call. If wealthy benefactors like a specific Justice’s jurisprudence, they may have reasons to delay that Justice’s retirement as long as possible. If they are successful, the Justice will keep voting reliably the way they would be inclined to vote anyway. 
+
+Since we started writing, there have been some reports that strongly substantiate our thesis. First, the prominent never-Trump conservative commentator George Conway explained that conservative activist Leonard Leo acted as a “den mother” to the Justices—that it was “his responsibility . . . to help take care of the judges even after they had made it to the highest court in the country. ‘Part of what Leonard does is he tries to keep them happy so they stay on the job.’”
+
+Second, a couple of days after we posted our longer version of this blog post on SSRN, ProPublica published a report that, in the early 2000s, Justice Thomas expressed concerns about judicial pay, suggesting that he might leave due to financial considerations. Thereafter, conservative activists made a concerted effort to get Justice Thomas what he needed to choose to remain on the Court. 
+
+Essentially, what we have is a model of pampering Justices around the idea of a value-over-replacement theory. That is, some benefactor decides whether to spend money and resources to pamper the Justices, based on whether the Justice is more valuable to the benefactor’s interests than the likely replacement Justice. Familiar first to baseball fans, we think this theory can be employed to explain the rational purpose behind such judicial pampering—reasoning that is unrelated to quid pro quo cash-for-votes. We assume that Justices’ voting behavior is predictable, and that Justices have a variety of lucrative outside options if they were to retire. Some examples include going to a law firm, traveling the speaker circuit, or leading a think tank. At some point, the opportunity cost of staying on the bench may become too high for a Justice. In response, outside parties may intervene—to match the money that Justices could get from outside options so that the Justices remain on the bench. This has the potential to warp the decisions of the Court—not by changing any Justice’s votes, but by preserving a particular judicial roster. On net, we think this practice will push the Court’s decisions in favor of political ideologies that are both wealthier and more extreme.
+
+Our model generates real-world predictions about how these payments would rationally be made, with some surprising results. Below, we give a sketch of our model. The full Essay, with many more details, is available here.
+
+First, we think that the party of the current president does not matter that much to the calculus. There are already strong incentives—both ideological and self-interested—to deter Justices from resigning during the opposite party’s presidency. When the opposing party is in power, a Justice’s likely replacement will be very distant from—even diametrically opposed to—the Justice’s own jurisprudence. This is a disincentive in its own right. But even if a Justice no longer cares about such judicial politics, resignation during the opposing party’s presidency may severely disappoint the Justice’s ideological camp. This could impact the Justice’s otherwise plum exit options. Certainly, not all of a Justice’s options are sensitive to ideological disappointment. But we think options that trade on the Justice’s standing—like working the speaking circuit, being a rainmaker at a firm, or a symbol of prestige at any institution—will be so responsive. 
+
+Second, we expect that Justices with more extreme legal and political views will get more pampering. Here’s why: if we are correct that most resignations will come during same-party presidencies, then liberals will generally be replaced by liberals, and vice-versa. Many potential benefactors may rationally prefer most such replacements. If nothing else, the replacement of older justices with similar young ones reduces the risk of a vacancy-by-death when the benefactor’s disfavored party is in power. Thus, if the potential benefactor likes the politics of the average expected replacement, the incentives are against pampering to delay retirement. 
+
+But for potential benefactors with more extreme or idiosyncratic jurisprudential preferences—as compared with their party’s average expected judicial appointee—the incentives flip. Then, when a Justice comes along whose views are similarly extreme, it makes sense for benefactors to attempt to delay the Justice’s retirement as long as possible—with luxurious pampering, if required. The expected replacement, even by the same party, will be much worse, in the benefactor’s eyes. 
+
+Third, we expect relatively older Justices to receive more pampering. That is principally because older Justices will have more lucrative exit options than younger Justices. Many potential outside employers will not want to pay huge speaking honoraria or grand salaries to Justices who have spent only a few years on the bench. True, there are exit options for the newbies. For example, law firms that are seeking to leverage the Justices’ knowledge of the Court and its dynamics, will be willing to pay regardless of age. But we contend that older Justices, especially those who have become stars in their political coalition, will be able to command a higher price. Specifically, in many cases, they will garner interest from any of those interested in younger Justices, plus others that are grounded in greater prestige—and since many of these outside options can be concurrently pursued, we think older Justices have it better.
+
+Of course, at some point, Father Time catches up, and there may be a drop-off in a Justice’s outside option value. One might expect a commensurate drop-off in pampering. But Justices can still choose to retire—to consume leisure, rather than income. That option may look especially attractive as Justices age and the work of the Court becomes onerous. Then, it may be in benefactors’ interest to keep up with the pampering. It does involve balancing some delicate risks and preferences. As Justices age, they may die, and thus be replaced by Justices of the opposite party. Depending on a benefactor’s assessment of that risk, and their preference for the particular Justice’s jurisprudence over the likely replacement—even if appointed by the other party—it may be better to usher and incentivize a Justice into retirement.
+
+We think the anecdotal evidence of how and which Justices have been pampered lends credence to our theory. But regardless, if we’re right, one might still ask: What’s wrong with any of this?
+
+The problem, as we see it, is that pampering Justices isn’t available to everyone—not everyone has a yacht to share. Only certain interests will have backers who can offer luxuries to the Justices and thus induce them to stay on the bench. For example, anti-tax advocates can afford the pay-to-stay, but criminal defendants and their advocates cannot. Over time the practice of lavishing luxuries on Justices will have a selection effect that benefits moneyed interests, consequently warping the Court’s makeup and its decisions.  
+
+As we discuss in the paper, the full story about moneyed interests cannot simply be boiled down to the Right-Left divide. The ProPublica reporting suggests that conservative Justices Alito and Thomas have jurisprudential commitments favored by some billionaires. At the same time, we think that there are some traditionally left-associated interests that might be backed by billionaires—like environmental protection. And there will be some right-associated interests—perhaps regulating Big Tech—that will have significant money against them. Ultimately, the warping we identify will be in favor of moneyed interests—whatever those actually are. The potential for such warping is commonplace in other political branches, thus giving rise to campaign finance regulation. We think that same recognition is long overdue for the Court.

@@ -1,0 +1,17 @@
+{
+ "did": "did:plc:l3nyk2qerbmdtqh5stqmpdhh",
+ "handle": "earthspecies.bsky.social",
+ "displayName": "Earth Species Project (ESP)",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l3nyk2qerbmdtqh5stqmpdhh/bafkreibuhg6myp3ispmancy55lv43vyhgqedyurtsb63rfce2ls6pdmw6y",
+ "associated": {
+  "chat": {
+   "allowIncoming": "none",
+   "allowGroupInvites": "none"
+  },
+  "activitySubscription": {
+   "allowSubscriptions": "followers"
+  }
+ },
+ "labels": [],
+ "createdAt": "2024-12-04T23:28:46.347Z"
+}

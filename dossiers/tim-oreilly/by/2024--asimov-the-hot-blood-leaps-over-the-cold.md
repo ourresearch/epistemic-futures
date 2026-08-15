@@ -1,0 +1,40 @@
+---
+title: "The hot blood leaps over the cold decree"
+person: tim-oreilly
+section: by
+type: blog-post
+year: 2024
+date: 2024-09-04
+venue: "Asimov’s Addendum"
+authors: "Tim O'Reilly"
+source_url: https://asimovaddendum.substack.com/p/the-hot-blood-leaps-over-the-cold
+retrieved: 2026-08-13
+content: full-text
+notes: "Asimov’s Addendum, the Substack of Tim O’Reilly and Ilan Strauss on AI commercialization risks and governance; published CC BY 4.0. Retrieved from the free public post page."
+---
+
+# The hot blood leaps over the cold decree
+
+## Full text
+
+In Arthur Conan-Doyle’s 1892 short story “Silver Blaze,” Sherlock Holmes draws the attention of a Scotland Yard detective to “the curious incident of the dog in the nighttime.” The detective is perplexed: “The dog did nothing,” he says. To which Holmes replies, “That was the curious incident.” The dog made no noise when the racehorse was stolen in the night because, as it turned out, it was not a thief but his owner who took him away. 
+
+Holmes was practicing what John Seely Brown calls [abductive reasoning](<https://www.johnseelybrown.com/JSBpardeerand.html>): “One must ask not only what do I see but what am I not seeing and why?” This is exactly what we must do when considering AI safety. 
+
+What do we see in the current consideration of AI risk? We see serious work being done to assess and limit the ability of AI systems to perform various kinds of identified harms. Safety researchers measure and try to limit the ability of AI models to carry out cybersecurity attacks, to help their users create and deploy bioweapons or other forms of mass destruction, to generate deepfakes that could aid in misinformation or [phishing attacks](<https://www.microsoft.com/en-us/microsoft-365-life-hacks/privacy-and-safety/how-ai-changing-phishing-scams>), or simply to run amok as the result of being given poorly considered objectives. There are [evals](<https://scale.com/leaderboard>) for “instruction following” (the ability of an AI model to faithfully carry out its instructions), “adversarial robustness” (the ability of bad actors to get around safeguards put in place by model developers), and even for the ability of AI to persuade humans to do things on their behalf, or to deceive those who are evaluating their behavior.
+
+But what do we not see? 
+
+We do not see [much attention paid](<https://ai.gov/wp-content/uploads/2024/06/FINDINGS-RECOMMENDATIONS_AI-Safety.pdf>) to the many ways in which harm may be caused by the owners – either the developer/deployers or the third party customers – of AI in pursuit of their business objectives. Take for example the capability of AI to persuade and deceive humans – a capability that played a pivotal role in the 2014 science fiction thriller _[Ex Machina](<https://en.wikipedia.org/wiki/Ex_Machina_\(film\)>)_. Right now, these capabilities are seen as risks to be controlled, but how likely is it that in future AI-juiced advertising businesses, they will be sold as features and amplified? What are we to make of the fact that while OpenAI measures and [reports on persuasiveness as a risk](<https://openai.com/index/gpt-4o-system-card/>), research is proceeding apace on how to use AI to [make advertising more persuasive](<https://midas-research.github.io/persuasion-advertisements/>)? As Shakespeare wrote in _The Merchant of Venice_ , “"The brain may devise laws for the blood, but a hot temper leaps o'er a cold decree." Once advertising becomes a business model for AI, the hot temper will not only leap over the cold decree but lobby to change it. 
+
+That is why, with the [AI Disclosures Project](<https://www.ssrc.org/programs/ai-disclosures-project/>), my colleague Ilan Strauss and I are focused on the intersection of economic incentives and AI safety. 
+
+Our methodology is very close to that of Holmes. We are looking for the curious incidents that open up new vistas for understanding AI risks and possible solutions. We are talking to AI researchers, practitioners, and entrepreneurs, to regulators and civil society organizations, to see the world as they see it, and to see, if we are lucky, things that they do not. (This, by the way, is very much what I’ve done in the past. In 1998, I noticed a curious omission from the dominant free software narrative. It was all about software licensing, and focused only on Linux and other free software that used the GPL license, ignoring the free software that powered the internet (the web itself, which Tim Berners-Lee had put into the public domain, the Apache web server, the Domain Name System, and the TCP/IP stack, which had been developed as part of Berkeley Unix.) Recognition of that gap led to the “open source summit” and a new, broader definition that took into consideration not just licenses but also collaborative, internet centered software development, and an “[architecture of participation](<https://web.archive.org/web/20030624045304/http://www.oreillynet.com/pub/wlg/3017>).” Similarly, in 2004, I asked what distinguished the companies that had survived the dot com bust from those that failed, and identified a new paradigm that I called “[Web 2.0](<https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html>)”: harnessing collective intelligence, big data, and “software above the level of a single device” (later known as “cloud computing.”))
+
+We are just at the beginning of investigating this case. The National Artificial Intelligence Advisory Committee (NAIAC) finds that we simply [don’t have enough evidence](<https://ai.gov/wp-content/uploads/2024/06/FINDINGS-RECOMMENDATIONS_AI-Safety.pdf>) yet to know what a useful AI safety evaluation looks like. This is an area of deep and important ongoing work. But some harms we have seen before, and what is missing is a recognition of the alarming echoes of past technology mishaps. For example, when[ ](<https://www.proofnews.org/seeking-election-information-dont-trust-ai/>)_[Proof News](<https://www.proofnews.org/seeking-election-information-dont-trust-ai/>)_[ studied election misinformation](<https://www.proofnews.org/seeking-election-information-dont-trust-ai/>) and found the responses of most of the leading AI models badly wanting, they were told that their use of the API to test multiple models in parallel rendered their results illegitimate, because _many of the safeguards they put in place do not work with the API._ That is surely a curious fact that needs further enquiry! It immediately brings to mind Cambridge Analytica, and the way in which Facebook’s safeguards of user privacy were easy to subvert because too much trust had been placed in the third party developer. Making this connection, a curious investigator ought to be asking not just what guardrails have been put in place, but also where they have and have not been deployed.
+
+The whole notion that AI risks may not come from hostile outsiders but from the owners of the models seems to be curiously absent. Yet the same risks that bedeviled the last generation of technology are already hiding in plain sight. “Move fast and break things?” The failed boardroom coup at OpenAI and the departure of most of its AI safety experts for rival Anthropic at least suggest that while still giving lip service to AI safety, the race for market dominance holds the upper hand. 
+
+Right now, there is an appetite for measuring and regulating AI risk, but the opportunity to add an understanding of _commercial risks_ is quickly slipping away. It is important for AI safety advocates to develop a baseline, via regular standardized reporting, on what AI developers are measuring and managing now, while they are still focused on safety and before the business models have hardened. These industry best practices should be tracked by regulators and should shape the agenda of policy makers. 
+
+Like the Wizard of Oz, AI companies say “pay no attention to the man behind the curtain.” For true AI safety, we must talk to the corporate wizards and understand the metrics that will over time actually guide their business decision making. The wizards must share their secrets.

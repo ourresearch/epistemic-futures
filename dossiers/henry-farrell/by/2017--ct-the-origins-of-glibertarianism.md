@@ -1,0 +1,34 @@
+---
+title: "The Origins of Glibertarianism"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2017
+date: 2017-08-31
+venue: "Crooked Timber"
+authors: "Henry Farrell"
+source_url: https://crookedtimber.org/2017/08/31/the-origins-of-glibertarianism/
+retrieved: 2026-08-13
+content: full-text
+notes: "Crooked Timber post id 42944; retrieved via the site's WordPress REST API (wp-json/wp/v2/posts). Comments not included."
+---
+
+# The Origins of Glibertarianism
+
+## Full text
+
+Over the last couple of months, I’ve been involved in an on-and-off floating argument over Nancy MacLean’s book on James Buchanan and public choice, Democracy in Chains. This essay, with Steve Teles, lays out the problems we see with the book. The book makes very big claims e.g. that Buchanan provided the political strategies that made Pinochet’s Chile what it was, and galvanized an American right that had been in disarray before his decisive intervention. But the evidence that MacLean provides for these claims is problematic – key documents simply don’t say what MacLean thinks they do. MacLean describes Buchanan as an inventive creator of dastardly political ploys, using terms such as ‘evil genius’ and ‘wicked genius,’ but economists, no more than political scientists, make for good competent political strategists – the median is closer to Professor Pippy P. Poopypants than Svengali.
+
+This said, economists can sometimes have very substantial consequences indeed, albeit through more subtle political channels than those that MacLean posits. At more or less the same time as I was reading Democracy in Chains, I was reading Angus Burgin’s fantastic book on the Mont Pelerin Society, The Great Persuasion. There’s plenty in the latter that I didn’t know and was fascinated to find out (for example: Lippmann’s surprisingly central role in the 1930s European invention of neo-liberalism), but for me the best part was Burgin’s extensive discussion of Milton Friedman. In contrast to MacLean’s treatment of Buchanan, one doesn’t feel expected to boo and hiss every time Friedman appears on the stage. But his account is (I think deliberately) comprehensively damning, and all the more damning because of its subtlety. Burgin on Friedman on race:
+
+“Friedman’s perspective on civil rights was complex. His correspondence from the early 1950s demonstrated a genuine concern with civil rights and a preference for politicians who emphasized the issue. By the time he wrote Capitalism and Freedom, however, he had developed a strong opposition to civil rights legislation. He categorized the problem of segregated schools as one more example of why government-administered education was an unwise idea, arguing that much of the social conflict over desegregation was caused by the absence of institutional alternatives. In Friedman’s view, a world with competing private institutions would be likely to integrate much faster than one with a government-run monopoly. His views on schooling aligned with his argument that market costs would provide the most effective impetus to resolve the social problems that racism imposed. “The man who objects to buying from or working alongside a Negro, for example, thereby limits his range of choice,” he explained. “He will generally have to pay a higher price for what he buys or receive a lower return for his work. Or, put the other way, those of us who regard color of skin or religion as irrelevant can buy some things more cheaply as a result.” He believed that the market, over time and aided by continued public discussion, would eventually lead people to act as the advocates of civil rights legislation wished. His views were indicative of the degree to which he trusted markets to solve even the most apparently intractable and morally abhorrent social problems. 
+
+His unqualified confidence in the ameliorative capacities of the market was not shared by Hayek, who, despite some reservations about the coercive aspects of the fair-employment clause and the public accommodation clause, expressed sympathy for what he otherwise regarded as a “highly desirable” civil rights bill.(pp.202-203).”
+
+What struck me first on reading this was that Friedman has a strong claim to be the world’s first glibertarian, or at the least, one of the most important popularizers of that noxious variety of rhetoric. What struck me second was that the argument beneath this passage, if extrapolated, implies a tolerably precise definition of what glibertarianism is, and why it is so annoying.
+
+Specifically, glibertarianism is a particular kind of circular two step. For the glibertarian, governments are necessarily the problem, because markets (which are, for Friedman, the main form of ‘participative democracy’) are necessarily the answer. Markets, by definition, allow people to get what they want. Thus, for any social problem you care to name, you just let markets and individual freedom work their magic and voila! – one of two things will happen. Either the problem gets solved, in which case, we have yet another demonstration of the awesomeness of markets. Or it does not get solved, in which case we now know that we were wrong in thinking of it as a problem in the first place. We have applied markets, which maximize free choice and thus produce outcomes that are Demonstrably What the People Want. Since the problem has not gone away, it is clearly what the people want, and we should never have worried our silly little heads about it in the first place.
+
+This logic is so neatly constructed as to assume away any possible disproof by definition. Perhaps the definition will not strike you as as much of a revelation as it struck me (or perhaps not so much a revelation, as a disentangling and clarification of things I had never gotten quite clear in my head), but I believe that this definition of glibertarianism can help both counter and resolve many vexing instances of bad right wing rhetoric. There are, of course, many good arguments for markets too, which should not be nearly so readily dismissed, but I will leave the drawing of appropriate distinctions as an exercise for the reader.
+
+I’ve remarked before that in a better world than the one we now inhabit, some left-leaning plutocrat would have already assuaged his or her guilt by picking up the publishing rights for Tom Slee’s No-One Makes You Shop at Wal-Mart, making the title a bit punchier, commissioning Tom to rewrite and update as appropriate, and sending large numbers to schools, universities, libraries, journalists, and other instruments of public enlightenment that they themselves might become better enlightened. NMYSaWM, more than any other that I’ve read, is a specific against Friedman-style glibertarianism, and a specific that employs unimpeachable economic reasoning to demonstrate why the two-step fails. Burgin’s book too is really good, and I strongly recommend it.

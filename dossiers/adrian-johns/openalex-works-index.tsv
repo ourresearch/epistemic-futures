@@ -1,0 +1,61 @@
+openalex_id	year	type	title	venue	doi	oa_status	cited_by	has_abstract	file
+W7165206192	2026	other	The Architecture of Knowledge: Print Culture and the Birth of Modern Science	Faculti	https://doi.org/10.64240/d066cd0c91	closed	0	yes	by/2026--the-architecture-of-knowledge-print-culture-and-the.md
+W4417001905	2025	book-review	Magus: The Art of Magic from Faustus to Agrippa	The Journal of Modern History	https://doi.org/10.1086/738057	closed	0	no	by/2025--magus-the-art-of-magic-from-faustus-to.md
+W4413754151	2025	book-review	The Specter of the Archive: Political Practice and the Information State in Early Modern Britain	The Journal of Modern History	https://doi.org/10.1086/736638	closed	0	no	by/2025--the-specter-of-the-archive-political-practice-and.md
+W4383743839	2023	article	Introduction	Osiris	https://doi.org/10.1086/725077	closed	4	yes	by/2023--osiris-introduction-historicize-algorithmic-cultures.md
+W4386827819	2023	book-chapter	Science and the Book in Early Modern England	Oxford University Press eBooks	https://doi.org/10.1093/oxfordhb/9780198846239.013.19	closed	0	yes	by/2023--science-and-the-book-in-early-modern-england.md
+W4383743606	2023	article	The Craft and Code Binary	Osiris	https://doi.org/10.1086/725089	closed	1	yes	by/2023--the-craft-and-code-binary.md
+W4313462577	2023	book-chapter	Watching readers reading	Reading McLuhan Reading	https://doi.org/10.4324/9781003364191-3	closed	0	yes	by/2023--watching-readers-reading.md
+W4312805346	2022	article	Piracy in the Book Trade	The American Historical Review	https://doi.org/10.1093/ahr/rhac271	closed	0	yes	by/2022--piracy-in-the-book-trade.md
+W4296378712	2022	book	The Science of Reading		https://doi.org/10.7208/chicago/9780226821498.001.0001	closed	7	no	by/2023--the-science-of-reading-book.md
+W3157851950	2021	article	Andrew Pettegree and Arthur der Weduwen. The Bookshop of the World: Making and Trading Books in the Dutch Golden Age.	The American Historical Review	https://doi.org/10.1093/ahr/rhab050	closed	0	yes	by/2021--andrew-pettegree-and-arthur-der-weduwen-the-bookshop.md
+W4205522807	2021	book-chapter	PRIVACY	Information	https://doi.org/10.2307/j.ctv1pdrrbs.94	gold	1	no	by/2021--privacy.md
+W3204837325	2021	article	Watching readers reading	Textual Practice	https://doi.org/10.1080/0950236x.2021.1964750	closed	0	yes	by/2021--watching-readers-reading.md
+W3101989407	2020	book-review	Authors and Apparatus: A Media History of Copyright. By Monika Dommann. Translated by Sarah Pybus. Ithaca, NY: Cornell University Press, 2019. Pp. xvi+264. $41.95.	The Journal of Modern History	https://doi.org/10.1086/711248	closed	0	no	by/2020--authors-and-apparatus-a-media-history-of-copyright.md
+W4245223147	2020	book-chapter	Intellectual Property and the Nature of Science	Cultural Studies	https://doi.org/10.4324/9781003060727-2	closed	0	no	by/2020--intellectual-property-and-the-nature-of-science.md
+W3048183590	2020	article	Orders of Service: Markus Krajewski, The Server	Technology and Culture	https://doi.org/10.1353/tech.2020.0059	closed	0	yes	by/2020--orders-of-service-markus-krajewski-the-server.md
+W3037976475	2020	article	The New Rules of Knowledge: An Introduction	Critical Inquiry	https://doi.org/10.1086/709224	closed	3	yes	by/2020--the-new-rules-of-knowledge-an-introduction.md
+W3048197443	2019	article	10. Inventors, Schemers, and Men of Science		https://doi.org/10.7208/9780226401201-010	closed	0	no	by/2019--10-inventors-schemers-and-men-of-science.md
+W3081603265	2019	article	11. International Copyright and the Science of Civilization		https://doi.org/10.7208/9780226401201-011	closed	1	no	by/2019--11-international-copyright-and-the-science-of-civilization.md
+W3048531567	2019	article	12. The First Pirate Hunters		https://doi.org/10.7208/9780226401201-012	closed	0	no	by/2019--12-the-first-pirate-hunters.md
+W3049717828	2019	article	13. The Great Oscillation War		https://doi.org/10.7208/9780226401201-013	closed	0	no	by/2019--13-the-great-oscillation-war.md
+W3047746097	2019	article	16. From Phreaking to Fudding		https://doi.org/10.7208/9780226401201-016	closed	0	no	by/2019--16-from-phreaking-to-fudding.md
+W3082669533	2019	article	17. Past, Present, and Future		https://doi.org/10.7208/9780226401201-017	closed	0	no	by/2019--17-past-present-and-future.md
+W2496166134	2019	article	3. The Piratical Enlightenment		https://doi.org/10.7208/9780226401201-003	closed	1	no	by/2019--3-the-piratical-enlightenment.md
+W3083768378	2019	article	4. Experimenting with Print		https://doi.org/10.7208/9780226401201-004	closed	0	no	by/2019--4-experimenting-with-print.md
+W3066294994	2019	article	5. Pharmaceutical Piracy and the Origins of Medical Patenting		https://doi.org/10.7208/9780226401201-005	closed	0	no	by/2019--5-pharmaceutical-piracy-and-the-origins-of-medical.md
+W3049641792	2019	article	6. Of Epics and Orreries		https://doi.org/10.7208/9780226401201-006	closed	0	no	by/2019--6-of-epics-and-orreries.md
+W3084869977	2019	article	7. The Land without Property		https://doi.org/10.7208/9780226401201-007	closed	0	no	by/2019--7-the-land-without-property.md
+W3109138904	2019	article	8. Making a Nation		https://doi.org/10.7208/9780226401201-008	closed	0	no	by/2019--8-making-a-nation.md
+W2910130613	2018	article	John Wilkins (1614–1672): New Essays	Renaissance Quarterly	https://doi.org/10.1086/702076	closed	0	no	by/2018--john-wilkins-16141672-new-essays.md
+W4229822719	2017	paratext	PREFACE	Utah State University Press eBooks	https://doi.org/10.2307/j.ctt46nzc9.4	closed	0	no	by/2017--preface.md
+W2595611545	2016	article	Lay Assaying and the Scientific Citizen 1	Proceedings of the American Philosophical Society: Held at Philadelphia for Promoting Useful Knowledge		closed	0	yes	by/2016--lay-assaying-and-the-scientific-citizen-1.md
+W2328629474	2016	book-review	Michael F. Suarez, S. J.; H. R. Woudhuysen (Editors). The Book: A Global History. xx + 748 pp., illus., index. Oxford: Oxford University Press, 2013. $50 (cloth).	Isis	https://doi.org/10.1086/685990	closed	1	no	by/2016--michael-f-suarez-s-j-h-r-woudhuysen.md
+W1498728509	2015	reference-entry	Printing as a Medium	Elsevier eBooks	https://doi.org/10.1016/b978-0-08-097086-8.95027-x	closed	1	no	by/2015--printing-as-a-medium.md
+W2087271887	2014	article	Piracy: The Intellectual Property Wars from Gutenberg to Gates	Media History	https://doi.org/10.1080/13688804.2014.949434	closed	192	yes	by/2014--piracy-the-intellectual-property-wars-from-gutenberg-to.md
+W2320297994	2014	article	Roger Chartier. Cardenio between Cervantes and Shakespeare: The Story of a Lost Play.	The American Historical Review	https://doi.org/10.1093/ahr/119.3.974	closed	0	yes	by/2014--roger-chartier-cardenio-between-cervantes-and-shakespeare-the.md
+W2488223391	2014	book-chapter	The coming of print to Europe	Cambridge University Press eBooks	https://doi.org/10.1017/cco9781139152242.009	closed	2	no	by/2014--the-coming-of-print-to-europe.md
+W2333714993	2013	article	False modesty	Metascience	https://doi.org/10.1007/s11016-013-9846-7	closed	1	no	by/2013--false-modesty.md
+W454968350	2013	article	The Uses of Print in the History of Science	The Papers of the Bibliographical Society of America	https://doi.org/10.1086/680828	closed	7	no	by/2013--the-uses-of-print-in-the-history-of.md
+W2968342448	2012	article	Die Moral des Mischens. Audiokassetten, private Mitschnitte und ein neuer Wirtschaftszweig für die Verteidigung des geistigen Eigentums	MEDIAREP	https://doi.org/10.25969/mediarep/2666	green	1	yes	by/2012--die-moral-des-mischens-audiokassetten-private-mitschnitte-und.md
+W2056889450	2012	article	Gutenberg and the Samurai: Or, The Information Revolution is History	Anthropological Quarterly	https://doi.org/10.1353/anq.2012.0039	closed	14	yes	by/2012--gutenberg-and-the-samurai-or-the-information-revolution.md
+W2328620744	2011	article	AHRConversation: Historical Perspectives on the Circulation of Information	The American Historical Review	https://doi.org/10.1086/ahr.116.5.1393	hybrid	58	yes	by/2011--ahr-conversation-circulation-of-information.md
+W905128362	2011	article	Le funzioni storiche della pirateria intellettuale			closed	0	no	by/2011--le-funzioni-storiche-della-pirateria-intellettuale.md
+W2495931231	2011	book-chapter	London and the early modern book	Cambridge University Press eBooks	https://doi.org/10.1017/ccol9780521897525.004	closed	2	yes	by/2011--london-and-the-early-modern-book.md
+W2736293868	2011	article	Science books and networks in the Renaissance. An interview with Adrian Johns	Journal of Science Communication	https://doi.org/10.22323/2.10010302	diamond	0	yes	by/2011--jcom-science-books-and-networks-interview.md
+W2333854026	2011	book-review	The Book in the Renaissance. By Andrew Pettegree. New Haven, CT: Yale University Press, 2010. Pp. xvi+421. $40.00.	The Journal of Modern History	https://doi.org/10.1086/662302	closed	0	no	by/2011--the-book-in-the-renaissance-by-andrew-pettegree.md
+W2317949308	2011	article	The Book in, and as, American History	The New England Quarterly	https://doi.org/10.1162/tneq_r_00113	closed	1	yes	by/2011--the-book-in-and-as-american-history.md
+W4239984766	2010	book-chapter	Ink	Materials and Expertise in Early Modern Europe	https://doi.org/10.7208/chicago/9780226439709.003.0005	closed	38	yes	by/2010--ink.md
+W2003689687	2010	book-review	James Raven . The Business of Books: Booksellers and the English Book Trade, 1450‐1850 . New Haven : Yale University Press . 2007 . Pp. xviii, 493. $65.00.	The American Historical Review	https://doi.org/10.1086/ahr.115.1.287	closed	0	yes	by/2010--james-raven-the-business-of-books-booksellers-and.md
+W13921512	2010	book-chapter	Language, practice, and history	Cambridge University Press eBooks	https://doi.org/10.1017/cbo9780511761577.004	closed	0	yes	by/2010--language-practice-and-history.md
+W4243579288	2010	book-chapter	The Piratical Enlightenment	This Is Enlightenment	https://doi.org/10.7208/chicago/9780226761466.003.0016	closed	3	yes	by/2010--the-piratical-enlightenment.md
+W2479084751	2009	book-chapter	Changes in the world of publishing	Cambridge University Press eBooks	https://doi.org/10.1017/chol9780521790079.018	closed	1	yes	by/2009--changes-in-the-world-of-publishing.md
+W4235044996	2009	book	Piracy		https://doi.org/10.7208/chicago/9780226401201.001.0001	closed	262	no	by/2009--piracy-book.md
+W1263864694	2009	article	Piracy as a Business Force	Culture machine		closed	30	yes	by/2009--piracy-as-a-business-force.md
+W2517792280	2009	book-review	The Enlightenment and the Book: Scottish Authors and Their Publishers in Eighteenth-Century Britain, Ireland, and America. By Richard B. Sher. Chicago: University of Chicago Press, 2007. Pp. xxvi+815. $40.00.	The Journal of Modern History	https://doi.org/10.1086/605152	closed	0	no	by/2009--the-enlightenment-and-the-book-scottish-authors-and.md
+W2007976332	2008	article	A Companion to the History of the Book (review)	Technology and Culture	https://doi.org/10.1353/tech.0.0086	closed	0	yes	by/2008--a-companion-to-the-history-of-the-book.md
+W4245995357	2008	article	Coleman Street	Huntington Library Quarterly	https://doi.org/10.1525/hlq.2008.71.1.33	closed	4	no	by/2008--coleman-street.md
+W2013412436	2008	article	When authorship met authenticity	Nature	https://doi.org/10.1038/4511058a	bronze	3	no	by/2008--when-authorship-met-authenticity.md
+W2483989977	2006	book-chapter	Coffeehouses and Print Shops	Cambridge University Press eBooks	https://doi.org/10.1017/chol9780521572446.016	closed	17	yes	by/2006--coffeehouses-and-print-shops.md
+W2026998847	2006	article	INTELLECTUAL PROPERTY AND THE NATURE OF SCIENCE	Cultural Studies	https://doi.org/10.1080/09502380500495643	closed	12	yes	by/2006--intellectual-property-and-the-nature-of-science.md
+W2002361762	2005	article	HSS 2004 Program Report	Isis	https://doi.org/10.1086/447748	closed	1	no	by/2005--hss-2004-program-report.md

@@ -1,0 +1,28 @@
+---
+title: "Class, Flatus, Parties"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2006
+date: 2006-10-25
+venue: "Crooked Timber"
+authors: "Henry Farrell"
+source_url: https://crookedtimber.org/2006/10/25/class-flatus-partying/
+retrieved: 2026-08-13
+content: full-text
+notes: "Crooked Timber post id 5269; retrieved via the site's WordPress REST API (wp-json/wp/v2/posts). Comments not included."
+---
+
+# Class, Flatus, Parties
+
+## Full text
+
+Will Wilkinson claims that we can avoid positional conflicts in a world of infinitely proliferating status dimensions.
+
+While capitalism does in fact produce absolutely egalitarian results—enabling the poor to own high-quality mobile phones, microwaves, and cars functionally equivalent to those of the wealthy—it cannot, critics say, manufacture more and better ‘positional goods’, to use economist Fred Hirsch’s term, because, basically, it is impossible to fit more than ten percent in the top ten percent.[2] No matter how trusty, safe, comfortable, and efficient your new Hyundai Accent may be, the fact that is within the grasp of so many will keep it from signaling that you inhabit the commanding heights of society. And that’s what you really want, isn’t it? To be king of the mountain? … Competition for higher position is a paradigmatic zero-sum game. … It is true that status is not ideological fancy … But not so fast! … Real and profound differences are also glossed over by failing to acknowledge what is peculiar to humans. For one thing, we are uniquely cultural creatures, and this fundamentally transforms the zero-sum logic of the primate dominance hierarchy. … Crucially, there is no limit to the possible forms of excellence. So, while the number of positions on any single dimension of status may be fixed, there is no reason why dimensions of status cannot be multiplied indefinitely. … New dimensions of excellence and status often open up due to technological innovation. It was impossible to be a chart-topping pop star or a champion triathalete before there were radios and bikes. Liberal market societies not only create new technologies, they create proliferating forms of association, affiliation, expression, and identity at a sometimes alarming rate.[21] Each musical genre, each hobby, each committee, each church, each club, each ideology, each lifestyle provides a new dimension—a new frame of reference—for positional competition. Environmental purists can compete with one another to conspicuously consume eco-friendly products (or conspicuously refuse to consume much at all), while punk rockers duke it out on grounds of anti-establishment authenticity, and economics professors knock themselves dead trying to get articles into esoteric journals no one else cares about. The cultural fragmentation some critics lament is precisely what liberates us from unavoidable zero-sum positional conflict. … We are not destined to want fancier cars, bigger houses, and more upscale outfits, nor are we helpless to feel diminished by those who out-consume us. We can opt out by opting in to competing narratives about the composition of a good life. And we do it all the time.
+
+Colour me unconvinced. Wilkinson’s claim implies, unless I misunderstand him badly, that it doesn’t matter very much to me if I’m a despised cubicle rat who can’t afford a nice car and gets sneered at by pretty girls, because when I go home and turn on my PC, I suddenly become a level 75 Night Elf Rogue who Kicks Serious Ass! Now this example is loaded – but it’s loaded to demonstrate a serious sociological point that Wilkinson doesn’t even begin to address. These indefinitely proliferating dimensions of status competition are connected to each other in their own implicit meta-ranking, which is quite well understood by all involved. Being a world-class scrabble-player isn’t likely to win you much respect among people who aren’t themselves competitive scrabble-players; the best you can expect is that someone will write a book that pokes fun at your gastro-intestinal problems . It’s a very different matter if you’re a world class soccer player; you’re liable to be invited to all sorts of fun parties, hit upon by beautiful people, stalked by the paparazzi and the whole shebang. Being a world class blogger is somewhere between the two, albeit certainly much closer to the scrabble-player than the soccer star. Even if you’re king of your own mountain, you’re likely to be quite well aware of the other mountains around you that make yours look in comparison like a low-grade class of a gently sloping foothill, or perhaps even a slightly upraised knob in the middle of a steep declination. You’re similarly aware of those less well-advantaged foothills or knoblets whose owners you can look down upon. 
+
+In short, people are highly aware of the relative rankings of their obsessions. For circumstantial evidence supporting this claim, see the Geek Hierarchy, which is funny only because it quite accurately reflects the status hierarchies that people in the SF community have in their heads. This isn’t to say that these communities and sub-communities don’t play a valuable role; they do. But it isn’t so much because they allow people to become kings of their own particular mountainiscules as because they provide, as the term suggests, a sense of community – that there are other people out there who share their particular interests. Status competition happens in these communities, as in all others, but at best it provides a highly imperfect substitute for status in other games that are more widely recognized, for whatever arbitrary or semi-arbitrary reason, as being more prestigious. Then, that isn’t what it’s supposed to do.
+
+[via Political Theory Daily Review ]

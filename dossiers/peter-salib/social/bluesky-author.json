@@ -1,0 +1,13 @@
+{
+ "did": "did:plc:p6ggnwgr63rgg2t2japu73op",
+ "handle": "petersalib.bsky.social",
+ "displayName": "Peter N. Salib",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:p6ggnwgr63rgg2t2japu73op/bafkreibgihkfai7lopv637rkaaup2z4yfcjnn75jesq7khgssm262g7azy",
+ "associated": {
+  "activitySubscription": {
+   "allowSubscriptions": "followers"
+  }
+ },
+ "labels": [],
+ "createdAt": "2023-07-15T00:45:29.003Z"
+}

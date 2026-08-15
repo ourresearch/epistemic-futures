@@ -1,0 +1,16 @@
+{
+ "did": "did:plc:y3kfhfpt3obs6lgshjnke56v",
+ "handle": "ramonalvarado.bsky.social",
+ "displayName": "Ramón Alvarado",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y3kfhfpt3obs6lgshjnke56v/bafkreiaqoyl2iz4yz2sx5a26rvfdayozgeghymthd7zqx5a2ppv2uxy4ua",
+ "associated": {
+  "chat": {
+   "allowIncoming": "following"
+  },
+  "activitySubscription": {
+   "allowSubscriptions": "followers"
+  }
+ },
+ "labels": [],
+ "createdAt": "2023-08-11T00:07:30.397Z"
+}

@@ -1,0 +1,50 @@
+---
+title: "Bubble Trouble"
+person: henry-farrell
+section: by
+type: essay
+year: 2011
+date: 2011-08-30
+venue: "The American Prospect"
+authors: "Henry Farrell"
+source_url: https://prospect.org/culture/bubble-trouble/
+retrieved: 2026-08-13
+content: full-text
+notes: "Bibliography entry and link taken from henryfarrell.net (https://henryfarrell.net/bubble-trouble/). Retrieved from the live publisher page."
+---
+
+# Bubble Trouble
+
+## Full text
+
+In a 2009 book about the social consequences of the Internet, The Age of the Infovore, the economist and blogger Tyler Cowen argues that new technologies enable us to decide what information to consume and, as a result, to remake ourselves. Instead of reading the same newspaper or watching the same television news, we can use new technologies to choose an idiosyncratic mix of sources and create our own unique micro-economy of information that not only reflects our tastes but helps us continually reshape them.
+
+In his new book, The Filter Bubble, Eli Pariser looks at the same facts as Cowen but interprets them differently. What Cowen sees as enhancing individual autonomy, Pariser sees as restricting personal development. Instead of constructing personal micro-economies that allow us to make sense of complexity, we are turning media into a mirror that reflects our own prejudices back at us. Even worse, services like Google and Facebook distort the mirror so that it exaggerates our grosser characteristics. Without our knowing, they reshape our information worlds according to their interpretation of our interests. Few people are aware that when they look up a topic in Google, their searches are personalized. Google infers what people want from their past searching behavior and skews results accordingly.
+
+We are beginning to live in what Pariser calls “filter bubbles,” personalized micro-universes of information that overemphasize what we want to hear and filter out what we don’t. Not only are we unaware of the information that is filtered out, but we are unaware that we are unaware. Our personal economies of information seem complete despite their deficiencies. Personal decisions contribute to this pattern, and ever more sophisticated technologies add to it. Google’s understanding of our tastes and interests is still a crude one, but it shapes the information that we find via Google searches. And because the information we are exposed to perpetually reshapes our interests, we can become trapped in feedback loops: Google’s perception of what we want to read shapes the information we receive, which in turn affects our interests and browsing behavior, providing Google with new information. The result, Pariser suggests, may be “a static ever-narrowing version of yourself.”
+
+This self-reinforcement may have unhappy consequences for politics. Pariser, who is inspired by the philosophy of John Dewey, argues that ideological opponents need to agree on facts and understand each other’s point of view if democracy is to work well. Exposure to the other side allows for the creation of a healthy “public” that can organize around important public issues. Traditional media, in which editors choose stories they believe to be of public interest, have done this job better than do trivia-obsessed new media. Furthermore, intellectual cocooning may stifle creativity, which is spurred by the collision of different ways of thinking about the world. If we are not regularly confronted with surprising facts and points of view, we are less likely to come up with innovative solutions.
+
+The Filter Bubble is an excellent book in a genre usually given to ill-informed pontification. It draws extensively on the relevant research literature but isn’t overwhelmed by it. The book is cogently argued and clearly written by someone endeavoring to counter his own ways of filtering the world. Pariser is a technology geek and the former executive director of MoveOn, an online organization that has many virtues but is not distinguished for an intellectually nuanced understanding of the other side’s perspective. The book challenges ready partisanship and the standard geek assumption that technology is somehow both politically liberating and politically neutral.
+
+EVEN SO, PARISER’S CASE is not as watertight as it might seem. Some evidence does suggest that the Internet makes people more likely to select politically congenial sources of information. For example, my own work with Eric Lawrence and John Sides shows that depending on their perspective, readers of political blogs tend to follow either left-wing or right-wing blogs and also have unusually strong and ideologically consistent political views.
+
+Blog readers, however, are a self-selecting group who may have had strong political opinions before they knew what a blog was. Other research by economists Matthew Gentzkow and Jesse Shapiro suggests that the broader public reads an ideologically diverse set of online news sources. Indeed, Gentzkow and Shapiro suggest that this wider population may be more exposed to different points of view via online media than they are through their personal interactions with friends, family, and co-workers. This exposure does not mean that online information necessarily counteracts offline prejudices. People may be primed to believe fellow partisans more than they believe neutral or antagonistic sources of information. Yet it does make the story more complicated than the one that Pariser is telling.
+
+Moreover, Pariser’s own activism provides evidence that there is a Deweyan case in favor of new media as well as against it. MoveOn came into being to counteract the traditional media’s obsession with Bill Clinton’s sex scandals. The group later became a mass phenomenon because it helped organize the opposition to the Iraq War at a moment when traditional media were echoing the Bush administration’s false alarm about Iraq’s nuclear program and were giving us reports from journalists embedded with the troops. For sure, MoveOn was partisan and uninterested in subtlety, but it would not have become a mass movement if it had focused its energies on talking to the other side. Political science research by Diana Mutz and others suggests that there is a direct tradeoff between deliberation and political engagement. The more that people take opposing points of view into consideration, the less likely they are to be politically active. If we want to see politically active publics, we may have to forgo some deliberation.
+
+When Pariser argues that the dissemination of information has political consequences, he is right. He is also persuasive in arguing that filter-bubble problems cannot be solved easily through individual action. When Pariser himself sought to broaden his ideological horizons through “friending” conservatives on Facebook, he found that Facebook systematically failed to include their updates in his main feed. Since he clicked on these links less often, Facebook inferred that he wasn’t interested in them and calibrated his information diet accordingly. As long as dominant businesses have incentives to give us what they think we want, individuals will have difficulty in breaking through the bubble on their own. The businesses aren’t wrong: Most people don’t enjoy having their basic preconceptions regularly challenged. They like their bubbles.
+
+As a result, Cowen’s ideal worldwhere the private vice of self-centered information leads to the public virtue of a lively interactive cultureis unlikely to be self-sustaining. It’s also difficult to see how regulation could pop information bubbles. Pariser suggests that the government should introduce Fair Information Practices to give individuals some control over the use of their information. Such practices were first articulated in the very different world of the 1970s, when privacy activists worried about how static databases of personal information could be misused. But in a world where people happily inhabit their own bubbles, how exactly is this going to work? As Pariser himself argues, even Google can’t understand exactly how its algorithms work in practice, let alone easily explain them to individuals without any technical background.
+
+Competitive elections and democracy provide at least a partial antidote to this development. Information bubbles are hardly new, even though they now take new forms. In many societies, political parties long created information bubbles. Nineteenth-century America had partisan newspapers. In many 20th-century European countries, Social Democrats read Social Democratic newspapers, went to Social Democratic social clubs, joined Social Democratic trade unions, married other Social Democrats, and had Social Democratic babies. Christian Democrats and Communists had their own separate worlds. Nonetheless, democracy somehow kept working. As Harvard political theorist Nancy Rosenblum has argued, partisanship creates its own checks and balances. As long as partisans are contending for a majority of public support, they have to temper their own beliefs in ways that will allow them to appeal to the public and to respond to potentially persuasive arguments from their opponents. This is far from perfect (the public has its own problems). Nonetheless, as John Stuart Mill argued, it can sometimes bring us closer to the truth.
+
+Democratic competition is not a complete solution. It does not protect individuals from a narrowing of their horizons. It would be a good thing if Google and Facebook deliberately injected “inefficient” connections into online social networks and search results to encourage people to follow new paths, but it’s not likely to happen. Even so, democracies are far more robust against information bubbles than Pariser believes. After all, they’ve survived bubbles for hundreds of years.
+
+This article appears in Issue: The Lost Decade.
+
+## Related
+
+## Henry Farrell
+
+Henry Farrell is associate professor of political science and international affairs at the George Washington University. He blogs at Crooked Timber and The Monkey Cage. More by Henry Farrell

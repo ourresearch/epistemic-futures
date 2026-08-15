@@ -1,0 +1,74 @@
+---
+title: "Ruth Barcan Marcus (Shalvi/Hyman Encyclopedia of Jewish Women)"
+person: tamar-gendler
+section: by
+type: reference-entry
+year: 2021
+date: 2021-06-23
+venue: "Shalvi/Hyman Encyclopedia of Jewish Women, Jewish Women's Archive"
+authors: "Tamar Szabó Gendler"
+source_url: https://jwa.org/encyclopedia/article/marcus-ruth-barcan
+retrieved: 2026-08-13
+content: full-text
+notes: "Updated 2021 version of an entry she first wrote for Jewish Women in America: An Historical Encyclopedia (Routledge, 1997). Openly available. Not present in her OpenAlex author record."
+---
+
+# Ruth Barcan Marcus (Shalvi/Hyman Encyclopedia of Jewish Women)
+
+## Full text
+
+In Brief
+
+Ruth Barcan Marcus was a prominent twentieth-century American logician and philosopher who made pioneering contributions to modal logic and metaphysics. For more than half a century, she was a key figure in philosophical debates. Marcus was a legendary teacher, a rigorous scholar, and a sharp and incisive interlocutor. Early in her career, she proposed the widely discussed Barcan formula, a postulate in quantified modal logic. Her later work includes influential papers in the philosophy of logic and language, epistemology, and ethics. A widely lauded collection of her essays, Modalities, was published in 1993. Marcus taught at Yale University for more than two decades. Upon her death in 2012, the university honored her through the creation of an annual Ruth Barcan Marcus Memorial lecture.
+
+ Contents
+
+ 1 
+
+ Early Life and Education
+
+ 2 
+
+ Academic Career
+
+ 3 
+
+ Honors and Awards
+
+4 Bibliography
+
+Early Life and Education
+
+Ruth Barcan Marcus was born in New York City on August 2, 1921, the third daughter of Samuel and Rose (Post) Barcan. Her parents were secular Eastern European Jews who settled in what was then an uncongested middle-class area of the Bronx. Her mother worked as a homemaker; her father was a printer and contributing writer at the Jewish Daily Forward, as well as an active member of the Socialist Party and of the Workman’s Circle (Arbeiter Ring). A bust of Eugene V. Debs graced the family’s living room, and the three daughters, Esther, Hilda, and Ruth, attended the Workman’s Circle’s Yiddish-language neighborhood schools in the afternoons, where they were taught Jewish history, literature, dance, music, and the history of socialist labor.
+
+Marcus attended public school, including Herman Ridder Junior High School (a school for intellectually precocious students) and Evander Childs High School, until the twelfth grade. She went on to receive a BA in mathematics and philosophy from New York University in 1941 and a PhD in philosophy from Yale University in 1946. In addition to her academic extracurricular achievements (during college, she edited a literary magazine and presided over the mathematics and the philosophical societies), Marcus was a notable athlete. In 1941, the New York University yearbook featured her photo, with a caption that read: “Ruth Barcan, NYU’s attractive fencer, is pictured above. One of the most outstanding fencers ever to come to Washington Square College, Miss Barcan epitomizes what is fine and character building in sports for women.” Had World War II not forced the cancellation of the games, she would have competed in the 1940 or 1944 Olympics.
+
+In 1942, Ruth Barcan married Jules Alexander Marcus, a physicist. They had four children, James (b. 1948), Peter (b. 1949), Katherine (b. 1952), and Elizabeth (b. 1957). The couple was divorced in 1976.
+
+Academic Career
+
+Marcus spent the early years of her career in various postdoctoral fellowships and visiting positions, including a Guggenheim Fellowship (1953–1954). She taught at Roosevelt University from 1959 to 1963, and in 1964 she was appointed head of the philosophy department at the University of Illinois at Chicago. Under her six-year stewardship, the department grew from a two-member faculty to a full graduate department with a nationally ranked faculty of twenty. She then served for three years as a professor at Northwestern University (1970–1973) and, in 1973, was appointed professor of philosophy at Yale University. She retired as Reuben Post Halleck Professor in 1992 and served as a senior research scholar at Yale, with a continuing appointment as distinguished visiting professor at the University of California at Irvine during winter quarters, for much of the first decade of the twenty-first century.
+
+Marcus’s contributions to philosophy were substantial. While still a graduate student, she created—almost ex nihilo—the field of quantified modal logic, a permanent contribution to philosophy that greatly expanded the expressive power of logical language and made possible new vistas in metaphysics and philosophy of language that have led to numerous further discoveries. The famous Barcan formula, a postulate in quantified modal logic, has been a central topic in the discussion of the interaction of modal operators and quantifiers since Marcus published it in 1946. In her early papers, Marcus also established the necessity of identity, an unprecedented discovery that became a focal point of a discussion for decades thereafter. Marcus’s understanding of names as tags that refer to objects without the help of mediating descriptions inspired subsequent theories of direct reference that have dominated philosophy of language to the present day. Her most anthologized paper is “Moral Dilemmas and Consistency” which originally appeared in 1980 and shows, as Marcus puts it, that “moral dilemmas need not be a mark of inconsistency in a moral code.” This paper and many other of Marcus’s most important works were collected in Modalities, published in 1993 by Oxford University Press.
+
+Honors and Awards
+
+During her tenure at Yale, Marcus was widely recognized as a leading figure, receiving formal offers from (among others) Princeton, UCLA, Penn, and Stanford. Her numerous fellowships and awards include the Medal of the College de France (1986) and fellowships from the National Science Foundation (1963–1964), the Center for Advanced Study at the University of Illinois (1968–1969), the Center for Advanced Study in the Behavioral Sciences at Stanford (1979), Wolfson College, Oxford (1985–1986), Clare Hall, Cambridge (1988), and the National Humanities Center (1992–1993), as well as residencies at the Rockefeller Center in Bellagio (1973 and 1990). She was an elected member of the Institut International de Philosophie, where she served as president (1989–1992) and Presidente Honoraire (1992-2012). Marcus was a fellow of the American Academy of Arts and Sciences and served as president of the Association for Symbolic Logic (1983–1986). She was chair of the board of the American Philosophical Association (1977–1983), In 1995, she was awarded an honorary doctorate of humane letters by the University of Illinois.
+
+After her retirement, her honors grew even more distinguished. In 2000 Yale honored her with a Wilbur Cross Medal—the top award given to alumni of its PhD programs. In 2001 the University of California at Los Angeles held a “Ruthfest” to pay tribute to her many decades of intellectual contributions. In 2007, the American Philosophical Association honored her with the inaugural Quinn Prize for service to the profession, and in 2009, she was invited to deliver the Dewey Lectureship. In 2008, she was awarded the Lauener Prize for an Outstanding Ouevre in Analytical Philosophy—a distinguished award recognizing lifetime achievement. After her death in 2012, to honor her contributions to the university, the Yale Department of Philosophy established the Ruth Barcan Marcus Memorial Lecture; the inaugural lecture was delivered in 2018 by Judith Jarvis Thomson.
+
+Marcus’s death on February 19, 2012, was memorialized in the New York Times, as well as in numerous philosophical and academic journals.
+
+Bibliography
+
+Marcus, Ruth Barcan. Modalities. Oxford: Oxford University Press, 1993.
+
+Marcus, Ruth Barcan. A Philosopher’s Calling (John Dewy Lecture, 2009). Available at http://leiterreports.typepad.com/files/final_rbm-dewey-lecture.doc.
+
+Raffman, Diana. "Woman, Fighter, Philosopher",  The New York Times, April 26, 2012. https://opinionator.blogs.nytimes.com/2012/04/26/woman-fighter-philosopher/?mtrref=www.google.com&assetType=REGIWALL
+
+Sinnott-Armstrong, Walter, Diana Raffman, and Nicholas Ascher, eds. Morality, Modality and Belief: Essays in Honor of Ruth Barcan Marcus. Cambridge: Cambridge University Press, 1995.
+
+Williamson, Timothy. "In Memoriam: Ruth Barcan Marcus 1921–2012."  Bulletin of Symbolic Logic. 19, 1 (2013): 123–126. 
+
+Yale Archives. Ruth Barcan Marcus Papers. https://archives.yale.edu/repositories/12/resources/5229

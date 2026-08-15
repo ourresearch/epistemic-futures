@@ -1,0 +1,34 @@
+---
+title: "Lisbon referendum"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2008
+date: 2008-06-10
+venue: "Crooked Timber"
+authors: "Henry Farrell"
+source_url: https://crookedtimber.org/2008/06/10/lisbon-referendum/
+retrieved: 2026-08-13
+content: full-text
+notes: "Crooked Timber post id 6975; retrieved via the site's WordPress REST API (wp-json/wp/v2/posts). Comments not included."
+---
+
+# Lisbon referendum
+
+## Full text
+
+I’m in Ireland at the moment, reintroducing the two year old to the country of his ancestors, and, more to the point, the delights of Andy Nolan’s sausages (if you’re ever passing through Kilcullen, and you’re not a vegetarian, you owe it to yourself to pick up a few pounds), and McCambridge’s brown-bread. But in between childcare responsibilities, I’ve been trying to piece together the debate over the upcoming referendum on the European Union’s Lisbon Treaty. Ireland is the only country where the public actually gets a vote on this Treaty, and there is a good chance that it will vote No (one recent opinion poll had the No side several points ahead; another had the Yes and No side neck-and-neck). If Ireland votes the Treaty down, it will fail, and nobody is quite sure what will happen next. More discussion of the specifics of the debate under the fold – I also have a more political-sciencey post on this over at _The Monkey Cage._
+
+First, there’s a far greater variety of voices on the No side in this referendum than in previous referendums on EU Treaty changes. It used to be that the lines of battle were fairly straightforward in these things. On the Yes side you always got the major political parties of right and center-left (Fianna Fail, Fine Gael, Labour), and on the No side, Sinn Fein, the Greens, and a fringe of wrap-the-green-flag-round-me nationalists and ultramontanist religious loons convinced that the EU is a plot intended to foist devil worship, abortion and gay divorce on the country (one of the more colorful proponents of this viewpoint claimed that the success of the referendum legalizing divorce some years ago resulted from the efforts of a ‘bunch of wife-swapping sodomites’) . 
+
+This time round, the Greens have switched sides and are advocating a Yes vote. But the No side of the debate have much better funding than ever before, thanks to Libertas, an organization set up by a businessman by the name of Declan Ganley. He appears to have made his money from a variety of somewhat mysterious ventures in Eastern Europe (Albania and the Baltics), and to be a principal one of the companies hovering around the Beltway looking for Iraq and homeland security related contracts. He’s put Euro 1.4 million into the No campaign – it isn’t clear to anyone whether this money is coming from his own pocket, unnamed third parties, or a combination of the same.
+
+Second, various social parties are using the Treaty campaign to try to extract concessions from the government on only indirectly related matters. The main farmers’ organization said that it wouldn’t support the Treaty unless the government promised to veto the EU’s proposed WTO offer, which is likely to hurt Irish beef farmers. They got an apparent concession, but one that I suspect won’t count for much of anything should there in fact look to be a WTO deal on the table. The trade unions, for their part, sought with less success to extract a promise from the government on collective bargaining rights – they have been worried for a while that business (in particular foreign firms with Irish operations) are creating a de-unionized workforce. They don’t seem to have gotten very far.
+
+Third, some of the arguments on the No side are unusually disingenuous this time around. The aforementioned Ganley has been claiming, on what basis I don’t know, that the Treaty’s charter of rights will make it possible to imprison three year olds. The Catholic ultras have been trying to rally the faithful by issuing minatory pamphlets warning of the threats to our morals – while some more liberal Catholic priests have been denouncing them, the bishops seem to be running scared. Most interesting, perhaps, is that a key argument of the No people has been that the Treaty somehow threatens Ireland’s taxation regime, which seeks to attract foreign investment by taxing corporate profits at very low rates. While the Treaty itself has nothing to say about taxation, there certainly is a lot of pressure from larger member states such as Germany to harmonize tax policy. I wouldn’t have thought myself that taxation benefits for large multinational corporations would be a rallying point for the general public. But perhaps I’m wrong.
+
+Fourth, while the arguments from the Yes side aren’t disingenuous, they don’t precisely strike me as convincing either. There’s a lot of vague appeals to our European relationships, claims that a No vote would send us off into the desert and the like. There are remarkably few solid, focused claims regarding the specific benefits of the Treaty. This may in part be a product of the difficulties of getting people excited about a Treaty which is written in an exceedingly impenetrable form of legalese (this also may explain some of the hyperbole of the No side). But it also suggests to me that the traditional rhetorical tropes of the pro-European political elite are pretty well exhausted. During the post-war years, they relied on memories of war and stark economic need to justify political and economic integration. The memories and the needs have both faded, but the rhetoric hasn’t changed. I’ll probably have more to say about this, perhaps at greater length.
+
+Fifth – the one really good argument that the No side have is the lack of democratic choice involved in the Treaty. Ireland is the only country in the EU where the public can vote directly on whether or not to accede to the Treaty. This is because Ireland’s political system requires that constitutional change (which Treaty accession is considered to be) receive majority support in a referendum. The population of other European countries, including countries that have voted on previous Treaty reforms, have no opportunity to vote this time around. The reason why is obvious – European political elites fear that the Treaty wouldn’t be passed by voters. But this also has very serious implications for democratic legitimacy. While the Treaty (and other Treaties) may seem dull and incomprehensible, they have important long-term political consequences. Denying people the opportunity to vote on their future is, quite simply, indefensible. More on this in my other post.
+
+As for whether the referendum will pass or not – it’s dicey. The key determinant is whether the major government party, Fianna Fail, can mobilize its GOTV machine. More on Friday when the results are in …

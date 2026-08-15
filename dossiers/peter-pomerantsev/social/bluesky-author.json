@@ -1,0 +1,13 @@
+{
+ "did": "did:plc:3b5xxadycemvtcarr6cnyouj",
+ "handle": "libraryofcontext.bsky.social",
+ "displayName": "Lessa",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3b5xxadycemvtcarr6cnyouj/bafkreid44zhntajltw6rdo4le5bconv4aynkbgf725jp2qcg5bucae7g2a",
+ "associated": {
+  "activitySubscription": {
+   "allowSubscriptions": "followers"
+  }
+ },
+ "labels": [],
+ "createdAt": "2024-08-18T02:59:48.385Z"
+}

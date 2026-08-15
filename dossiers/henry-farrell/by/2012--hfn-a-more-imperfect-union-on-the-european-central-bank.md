@@ -1,0 +1,26 @@
+---
+title: "A More Imperfect Union: On the European Central Bank"
+person: henry-farrell
+section: by
+type: essay
+year: 2012
+date: 2012-12-04
+venue: "The Nation"
+authors: "Henry Farrell"
+source_url: https://www.thenation.com/article/archive/more-imperfect-union-european-central-bank/
+retrieved: 2026-08-13
+content: full-text
+notes: "Bibliography entry and link taken from henryfarrell.net (https://henryfarrell.net/a-more-imperfect-union-on-the-european-central-bank/). Retrieved from the live publisher page."
+---
+
+# A More Imperfect Union: On the European Central Bank
+
+## Full text
+
+In September, the European Central Bank announced that it had taken decisions on a “number of technical features regarding the Eurosystem’s outright transactions in secondary sovereign bond markets.” The ECB did all it could to make these decisions sound like a nonevent. It claimed that the new policy measures—which it gave the incomprehensible-seeming label Outright Monetary Transactions—had the dull but laudable aim of safeguarding “appropriate monetary policy transmission and the singleness of the monetary policy.” As it turns out, Outright Monetary Transactions are anything but simple “technical features.” They have scant relevance to monetary transmission or to conventional monetary policy. Instead, they allow the ECB to do something that it is not supposed to do: intervene in the market for government debt. This new tool is intended to solve an enormous political problem, and it came into being only after months of bitter political feuding. The weaker states in Europe’s single currency zone—Spain, Greece, Ireland, Italy, Portugal—have been lurching from crisis to crisis. For many months, they had repeated difficulties selling government bonds at reasonable interest rates on the open market. The ECB’s new initiative provides potentially unlimited support for these bonds—hence avoiding potentially catastrophic attacks from bond traders—but at a very high price. Members who want ECB support have to submit to a set of European Union and International Monetary Fund conditions, which will almost certainly include savage cutbacks in government spending. Even though the IMF has suggested that overly harsh austerity measures are self-defeating, it has repeatedly knuckled under to the EU’s demands. These stringent conditions are not nearly severe enough for many Germans. Their country’s Bundesbank has traditionally dominated ECB decision-making but voted against the bank’s new measure, denouncing it as “tantamount to financing government by printing banknotes.” Jens Weidmann, the head of the Bundesbank, describes the ECB as having made a Faustian deal with the devil. Germany’s government has played a complex game, publicly supporting the ECB (albeit in vague terms) while doing its damnedest to delay the most controversial decisions until after the country’s national elections next year. Spain, in contrast, wants the help, but not the strings attached to it. Spain is the likely first recipient of support, but it has been trying to delay any new ECB program for as long as possible. The Spanish public, anticipating an ECB program, has staged large public protests against austerity, while the country’s conservative government came into office promising that it would not submit to any IMF-style conditions. Accepting the ECB’s aid on the condition of harsh austerity measures would be a deeply humiliating climb-down. While Spain probably has no choice but to accept eventually, it will do all it can to postpone the evil day. The ECB’s new policy focus arguably makes sense, up to a point. Economist and New York Times columnist Paul Krugman sees it as “a step in the right direction.” Barry Eichengreen, a leading monetary economist and former adviser to the IMF, argues that the ECB is at last becoming a mature central bank. However, the change in its mission introduced by Outright Monetary Transactions has profound political consequences. The ECB has become more powerful than the Fed, but with even less democratic oversight. In the early stages of the crisis, the ECB exercised its influence through secret letters to troubled member states such as Ireland and Italy, laying down conditions and implicitly threatening to withdraw support if they were not met. Now, the bank exercises its power directly and in public. The new economic regime of the European Union—one of greater austerity, tighter regulation of banks and intensive oversight of national budgets—reflects the priorities of the ECB just as much as it reflects the demands of Germany, the most powerful state in Europe. This is no coincidence, as Germany played a key role in shaping the ECB’s policy priorities when the bank first came into existence. Popular "swipe left below to view more authors"Swipe → One Woman’s Message From the Hell of ICE Detention One Woman’s Message From the Hell of ICE Detention Maryam Tahmasebi
+
+- How Occupy Wall Street Still Explains Politics Today How Occupy Wall Street Still Explains Politics Today Yotam Marom
+
+- The Gaping Hole in El-Sayed’s Progressive Agenda The Gaping Hole in El-Sayed’s Progressive Agenda Elie Mystal
+
+- Francesca Hong: “Our Movement Is Strong, and the Work Isn’t Done” Francesca Hong: “Our Movement Is Strong, and the Work Isn’t Done” John Nichols

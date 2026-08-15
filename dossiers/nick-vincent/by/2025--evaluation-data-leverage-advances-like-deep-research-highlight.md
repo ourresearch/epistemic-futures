@@ -1,0 +1,832 @@
+---
+title: "Evaluation Data Leverage: Advances like \"Deep Research\" Highlight a Looming Opportunity for Bargaining Power"
+person: "nick-vincent"
+section: "by"
+type: "blog-post"
+year: 2025
+date: "2025-03-02"
+venue: "Data Leverage (Digital Garden / dataleverage.substack.com)"
+authors: "Nicholas Vincent"
+source_url: "https://nickmvincent.github.io/long-posts/evaluation-data-leverage-advances.html"
+retrieved: "2026-08-13"
+content: "full-text"
+notes: "Dek: Research agents and increasingly general reasoning models open the door for immense \"evaluation data leverage\". Garden section: long-posts. Mirrored on the Data Leverage Substack."
+---
+
+# Evaluation Data Leverage: Advances like "Deep Research" Highlight a Looming Opportunity for Bargaining Power
+
+## Full text
+
+This post has two related goals:
+
+-
+
+Motivate the idea of “Evaluation Data Leverage”: knowledge
+workers will be able to bargain with AI operators for access to their
+data-generating activities that are specifically needed to evaluate new
+AI models and products.
+
+-
+
+Highlight the challenge that more “general” AI products require
+evaluation practices that will be very laborious for workers and have a
+large overall price tag. This could very well create major optics issues
+for the AI and tech industry if these organizations become widely
+regarded as agents of precarity.
+
+An ad for evaluation labour from 1894 (Wikimedia
+Commons).
+
+Time marches on, and tech companies continue to ship products that
+use large-scale models to do some combination of augmenting and/or
+automating knowledge work. Increasingly, across various firms, two
+trends emerging are the use of “reasoning” and the implementation of
+“deep research agents”.
+
+Together, these developments mean that AI products continue to
+produce larger and potentially more complex artifacts. For instance, a
+good deal of ink has been spilled over the value of Deep Research. Will
+(AI) research agents replace (human) research assistants? Are you
+getting equivalent value to eight hours of human knowledge work in 10
+minutes? Are your outputs full of hard-to-catch hallucinations? Will
+these agents lead to a slew of epistemically toxic artifacts strewn
+across the web (and in the case of Google’s Deep Research, which makes
+you read the output in Google Docs, your personal Drive).
+
+This short Tyler Cowen blog post
+nicely captures both the positive view (in the content) and the negative
+view (in the comments and responses). As another example, consider this
+commentary piece in Science
+from Derek Lowe.
+
+Well, to know that for sure whether we can get 8 hours of human
+knowledge work in 10 minutes, we’d probably want to do a very thorough
+comparison.
+
+### Evaluating Deep
+Research: What We Have So Far
+
+Here is OpenAI’s Deep Research release.
+Three benchmarks are mentioned: HLE, GAIA, and “internal evaluation of
+expert-level tasks”. We get three examples, which are claimed to have
+saved 4, 5, and 2 hours. Presumably these used some binary pass/fail
+rating scheme (we see a “Pass Rate” mentioned): the experts “approved”
+the answers. It’s unclear if the experts estimated the time needed, or
+if they actually worked until they reached some quality threshold
+(determined by other experts?) and then paused their stopwatch. We’ll
+get more info down the line: “We will share our safety insights and
+safeguards for deep research in a system card when we widen access to
+Plus users.”
+
+Why harp on this? Evaluating “deep research” across past and future
+areas of human inquiry will take immense manual labour.
+
+### What
+could a very thorough evaluation process look like?
+
+Well, we’d probably want to start by getting a group of white-collar
+workers to agree to sign on to produce points of comparison. Ideally (in
+terms of richness of data — especially if we want to compare the process
+used, the intermediate states of the output artifacts, etc.), they’d
+agree to be monitored — perhaps via a webcam and/or screen capture.
+Getting very fine-grained data would involve surveillance technology
+similar to that used to monitor students taking remote exams during
+COVID. Generally, this kind of software can be
+distressing
+to use. Of course, in the context of working as a distinguished data
+evaluator in the service of humanity, perhaps people would be fine with
+it.
+
+It seems likely this kind of surveilled-knowledge-work-data-labor has
+happened quite a bit already, and will happen even more. At first it
+will be kept secret, but as the total volume of
+surveilled-knowledge-work-data-labor increases, it will be hard to keep
+it completely hidden. I think the optics of this shift are going to be
+very bad, because some of this evaluation work will be ramping up in
+conjunction with disruptive job market impacts. That is, people will
+viscerally see movement towards a more precarious overall economy for
+most workers. The AI industry may start to hold blame in the eyes of the
+public for a rollback in cushiness of (some) knowledge work.
+
+Perhaps this whole surveillance process is overkill. Could we build a
+pretty decent evaluation set just by asking people to send in their
+“human deep research report” and self-reported data about time use? In
+practice, many timesheet-based knowledge workers do this and it works
+fine. And, this is what many existing benchmarks already look like, and
+may be what the evals mentioned in the Deep Research release post look
+like as well.
+
+However, I actually think the surveillance approach will be
+necessary, and here’s why: LLMs have already become embedded in
+knowledge work. They’re being used in crowdwork, and there’s increasing
+consensus that for some types of assignments they have effectively
+trivialized unsupervised homework.
+
+It’s going to be very important to have relatively “pure” evals for
+those evals to mean anything (I personally think this feedback loop is
+even more concerning than “model collapse” — more on this in another
+post).
+
+### One quick bout of napkin
+math
+
+To illustrate the idea that evaluation labor is going to take a lot
+of human-hours, we might run through one quick bout of napkin math.
+Looking at the three examples provided by OpenAI, we might assume that
+one Deep Research query is “valued” at 5 hours of time (and that more
+complex queries take more time to compare).
+
+Let’s value our expert billing rate at $200/hr (of course, successful
+coordination by AI operators could drive this down; successful
+coordination by data intermediaries could drive it up).
+
+So, using English Wikipedia as a proxy (with numerous caveats) for
+how many “articles” make up human knowledge, let’s say we want to
+produce a deep research-level report for 1/10 of Wikipedia’s almost 7M
+articles (~700k reports, 5 hours per question, $200/hr): this will
+require 700M of labor costs (small beans compared to 11 trillion needed to
+commission a brand new LLM dataset from scratch). But if we then want to
+double check our work (get 2 people per report), we’re paying 1.4B. If
+we want to robustly measure variances and inter-rater reliability, we
+might be looking at tens of billions — that could eat an entire
+fundraising round for an AI start-up!
+
+And critically, for any domain in which the relevant experts are able
+to organize, they could bargain around this evaluation
+contract. Knowledge workers in a given domain could easily make
+it functionally impossible to measure how well AI is doing in that
+domain.
+
+### Evaluation data leverage
+
+Right now, a variety of tools exist, and there are very heterogeneous
+perspectives on their usefulness. You can find strong examples showing
+apparent utility alongside very strong examples of negative utility.
+There’s certainly some motivated reasoning going on here on both sides,
+and there’s plenty of precedent for public opinion being split on new
+technology.
+
+But this situation is somewhat unique, because the explicit goal of
+extreme generality makes the evaluation of “AI” a very collective human
+task. Compare this to evaluating vacuum cleaners — a relatively small
+set of people can cover all the edge cases for a vacuum cleaner. But for
+a research agent, we ideally want to model, well, everybody who does
+research. And if this agent is supposed to be used by consumers, we also
+want to model… every consumer.
+
+I’ve long argued for a “We all helped achieve this” framing for
+discussing the production of LLMs (with the caveat that of course, the
+distribution of credit is not literally uniform). And almost by
+definition, serious evaluation of general AI will require similar, if
+not greater, large-scale coordination.
+
+We will still have leverage through our training data, though the
+magnitude of this leverage is highly contingent on pending legal
+decisions, regulatory action (or lack thereof), and answering technical
+questions about data protection technology. Organizing collective action
+when your estimated leverage is very volatile is a scary prospect and
+not useful for movement building.
+
+This means that if I had to pick the most “stable” form of data
+leverage right, it would be data action specifically aimed at the
+evaluation side of things.
+
+Putting things another way, if I could give advice to a billionaire
+interested in AI safety who was open to a “data leverage” approach, it
+would be to directly fund organizing efforts for existing data workers
+and to begin raising awareness about evaluation leverage for general
+knowledge workers.
+
+### Will Evaluation
+Leverage Actually Happen?
+
+I believe there is a high probability that evaluation data leverage
+will become significant—and in some cases, it may already be taking
+shape. In particular, I expect evaluation data leverage to be especially
+useful for, and used by, organizations that represent professionalized
+labour, e.g. medicine and law.
+
+On the other hand, an area where evaluation data leverage will face
+serious challenges is in the general white-collar workplace. These
+contexts rarely have collective bargaining for employees and employees
+typically have no rights over the intellectual property they produce or
+other outputs. In large firms, I expect employers to add more draconian
+surveillance-style data collection that converts existing knowledge work
+into AI eval work (in fact, some firms may have already run their own
+bespoke evals of Deep Research because they actually have detailed logs
+of employees producing similar outputs). In other words, white-collar
+workers will probably get a new set of tasks — moonlighting as AI
+evaluators.
+
+### Fitting this into past
+frameworks
+
+In the original data leverage framework paper, we primarily compare
+and contrast different types of actions: data strikes, data poisoning,
+and leverage through conscious data contribution. In a follow-up paper, we taxonomized data
+labor, with a focus on six particular dimensions: for a given
+data-generating activity that produces some valuable record: (1) is the
+data labor legible to the creator, (2) is the creator aware of the
+end-use for that data, (3) does the creator collaborate with others to
+produce the data, (4) is the data eventually made “open”, (5) how
+“replaceable” (vs specialized) in the activity, and (6) is the
+data-generating activity part of the creator’s set of “livelihood
+generating activities” (i.e., are they doing this as part of their
+job?)
+
+### What Makes Eval Data Eval
+Data?
+
+Of course, it’s interesting to note that there’s nothing that makes
+eval data special other than the fact that the data is used for
+evaluation. In fact, the more special handling applied to the production
+of eval data, the less useful it is, because we typically want to know
+performance for our “true” distribution (or as close as we can get).
+
+In other words, we can’t actually look at a document and say whether
+it’s “eval” or “training”. This means for a data laborer, access
+to “evaluation-specific leverage” is about end
+use-awareness.
+
+Critically, this means eval leverage waxes and wanes. Immediately
+after the release of deep research agents (which are perhaps being
+pushed out more quickly than planned due to market race dynamics) is the
+full moon for eval leverage in this context.
+
+Source revision history
+
+Selected Git commits that changed this source file.
+
+- 9fb4674b8a 2026-07-12 - Migrate blog into digital presence monorepo
+
+Mirror freshness
+
+Maintenance status for tracked full-copy mirrors of this post.
+
+-
+Current
+substack
+
+mirror 2025-03-02
+
+Baseline from original_url
+
+Source and AT Protocol record
+
+Source path
+content/writing/posts/2025-03-02-evaluation-data-leverage-advances.md
+
+AT Protocol URI
+at://did:plc:doxvahqvyhyqf32v7wz7p5xk/site.standard.document/3mizeekbnhioq
+
+Exact public AT Protocol record cached for the Leaflet/Bluesky-facing copy.
+
+{
+"uri": "at://did:plc:doxvahqvyhyqf32v7wz7p5xk/site.standard.document/3mizeekbnhioq",
+"cid": "bafyreihlk5khm5yx6pv7lk4t6esd45to4envv4qk3q2tq43yoeffknrt6i",
+"value": {
+"path": "/3mizeekbnhioq",
+"site": "at://did:plc:doxvahqvyhyqf32v7wz7p5xk/site.standard.publication/3lzrsw2kvwc2m",
+"$type": "site.standard.document",
+"title": "Evaluation Data Leverage: Advances like \"Deep Research\" Highlight a Looming Opportunity for Bargaining Power",
+"content": {
+"$type": "pub.leaflet.content",
+"pages": [
+{
+"$type": "pub.leaflet.pages.linearDocument",
+"blocks": [
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.image",
+"image": {
+"$type": "blob",
+"ref": {
+"$link": "bafkreiglgu6inswvroetilcz33awxqqbzzcjorq5azszqcyauopnsqngia"
+},
+"mimeType": "image/png",
+"size": 1144444
+},
+"aspectRatio": {
+"$type": "pub.leaflet.blocks.image#aspectRatio",
+"width": 855,
+"height": 899
+}
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "This post has two related goals:"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.unorderedList",
+"children": [
+{
+"$type": "pub.leaflet.blocks.unorderedList#listItem",
+"content": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Motivate the idea of “Evaluation Data Leverage”: knowledge workers will be able to bargain with AI operators for access to their data-generating activities that are specifically needed to evaluate new AI models and products."
+}
+},
+{
+"$type": "pub.leaflet.blocks.unorderedList#listItem",
+"content": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Highlight the challenge that more “general” AI products require evaluation practices that will be very laborious for workers and have a large overall price tag. This could very well create major optics issues for the AI and tech industry if these organizations become widely regarded as agents of precarity."
+}
+}
+]
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 58,
+"byteStart": 56
+},
+"features": [
+{
+"$type": "pub.leaflet.richtext.facet#italic"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 56,
+"byteStart": 39
+},
+"features": [
+{
+"uri": "https://commons.wikimedia.org/wiki/File:Hartford_Steam_Boiler_Inspection_and_Insurance_Co._ad.png",
+"$type": "pub.leaflet.richtext.facet#link"
+},
+{
+"$type": "pub.leaflet.richtext.facet#italic"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 39,
+"byteStart": 0
+},
+"features": [
+{
+"$type": "pub.leaflet.richtext.facet#italic"
+}
+]
+}
+],
+"plaintext": "An ad for evaluation labour from 1894 (Wikimedia Commons)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Time marches on, and tech companies continue to ship products that use large-scale models to do some combination of augmenting and/or automating knowledge work. Increasingly, across various firms, two trends emerging are the use of “reasoning” and the implementation of “deep research agents”."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Together, these developments mean that AI products continue to produce larger and potentially more complex artifacts. For instance, a good deal of ink has been spilled over the value of Deep Research. Will (AI) research agents replace (human) research assistants? Are you getting equivalent value to eight hours of human knowledge work in 10 minutes? Are your outputs full of hard-to-catch hallucinations? Will these agents lead to a slew of epistemically toxic artifacts strewn across the web (and in the case of Google’s Deep Research, which makes you read the output in Google Docs, your personal Drive)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 205,
+"byteStart": 198
+},
+"features": [
+{
+"uri": "https://www.science.org/content/blog-post/evaluation-deep-research-performance",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 32,
+"byteStart": 28
+},
+"features": [
+{
+"uri": "https://marginalrevolution.com/marginalrevolution/2025/02/deep-research.html",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "This short Tyler Cowen blog post nicely captures both the positive view (in the content) and the negative view (in the comments and responses). As another example, consider this commentary piece in Science from Derek Lowe."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Well, to know that for sure whether we can get 8 hours of human knowledge work in 10 minutes, we’d probably want to do a very thorough comparison."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "Evaluating Deep Research: What We Have So Far"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 40,
+"byteStart": 33
+},
+"features": [
+{
+"uri": "https://openai.com/index/introducing-deep-research/",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "Here is OpenAI’s Deep Research release. Three benchmarks are mentioned: HLE, GAIA, and “internal evaluation of expert-level tasks”. We get three examples, which are claimed to have saved 4, 5, and 2 hours. Presumably these used some binary pass/fail rating scheme (we see a “Pass Rate” mentioned): the experts “approved” the answers. It’s unclear if the experts estimated the time needed, or if they actually worked until they reached some quality threshold (determined by other experts?) and then paused their stopwatch. We’ll get more info down the line: “We will share our safety insights and safeguards for deep research in a system card when we widen access to Plus users.”"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Why harp on this? Evaluating “deep research” across past and future areas of human inquiry will take immense manual labour."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "What could a very thorough evaluation process look like?"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 555,
+"byteStart": 544
+},
+"features": [
+{
+"uri": "https://www.technologyreview.com/2020/08/07/1006132/software-algorithms-proctoring-online-tests-ai-ethics/",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 543,
+"byteStart": 541
+},
+"features": [
+{
+"uri": "https://www.nbcnews.com/think/opinion/remote-testing-monitored-ai-failing-students-forced-undergo-it-ncna1246769",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "Well, we’d probably want to start by getting a group of white-collar workers to agree to sign on to produce points of comparison. Ideally (in terms of richness of data — especially if we want to compare the process used, the intermediate states of the output artifacts, etc.), they’d agree to be monitored — perhaps via a webcam and/or screen capture. Getting very fine-grained data would involve surveillance technology similar to that used to monitor students taking remote exams during COVID. Generally, this kind of software can be distressing to use. Of course, in the context of working as a distinguished data evaluator in the service of humanity, perhaps people would be fine with it."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "It seems likely this kind of surveilled-knowledge-work-data-labor has happened quite a bit already, and will happen even more. At first it will be kept secret, but as the total volume of surveilled-knowledge-work-data-labor increases, it will be hard to keep it completely hidden. I think the optics of this shift are going to be very bad, because some of this evaluation work will be ramping up in conjunction with disruptive job market impacts. That is, people will viscerally see movement towards a more precarious overall economy for most workers. The AI industry may start to hold blame in the eyes of the public for a rollback in cushiness of (some) knowledge work."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Perhaps this whole surveillance process is overkill. Could we build a pretty decent evaluation set just by asking people to send in their “human deep research report” and self-reported data about time use? In practice, many timesheet-based knowledge workers do this and it works fine. And, this is what many existing benchmarks already look like, and may be what the evals mentioned in the Deep Research release post look like as well."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "However, I actually think the surveillance approach will be necessary, and here’s why: LLMs have already become embedded in knowledge work. They’re being used in crowdwork, and there’s increasing consensus that for some types of assignments they have effectively trivialized unsupervised homework."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "It’s going to be very important to have relatively “pure” evals for those evals to mean anything (I personally think this feedback loop is even more concerning than “model collapse” — more on this in another post)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "One quick bout of napkin math"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "To illustrate the idea that evaluation labor is going to take a lot of human-hours, we might run through one quick bout of napkin math. Looking at the three examples provided by OpenAI, we might assume that one Deep Research query is “valued” at 5 hours of time (and that more complex queries take more time to compare)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Let’s value our expert billing rate at $200/hr (of course, successful coordination by AI operators could drive this down; successful coordination by data intermediaries could drive it up)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 350,
+"byteStart": 344
+},
+"features": [
+{
+"uri": "https://github.com/nickmvincent/data_napkin_math",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "So, using English Wikipedia as a proxy (with numerous caveats) for how many “articles” make up human knowledge, let’s say we want to produce a deep research-level report for 1/10 of Wikipedia’s almost 7M articles (~700k reports, 5 hours per question, $200/hr): this will require 700M of labor costs (small beans compared to 11 trillion needed to commission a brand new LLM dataset from scratch). But if we then want to double check our work (get 2 people per report), we’re paying 1.4B. If we want to robustly measure variances and inter-rater reliability, we might be looking at tens of billions — that could eat an entire fundraising round for an AI start-up!"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 134,
+"byteStart": 83
+},
+"features": [
+{
+"$type": "pub.leaflet.richtext.facet#bold"
+}
+]
+}
+],
+"plaintext": "And critically, for any domain in which the relevant experts are able to organize, they could bargain around this evaluation contract. Knowledge workers in a given domain could easily make it functionally impossible to measure how well AI is doing in that domain."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "Evaluation data leverage"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Right now, a variety of tools exist, and there are very heterogeneous perspectives on their usefulness. You can find strong examples showing apparent utility alongside very strong examples of negative utility. There’s certainly some motivated reasoning going on here on both sides, and there’s plenty of precedent for public opinion being split on new technology."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "But this situation is somewhat unique, because the explicit goal of extreme generality makes the evaluation of “AI” a very collective human task. Compare this to evaluating vacuum cleaners — a relatively small set of people can cover all the edge cases for a vacuum cleaner. But for a research agent, we ideally want to model, well, everybody who does research. And if this agent is supposed to be used by consumers, we also want to model… every consumer."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "I’ve long argued for a “We all helped achieve this” framing for discussing the production of LLMs (with the caveat that of course, the distribution of credit is not literally uniform). And almost by definition, serious evaluation of general AI will require similar, if not greater, large-scale coordination."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "We will still have leverage through our training data, though the magnitude of this leverage is highly contingent on pending legal decisions, regulatory action (or lack thereof), and answering technical questions about data protection technology. Organizing collective action when your estimated leverage is very volatile is a scary prospect and not useful for movement building."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "This means that if I had to pick the most “stable” form of data leverage right, it would be data action specifically aimed at the evaluation side of things."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Putting things another way, if I could give advice to a billionaire interested in AI safety who was open to a “data leverage” approach, it would be to directly fund organizing efforts for existing data workers and to begin raising awareness about evaluation leverage for general knowledge workers."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "Will Evaluation Leverage Actually Happen?"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "I believe there is a high probability that evaluation data leverage will become significant—and in some cases, it may already be taking shape. In particular, I expect evaluation data leverage to be especially useful for, and used by, organizations that represent professionalized labour, e.g. medicine and law."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "On the other hand, an area where evaluation data leverage will face serious challenges is in the general white-collar workplace. These contexts rarely have collective bargaining for employees and employees typically have no rights over the intellectual property they produce or other outputs. In large firms, I expect employers to add more draconian surveillance-style data collection that converts existing knowledge work into AI eval work (in fact, some firms may have already run their own bespoke evals of Deep Research because they actually have detailed logs of employees producing similar outputs). In other words, white-collar workers will probably get a new set of tasks — moonlighting as AI evaluators."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "Fitting this into past frameworks"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 209,
+"byteStart": 204
+},
+"features": [
+{
+"uri": "https://arxiv.org/pdf/2305.13238",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+},
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 45,
+"byteStart": 40
+},
+"features": [
+{
+"uri": "https://arxiv.org/abs/2012.09995",
+"$type": "pub.leaflet.richtext.facet#link"
+}
+]
+}
+],
+"plaintext": "In the original data leverage framework paper, we primarily compare and contrast different types of actions: data strikes, data poisoning, and leverage through conscious data contribution. In a follow-up paper, we taxonomized data labor, with a focus on six particular dimensions: for a given data-generating activity that produces some valuable record: (1) is the data labor legible to the creator, (2) is the creator aware of the end-use for that data, (3) does the creator collaborate with others to produce the data, (4) is the data eventually made “open”, (5) how “replaceable” (vs specialized) in the activity, and (6) is the data-generating activity part of the creator’s set of “livelihood generating activities” (i.e., are they doing this as part of their job?)"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.header",
+"level": 2,
+"facets": [],
+"plaintext": "What Makes Eval Data Eval Data?"
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Of course, it’s interesting to note that there’s nothing that makes eval data special other than the fact that the data is used for evaluation. In fact, the more special handling applied to the production of eval data, the less useful it is, because we typically want to know performance for our “true” distribution (or as close as we can get)."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [
+{
+"$type": "pub.leaflet.richtext.facet",
+"index": {
+"$type": "pub.leaflet.richtext.facet#byteSlice",
+"byteEnd": 211,
+"byteStart": 108
+},
+"features": [
+{
+"$type": "pub.leaflet.richtext.facet#bold"
+}
+]
+}
+],
+"plaintext": "In other words, we can’t actually look at a document and say whether it’s “eval” or “training”. This means for a data laborer, access to “evaluation-specific leverage” is about end use-awareness."
+}
+},
+{
+"$type": "pub.leaflet.pages.linearDocument#block",
+"block": {
+"$type": "pub.leaflet.blocks.text",
+"facets": [],
+"plaintext": "Critically, this means eval leverage waxes and wanes. Immediately after the release of deep research agents (which are perhaps being pushed out more quickly than planned due to market race dynamics) is the full moon for eval leverage in this context."
+}
+}
+]
+}
+]
+},
+"description": "Research agents and increasingly general reasoning models open the door for immense \"evaluation data leverage\".",
+"publishedAt": "2025-03-02T00:00:00.000Z"
+}
+}

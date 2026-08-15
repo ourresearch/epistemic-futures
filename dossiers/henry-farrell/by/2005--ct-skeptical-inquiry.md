@@ -1,0 +1,30 @@
+---
+title: "Skeptical Inquiry"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2005
+date: 2005-04-19
+venue: "Crooked Timber"
+authors: "Henry Farrell"
+source_url: https://crookedtimber.org/2005/04/19/3193/
+retrieved: 2026-08-13
+content: full-text
+notes: "Crooked Timber post id 3193; retrieved via the site's WordPress REST API (wp-json/wp/v2/posts). Comments not included."
+---
+
+# Skeptical Inquiry
+
+## Full text
+
+Chris Mooney has a great piece of investigative reporting at Mother Jones detailing Exxon’s funding of anti-global warming groups ranging from Steven Milloy’s one-man disinformation campaign at junkscience.com to the American Enterprise Institute. Bottom line: there’s now an overwhelming scientific consensus that human caused greenhouse gases are causing the world’s temperature to rise. Many previous skeptics (e.g. BP and Shell) have now been convinced on the basic facts of global warming. Yet Exxon and the American Petroleum Institute, an organization with which Exxon has close links, have sought to cast doubt on this consensus through funding spurious “reports” and other publications that don’t meet the minimal standards to get published in peer-reviewed journals.[1]
+
+In 1998, the New York Times exposed an API memo outlining a strategy to invest millions to “maximize the impact of scientific views consistent with ours with Congress, the media and other key audiences.” The document stated: “Victory will be achieved when…recognition of uncertainty becomes part of the ‘conventional wisdom.’” It’s hard to resist a comparison with a famous Brown and Williamson tobacco company memo from the late 1960s, which observed: “Doubt is our product since it is the best means of competing with the ‘body of fact’ that exists in the mind of the general public. It is also the means of establishing a controversy.”
+
+Lobbying-shops masquerading as opinion journals, such as the infamous Whale Central Station, play a key role in generating this confusion. But so do purportedly serious think tanks, such as the AEI (which recently hosted famous climate scientist, Michael Crichton) and the Competitive Enterprise Institute. Now there’s a grey area here – when does legitimate argument over policy stop, and egregious behavior like attempting to deny science or (if the barely-veiled allegations in this Washington Post article are correct) pimping for anti-semitic quasi-dictatorships begin? I may not agree with a lot of the arguments coming from the AEI, Heritage etc, but a lot of their policy output is perfectly legitimate stuff – debates about matters that are genuinely up for debate. There’s a range of activities here, ranging from the perfectly acceptable through venial offenses to mortal sins.
+
+It seems to me that when organizations like the AEI are engaged in the defence of general normative principles about how policy should be made, they’re engaged in entirely legitimate activity. A certain degree of selectivity in the marshalling of facts to select these principles is broadly acceptable, as long as the facts aren’t egregiously mis-stated. We all tend, consciously or unconsciously, to emphasize facts that support our normative priors and to de-emphasize those that don’t – and we can be called on this in fair debate. These organizations should of course provide full disclosure about their funding sources (as should their equivalents on the left), so that outsiders can evaluate their credibility. When they respond to potential funding sources by deciding to emphasize policy area x (where there is grant or donor support) as opposed to y or z (where there is no such support), that’s fine too, as long as they fairly represent who is funding them, and as long as the policy area is roughly consonant with their stated goal and purpose. As Chris says, all policy groups steer towards policy areas where the grant money is. However, when institutions adopt policy positions that are at odds with their stated normative goals, but that further the interests of their sponsors, it tells us a lot about the reliability of the organization. As Nick Confessore says, the smoking gun showing that Glassman’s Tech Central Station is a flack outfit is that Glassman is perfectly happy to make anti-free market arguments when this advances the interests of TCS’ corporate funders. Even worse, of course, is when this inconsistency is the result of personal payola, as in the Post’s implicit theory of Heritage’s about-turn on Malaysia (note, however, that the Post only has circumstantial evidence to support its allegations). 
+
+ But worst of all is when think tanks deliberately propagate inaccuracies, misinformation and downright lies in order to muddy policy debates, and create the appearance of doubt where there isn’t real grounds for it, not only engaging in suppressio veri but suggestio falsi. It’s this that Mooney identifies as having happened thanks to Exxon’s funding of global warming ‘skeptics.’ There are grounds for debating the appropriate policy response to human-caused global warming, but not for debating whether it’s a real phenomenon. Exxon’s funding of think tanks and astroturf groups has had the (presumably intended) effect of creating an appearance of debate, through whistling an opposition into existence out of thin air. However, there isn’t any serious scientific debate about whether human-caused global warming exists and is important – quite simply, these organizations are being funded by Exxon to cloud the public debate, and block political action. Not to further the real debate, but to prevent it from starting.
+
+fn1. Mooney documents one case where climate change skeptics did get an article published in a peer-reviewed journal. However, the editor-in-chief of the journal resigned in short order to protest deficiencies in the peer review process that had led to the article’s publication, stating that climate science skeptics “had identified Climate Research as a journal where some editors were not as rigorous in the review process as is otherwise common.”

@@ -1,0 +1,16 @@
+{
+ "did": "did:plc:l7jt5jcd75bwlcuqngatxzl2",
+ "handle": "blaiseaguera.bsky.social",
+ "displayName": "Blaise Agüera y Arcas",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l7jt5jcd75bwlcuqngatxzl2/bafkreicbsgsuxdr7cuopdjirdpqtgx3stlswhdqm3oqdzp4jnsznobqrxa",
+ "associated": {
+  "chat": {
+   "allowIncoming": "all"
+  },
+  "activitySubscription": {
+   "allowSubscriptions": "followers"
+  }
+ },
+ "labels": [],
+ "createdAt": "2025-04-02T17:41:09.593Z"
+}

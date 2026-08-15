@@ -1,0 +1,29 @@
+---
+title: "Well-Spoken Links"
+person: anil-dash
+section: by
+type: blog-post
+year: 2007
+date: 2007-02-09
+venue: "anildash.com"
+authors: "Anil Dash"
+source_url: https://anildash.com/2007/02/09/wellspoken-link/
+retrieved: 2026-08-13
+content: full-text
+notes: "tags: links, advertising, aesthetics"
+---
+
+# Well-Spoken Links
+
+## Full text
+
+Okay, these are the links you should be reading on the Internet today.
+
+  * [A smart diagram is the new clever writing](<http://thediagram.com/6_3/leisurearts.html>): LeisureArts charts out my favorite snowclone. I covered similar topics before in [The Story of America](</2006/10/31/the-story-of-am>) and [Do you love words?](</2006/02/19/do-you-love-wor>) The diagram is excerpted here. 
+  * The New York Times reports on [Justin Timberlake’s new audience](<http://www.nytimes.com/2007/02/07/arts/music/07just.html?ex=157680000&en=6f8bb9a230fdfd01&ei=5124&partner=permalink&exprod=permalink>). “Unlike his former boy-band colleagues, Mr. Timberlake has even won over musicians who prefer lo-fi thrash to the slicker sounds of mainstream albums.” These hipsters could have been five years ahead of the curve if they’d just have listened to me.
+  * [Misidentified Black Person of the Week](<http://undercoverblackman.blogspot.com/2007/02/misidentified-black-person-of-week.html>). A disturbingly familiar story about mistaken captions, which references [my post about the same topic](</2002/12/08/ap-photo-captio>) a couple of years ago. Somehow this really stuck with me, perhaps because I was reading [this cogent explanation of the problem with “articulate”](<http://www.nytimes.com/2007/02/04/weekinreview/04clemetson.html?ex=157680000&en=08be72bd34fa0898&ei=5124&partner=permalink&exprod=permalink>) at the same time. “It is amazing that this still requires clarification, but here it is. Black people get a little testy when white people call them ‘articulate’.” So, two notes for editors: Get people’s names right, and be respectful. Not so hard!
+  * Speaking of respect, [Why didn’t Prince get electrocuted](<http://www.slate.com/id/2159161/>) while playing electric guitar in the rain at the Superbowl? Because he’s _Prince_ , people!
+  * So it turns out there actually _may_ be some [Hunanese origins for General Tso’s chicken](<http://www.nytimes.com/2007/02/04/magazine/04food.t.html?ex=157680000&en=4a1a8fda8e1c7043&ei=5124&partner=permalink&exprod=permalink>). I’ve been using General Tso’s chicken as the definitive example of how I became clueful about eating good food (“It’s not even a real Chinese dish — I’m a dummy!”), but I like this story of how it’s a creation of cross-cultural entrepreneurism even better. I wonder if my family members in Taiwan have ever tried the “delectable concoction of lightly battered chicken in a chili-laced sweet-sour sauce”.
+  * I’m hoping danah won’t be offended if I call her [defense of walled gardens](<http://www.zephoria.org/thoughts/archives/2007/02/05/about_those_wal.html>) articulate. It’s also thought-provoking, which is high praise indeed.
+  * On the flip side of the walled garden conversation is [PB’s ongoing onfocus series](<http://www.onfocus.com/2007/02/3925>) about getting off the grid. The technology here is interesting, but I’m enjoying watching the thought process behind the coding that Paul has been doing.
+  * And finally, [Google is going to start to charge some businesses](<http://arstechnica.com/news.ars/post/20070206-8783.html>) for [Google Apps for Your Domain](</2006/08/28/google-office-g>). I find that refreshing and reassuring.

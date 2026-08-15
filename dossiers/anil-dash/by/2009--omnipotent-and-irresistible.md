@@ -1,0 +1,22 @@
+---
+title: "Omnipotent and Irresistible"
+person: anil-dash
+section: by
+type: blog-post
+year: 2009
+date: 2009-01-09
+venue: "anildash.com"
+authors: "Anil Dash"
+source_url: https://anildash.com/2009/01/09/omnipotent-and-irresistible/
+retrieved: 2026-08-13
+content: full-text
+notes: "tags: food"
+---
+
+# Omnipotent and Irresistible
+
+## Full text
+
+> [T]he burger is omnipotent and irresistible. It can never be weakened. It can never be slowed down. It can never stop its ever-increasing growth in popularity. It’s the single most powerful force in the food universe…. The hamburger is a way that people can experience everything that’s great about eating beef—the flavor, the tenderness, and everything—in a way that’s a affordable.
+
+That’s Josh Ozersky, quoted over on [A Hamburger Today](<http://aht.seriouseats.com/archives/2009/01/josh-ozersky-hamburgers-nightline-la-frieda-black-label-burger-boom.html>), from his appearance on Nightline. The great thing about the fact that I’ve been blogging for almost ten years is that I can definitively prove that I was [blogging](</1999/09/reilly-burger.html>)[about burgers](</1999/10/a-reply-from-sh.html>) before it was cool. The second great thing is that I am sitting at my desk at work, and the Shake Shack is only a stone’s throw away.

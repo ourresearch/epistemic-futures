@@ -1,0 +1,174 @@
+year	date_label	topic	kind	title_and_venue	links
+2026	May 2026	Public AI	Paper	If open source is to win, it must go public ICML	https://openreview.net/forum?id=zN7zY1UVru
+2026	May 2026	Public AI	Panel	Panel: Designing Collective Technology Governance CPDP.ai 2026	
+2026	May 2026	Safety and evals	Paper	Overreliance in Writing Tasks: Exploring Similarity-Based Measures of AI Influence on Writing and Proposing a Reflective Writing Interface Intervention ACM FAccT	https://dl.acm.org/doi/10.1145/3805689.3812389
+2026	May 2026	LLM simulation	Paper	Mechanism Plausibility in Generative Agent-Based Modeling ACM FAccT	https://dl.acm.org/doi/10.1145/3805689.3812388
+2026	May 2026	Social computing	Paper	How Creatives Approach GenAI Image Generation: Tensions Between Structured Guidance, Self-Experimentation, and Creative Autonomy ACM Creativity & Cognition	https://dl.acm.org/doi/10.1145/3803784.3807570
+2026	Mar 2026	Social computing	Paper	Tracing Everyday AI Literacy Discussions at Scale: How Online Creative Communities Make Sense of Generative AI ACM CHI	https://dl.acm.org/doi/10.1145/3772318.3791001
+2026	Feb 2026	Data as labor	Paper	Are We Horses? Rethinking Data as Labor Philosophy & Technology	https://doi.org/10.1007/s13347-026-01033-4
+2025	Dec 2025	Data leverage	Paper	Collective Bargaining in the Information Economy Can Address AI-Driven Power Concentration NeurIPS Position Papers	https://openreview.net/forum?id=SbfjBNlJE7
+2025	Dec 2025	Data leverage	Poster Presentation	Collective Bargaining in the Information Economy Can Address AI-Driven Power Concentration NeurIPS 2025 Position Papers Track	
+2025	Oct 2025	Safety and evals	Paper	An Audit and Analysis of LLM-Assisted Health Misinformation Jailbreaks Against LLMs AIES	https://doi.org/10.1609/aies.v8i2.36630
+2025	Oct 2025	AI supply chains	Paper	Responsible AI in the OSS: Reconciling Innovation with Risk Assessment and Disclosure AIES	https://doi.org/10.1609/aies.v8i1.36567
+2025	Oct 2025	LLM simulation	Talk	"A Data Flow Perspective on ""AI Social Simulation"": Will Recent AI Advances Enable New Social Science, Destroy Ecosystems for Knowledge, or Something More Subdued? University of Washington CSSS Seminar"	
+2025	Jun 2025	Data leverage	Paper	Algorithmic Collective Action with Two Collectives ACM FAccT	https://dl.acm.org/doi/10.1145/3715275.3732098
+2025	Jun 2025	Social computing	Paper	Push and Pull: A Framework for Measuring Attentional Agency on Digital Platforms ACM FAccT	https://dl.acm.org/doi/10.1145/3715275.3732043
+2024	Mar 2024	Knowledge commons	Paper	A Canary in the AI Coal Mine: American Jews May Be Disproportionately Harmed by Intellectual Property Dispossession in Large Language Model Training ACM CHI	https://dl.acm.org/doi/full/10.1145/3613904.3642749
+2024	Mar 2024	Public AI	Paper	Pika: Empowering Non-Programmers to Author Executable Governance Policies in Online Communities ACM CHI	https://dl.acm.org/doi/10.1145/3613904.3642012
+2024	Feb 2024	Public AI	Talk	A New Grand Data Bargain for Public Interest AI Digital Democracies Institute Spring Speaker Series	
+2023	Nov 2023	Social computing	Paper	Peer Produced Friction: How Page Protection on Wikipedia Affects Editor Engagement and Concentration ACM CSCW	https://dl.acm.org/doi/10.1145/3610198
+2023	Jun 2023	Data as labor	Paper	The Dimensions of Data Labor: A Road Map for Researchers, Activists, and Policymakers to Empower Data Producers ACM FAccT	https://dl.acm.org/doi/10.1145/3593013.3594070
+2022	Dec 2022	AI supply chains	Panel	Does the rise of AI need us to adopt new data licensing policies? Open Health Data and AI Summit 2022	
+2022	Jun 2022	AI supply chains	Paper	Behavioral Use Licensing for Responsible AI ACM FAccT	https://dl.acm.org/doi/10.1145/3531146.3533143
+2021	May 2021	Social computing	Paper	CEAM: The Effectiveness of Cyclic and Ephemeral Attention Models of User Behavior on Social Platforms AAAI ICWSM	https://doi.org/10.1609/icwsm.v15i1.18046
+2021	May 2021	Knowledge commons	Talk	The Importance of Wikipedia to Search Engines and Other Systems Wikipedia Research Showcase	
+2021	May 2021	AI supply chains	Paper	Addressing Documentation Debt in Machine Learning Research: A Retrospective Datasheet for BookCorpus NeurIPS Datasets and Benchmarks	https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/0a09c8844ba8f0936c20bd791130d6b6-Abstract-round1.html
+2021	May 2021	Social computing	Paper	AdverTiming Matters: Examining User Ad Consumption for Effective Ad Allocations on Social Media ACM CHI	https://dl.acm.org/doi/10.1145/3411764.3445394
+2021	Apr 2021	Data leverage	Paper	"Can ""Conscious Data Contribution"" Help Users to Exert ""Data Leverage"" Against Technology Companies? ACM CSCW"	https://dl.acm.org/doi/10.1145/3449177
+2021	Apr 2021	Data as labor	Paper	A Deeper Investigation of the Importance of Wikipedia Links to Search Engine Results ACM CSCW	https://dl.acm.org/doi/10.1145/3449078
+2021	Mar 2021	Data leverage	Paper	Data Leverage: A Framework for Empowering the Public in its Relationship with Technology Companies ACM FAccT	https://dl.acm.org/doi/10.1145/3442188.3445885
+2021	Jan 2021	Data leverage	Talk	Data Agency: Individual or Shared? RadicalxChange Panels	
+2020	Jul 2020	Data dividends	Panel	Data Driven Economy for All RadicalxChange 2020 Conference	
+2019	Nov 2019	Data leverage	Paper	How Do People Change Their Technology Use in Protest?: Understanding Protest Users ACM CSCW	https://dl.acm.org/doi/10.1145/3359189
+2019	Jul 2019	Data as labor	Paper	Measuring the Importance of User-Generated Content to Search Engines AAAI ICWSM	https://doi.org/10.1609/icwsm.v13i01.3248
+2019	May 2019	Data leverage	Paper	"""Data Strikes"": Evaluating the Effectiveness of a New Form of Collective Action Against Technology Companies ACM The Web Conference"	https://dl.acm.org/doi/10.1145/3308558.3313742
+2018	Nov 2018	Social computing	Paper	Women (still) ask for less: Gender differences in hourly rate in an online labor marketplace ACM CSCW	https://dl.acm.org/doi/10.1145/3274322
+2018	Apr 2018	Data as labor	Paper	Examining Wikipedia With a Broader Lens: Quantifying the Value of Wikipedia's Relationships with Other Large-Scale Online Communities ACM CHI	https://dl.acm.org/doi/10.1145/3173574.3174140
+2018	Apr 2018	Knowledge commons	Talk	The Critical Relationship of Volunteer-Created Wikipedia Content to Large-Scale Online Communities Wikipedia Research Showcase	
+Year		Topic	Kind	Title	
+2026	Aug 2026	Social computing	Shortpost	Stubs Digital Garden	https://nickmvincent.github.io/short-focus-posts/stubs.html
+2026	Jul 2026	Knowledge commons	Shortpost	Using AI kind of involves interacting with other people Data Leverage Short Posts	https://nickmvincent.github.io/short-focus-posts/focus-post-we-are-interacting-with-each-other.html
+2026	Jun 2026	Data as labor	Blog	Data labeling work should be dignified, not dismissed Data Leverage	https://nickmvincent.github.io/short-reactions/data-labeling-work-should-be-dignified-not-dismissed.html
+2026	Jun 2026	Data dividends	Shortpost	Short Scoping Ai Dividend Policies Digital Garden	https://nickmvincent.github.io/short-focus-posts/short--scoping-ai-dividend-policies.html
+2026	Jun 2026	Data dividends	Blog	AI Dividends Without Taxing Compute, Automation, or Equity: A Presumptive Commons-Rent Tax Based on Capabilities and Data Dependence Data Leverage	https://nickmvincent.github.io/long-posts/presumptive-commons-rent-tax-ai-dividends.html
+2026	Jun 2026	Safety and evals	Other paper	IDP-Bench: Benchmarking ability of LLMs to protect personal information in interdependent privacy contexts arXiv preprint	https://arxiv.org/abs/2606.09908
+2026	May 2026	Knowledge commons	Workshop	WikiGap: Promoting Epistemic Equity by Surfacing Knowledge Gaps Between English Wikipedia and other Language Editions WikiWorkshop 2026	https://arxiv.org/abs/2505.24195
+2026	May 2026	Data as labor	Shortpost	N-gram search as posterior updating for data attribution Data Leverage Short Posts	https://nickmvincent.github.io/short-focus-posts/posterior.html
+2026	May 2026	Safety and evals	Panel	Panelist, Responsible AI Track Canadian AI/CRV 2026	
+2026	May 2026	AI supply chains	Shortpost	Augmentation is a data flow problem Data Leverage Short Posts	https://nickmvincent.github.io/short-focus-posts/augmentation-is-a-data-flow-problem.html
+2026	Apr 2026	Safety and evals	Blog	"The AI ""Evaluation Crisis"" Is an Opportunity to Get Data Flow Right Data Leverage"	https://nickmvincent.github.io/long-posts/2026-04-30-eval-crisis-opportunity.html
+2026	Apr 2026	LLM simulation	Workshop	PoliSim@CHI 2026: LLM Agent Simulation for Policy ACM CHI Extended Abstracts	https://polisim.net/
+2026	Apr 2026	AI supply chains	Blog	Attestation across the AI Supply Chain Data Leverage	https://nickmvincent.github.io/long-posts/attestation-across-the-ai-supply-chain.html
+2026	Apr 2026	Public AI	Blog	"""People First"" Policy Ideas that Complement Each Other (through better data flow) Data Leverage"	https://nickmvincent.github.io/long-posts/people-first-policy-ideas-that-complement.html
+2026	Apr 2026	Knowledge commons	Blog	AI is driving the cost of polish down; some musings on fancy versus terse artifacts Data Leverage	https://nickmvincent.github.io/long-posts/ai-is-driving-the-cost-of-polish.html
+2026	Mar 2026	Data leverage	Panel	Panel: Can Decentralists Cooperate? Rethinking Commons and Collective Action in the Age of Platforms and AI ATScience 2026	
+2026	Mar 2026	AI supply chains	Project	Data Counterfactuals	https://datacounterfactuals.org/
+2026	Mar 2026	AI supply chains	Blog	"Two natural allies of a ""Data Transparency"" agenda: capabilities forecasters and social simulators Data Leverage"	https://nickmvincent.github.io/long-posts/two-natural-allies-of-a-data-transparency.html
+2026	Mar 2026	Data leverage	Podcast	Collective action strategies in the age of AI w/ Nick Vincent from Data Leverage The Blockchain Socialist	
+2026	Mar 2026	Data leverage	Blog	A Short Guide to Data Strikes and Conscious Data Contribution in the Context of 2026 Frontier AI Data Leverage	https://nickmvincent.github.io/long-posts/a-short-guide-to-data-strikes-and.html
+2026	Feb 2026	Knowledge commons	Blog	"The Paradox of Reuse in 2026: A Case of Quasi-Enclosure, or ""Subsidized Club Goods that Sort of Look Like Public Goods"" Data Leverage"	https://nickmvincent.github.io/long-posts/the-paradox-of-reuse-in-2026-a-case.html
+2026	Feb 2026	Data as labor	Media	New Research Challenges Tech Giants to Recognize Users as Laborers, Not Byproducts Carnegie Mellon University Tepper School of Business	https://www.cmu.edu/tepper/news/stories/research-challenges-tech-giants-recognize-users-laborers
+2026	Jan 2026	Data as labor	Blog	The Coding Agent Data Deal Data Leverage	https://nickmvincent.github.io/long-posts/the-coding-agent-data-deal.html
+2026	Jan 2026	Data as labor	Blog	Coding agents are (1) a big deal, (2) very relevant to data leverage, and (3) able to help build tools that support data leverage! Data Leverage	https://nickmvincent.github.io/long-posts/coding-agents-are-1-a-big-deal-2.html
+2026	2026	AI supply chains	Project	Data Lava Lamp	https://data-lavalamp.pages.dev/
+2025	Dec 2025	Data leverage	Workshop	Empowering Users Together: Connecting Algorithmic Collective Action and Explainable AI Algorithmic Collective Action Workshop at NeurIPS 2025	https://neurips.cc/virtual/2025/loc/san-diego/workshop/109567
+2025	Dec 2025	Data leverage	Workshop Organizer	Co-organizer, NeurIPS Workshop on Algorithmic Collective Action NeurIPS Workshop on Algorithmic Collective Action	
+2025	Nov 2025	AI supply chains	Blog	"Almost Everybody -- Including Both Data Creators and AI Companies -- Stands to Benefit from Clearer ""Data Rules"". Data Leverage"	https://nickmvincent.github.io/long-posts/almost-everybody-including-both-data.html
+2025	Nov 2025	Safety and evals	Other paper	Benchmarks 101 NeurIPS 2025 Education Program	https://openreview.net/forum?id=TSkYNaS4RA
+2025	Oct 2025	Data leverage	Workshop	Sync or Sink: Bounds on Algorithmic Collective Action with Noise and Multiple Groups Algorithmic Collective Action Workshop at NeurIPS 2025	https://arxiv.org/abs/2510.18933
+2025	Oct 2025	Data leverage	Blog	How collective bargaining for information, public AI, and HCI research all fit together Data Leverage	https://nickmvincent.github.io/long-posts/how-collective-bargaining-for-information.html
+2025	Oct 2025	Safety and evals	Other paper	Open WebUI: An Open, Extensible, and Usable Interface for AI Interaction arXiv preprint	https://arxiv.org/abs/2510.02546
+2025	Sep 2025	AI supply chains	Blog	"Which datasets should we assume are ""in all the AI models""? Data Leverage"	https://nickmvincent.github.io/long-posts/which-datasets-should-we-assume-are.html
+2025	Sep 2025	AI supply chains	Project	DataLicenses.org	https://datalicenses.org/
+2025	Sep 2025	Public AI	Media	Should the public sector build its own AI? The Financial Times	https://www.ft.com/content/686252f6-6d3d-40ec-bb2b-132d4fafb198
+2025	Aug 2025	Safety and evals	Talk	Data Leverage and AI Safety Singapore AI Safety Hub	
+2025	Jul 2025	Public AI	Talk	Data and Public AI TPC25	
+2025	Jul 2025	Safety and evals	Media	AI as 'teammate'? Not so fast, say experts warning it could be 'dangerous' Canadian HR Reporter	https://www.hrreporter.com/focus-areas/automation-ai/ai-as-teammate-not-so-fast-say-experts-warning-it-could-be-dangerous/393009
+2025	Jun 2025	Public AI	Podcast	AI as a Public Good with Jake Hirsch-Allen and Nicholas Vincent BrainTrainr Podcast	
+2025	Jun 2025	Data leverage	Blog	Algorithmic Collective Action With Two Collectives [crosspost] Data Leverage	https://nickmvincent.github.io/long-posts/algorithmic-collective-action-with.html
+2025	Jun 2025	Data leverage	Blog	On AI-driven Job Apocalypses and Collective Bargaining for Information Data Leverage	https://nickmvincent.github.io/long-posts/on-ai-driven-job-apocalypses-and.html
+2025	Jun 2025	Knowledge commons	Workshop	Epistemic Authority in AI Fact-Checking: A Human and Data Centric Perspective 4S 2025 Conference: Reverberations	https://www.4sonline.org/about_the_conference_seattle.php
+2025	May 2025	Safety and evals	Blog	How do we know our AI output is good? Double checks, bar charts, vibes, and training data. Data Leverage	https://nickmvincent.github.io/long-posts/how-do-we-know-our-ai-output-is-good.html
+2025	May 2025	Knowledge commons	Shortpost	AI progress as quasi-public good production Data Leverage Short Posts	https://nickmvincent.github.io/short-focus-posts/quasi-short.html
+2025	May 2025	Data as labor	Blog	"Each Instance of ""AI Utility"" Stems from Some Human Act(s) of Information Recording and Ranking Data Leverage"	https://nickmvincent.github.io/long-posts/each-instance-of-ai-utility-stems.html
+2025	May 2025	Social computing	Blog	Google and TikTok rank bundles of information; ChatGPT ranks grains. Data Leverage	https://nickmvincent.github.io/long-posts/google-and-tiktok-rank-bundles-of.html
+2025	May 2025	Knowledge commons	Media	Can Wikipedia survive the rise of AI and the age of Donald Trump? Australian Broadcasting Corporation	https://www.abc.net.au/news/2025-05-11/wikipedia-ai-threats-trump/105123224
+2025	May 2025	Safety and evals	Media	‘Trial and error’: Over half of AI redundancies a mistake, say leaders Canadian HR Reporter	https://www.hrreporter.com/focus-areas/automation-ai/trial-and-error-over-half-of-ai-redundancies-a-mistake-say-leaders/392428
+2025	Apr 2025	Safety and evals	Workshop	Step-By-Step Reasoning with Meta Cognitive Prompts to Reduce Contextual Hallucination HEAL Workshop @ CHI 2025	
+2025	Apr 2025	Data dividends	Blog	"[microblog] One book is worth ""0.06%"" benchmark points to AI; is ""no different from noise"". What gives? Data Leverage"	https://nickmvincent.github.io/long-posts/microblog-one-book-is-worth-006-benchmark.html
+2025	Apr 2025	AI supply chains	Media	Inside Meta's secret experiments that improve its AI models Business Insider	https://www.businessinsider.com/meta-ai-llama-models-training-data-ablation-2025-4
+2025	Apr 2025	Public AI	Workshop	Canada as a Champion for Public AI: Data, Compute and Open Source Infrastructure for Economic Growth and Inclusive Innovation author preprint	https://www.nickmvincent.com/static/canada_publicai.pdf
+2025	Apr 2025	Public AI	Blog	Public AI, Data Appraisal, and Data Debates Data Leverage	https://nickmvincent.github.io/long-posts/public-ai-data-appraisal-and-data.html
+2025	Mar 2025	Public AI	Talk	Canada as Champion for Public AI McMaster Internet Policy Lab	
+2025	Mar 2025	Public AI	Talk	Emerging Concerns with the Generative AI Data Paradigm (and how academic research and “Public AI” can help) UBC NLP	
+2025	Mar 2025	Data leverage	Talk	Activism in the Age of AI IATSE 891 AI Day of Learning @ Downtown Vancouver	
+2025	Mar 2025	Public AI	Other paper	"AI for Just Work: Constructing Diverse Imaginations of AI beyond ""Replacing Humans"" arXiv preprint"	https://arxiv.org/abs/2503.08720
+2025	Mar 2025	Data leverage	Blog	"Evaluation Data Leverage: Advances like ""Deep Research"" Highlight a Looming Opportunity for Bargaining Power Data Leverage"	https://nickmvincent.github.io/long-posts/evaluation-data-leverage-advances.html
+2025	Feb 2025	Knowledge commons	Blog	Tipping Points for Content Ecosystems Data Leverage	https://nickmvincent.github.io/long-posts/tipping-points-for-content-ecosystems.html
+2025	Jan 2025	AI supply chains	Blog	AI Labs Should Open Source Data Protection Technologies Data Leverage	https://nickmvincent.github.io/long-posts/ai-labs-could-open-source-data-protection.html
+2025	Jan 2025	AI supply chains	Media	OpenAI is reaping what it sowed with DeepSeek. What's that old saying about karma? Business Insider	https://www.businessinsider.com/openai-deepseek-ai-model-distillation-training-data-copyright-karma-2025-1
+2025	Jan 2025	AI supply chains	Blog	Live by the free-content-for-training sword, die by the free-content-for-training sword Data Leverage	https://nickmvincent.github.io/long-posts/live-by-the-free-content-for-training.html
+2025	Jan 2025	AI supply chains	Workshop	Responsible AI in Open Ecosystems: Reconciling Innovation with Risk Assessment and Disclosure AAAI 2025 Workshop on AIGOV	https://arxiv.org/abs/2409.19104
+2024	Dec 2024	AI supply chains	Blog	Selling AGI like AG1: Will Consumers Push Back Against Proprietary Blends of Herbs and of Data? Data Leverage	https://nickmvincent.github.io/long-posts/selling-agi-like-ag1-will-the-market.html
+2024	Nov 2024	Data as labor	Blog	Perplexity CEO's Interaction with Striking New York Times Workers Does Not Reflect Well on the AI Industry Data Leverage	https://nickmvincent.github.io/long-posts/perplexity-ceos-interaction-with.html
+2024	Sep 2024	Data leverage	Blog	Is Zuckerberg right to say that your specific creative work has no value to AI? Data Leverage	https://nickmvincent.github.io/long-posts/is-zuckerberg-right-to-say-that-your.html
+2024	Sep 2024	AI supply chains	Talk	Human-Centered AI Research and New Paradigms for Generative AI Data Human-Centered AI Conference @ Pepperdine University	
+2024	Aug 2024	AI supply chains	Other paper	A step forward in tracing and documenting dataset provenance Nature Machine Intelligence, News & Views	https://doi.org/10.1038/s42256-024-00884-w
+2024	Aug 2024	Safety and evals	Blog	"""Many Models"" and ""Track Changes"" for AI: Some Thoughts on LLM Interfaces Data Leverage"	https://nickmvincent.github.io/long-posts/many-models-and-track-changes-for.html
+2024	Jun 2024	AI supply chains	Media	Is data supply AI’s Achilles’ heel? UBS	https://www.ubs.com/global/en/sustainability-impact/our-insights/2024/is-data-supply-ais-achilles-heel.html
+2024	May 2024	Data as labor	Talk	Economic Concentration and Dispossessive Data Use: Can HCI Solve Challenges from and to AI? SIGCHI 2024 Outstanding Dissertation Award	
+2024	May 2024	Safety and evals	Workshop	Designing an open-source LLM interface and social platforms for collectively driven LLM evaluation and auditing HEAL Workshop @ CHI 2024	
+2024	May 2024	Safety and evals	Workshop	The Need for Flexible Interfaces for Text-to-Image Auditing: A Case Study of DALL·E 2 and DALL·E 3 GenAICHI @ CHI 2024	https://nickmvincent.com/static/genai_at_chi_dalle_audit.pdf
+2024	Apr 2024	Social computing	Media	Is this AI? See if you can spot the technology in your everyday life The Washington Post	https://www.washingtonpost.com/technology/interactive/2024/what-is-ai/
+2024	Mar 2024	AI supply chains	Media	Jews have always been prolific writers. Has AI wound up with too much of their work? Jewish Telegraphic Agency	https://www.jta.org/2024/03/25/culture/jews-have-always-been-prolific-writers-has-ai-wound-up-with-too-much-of-their-work
+2024	Mar 2024	AI supply chains	Media	Nicholas Vincent explains why robots.txt is no longer enough to protect against web scraping IT Brew	https://www.itbrew.com/stories/2024/03/21/prof-nicholas-vincent-explains-why-robots-txt-is-no-longer-enough-to-protect-against-web-scraping
+2024	Feb 2024	Data leverage	Writing	Project Spotlight: CollectiveVoice Metagov News	https://metagov.substack.com/p/metagov-project-spotlight-collectivevoice
+2024	Feb 2024	Data as labor	Writing	Where Biden’s AI policies fall short in protecting workers. The Bulletin of the Atomic Scientists	https://thebulletin.org/2024/02/where-bidens-ai-policies-fall-short-in-protecting-workers
+2024	Jan 2024	Safety and evals	Panel	Responsive LLM Development University of Toronto Data Sciences Institute: Fairness - ChatGPT Workshop	
+2024	Jan 2024	Knowledge commons	Media	AI is killing the grand bargain at the heart of the web. 'We're in a different world.' Business Insider	https://www.businessinsider.com/ai-killing-web-grand-bargain-2023-8
+2024	2024	Data dividends	Project	Data Napkin Math	https://exploringai.org/
+2023	Nov 2023	Public AI	Workshop	An Alternative to Regulation: The Case for Public AI RegML 2023 Workshop @ NeurIPS 2023	https://arxiv.org/abs/2311.11350
+2023	Nov 2023	AI supply chains	Blog	Building a Data Pipeworks for Democratic AI: From Human Knowledge to Records to AI Systems Data Leverage	https://nickmvincent.github.io/long-posts/building-a-data-pipeworks-for-democratic.html
+2023	Nov 2023	Data dividends	Workshop	Sharing the Winnings of AI with Data Dividends: Challenges with 'Meritocratic' Data Valuation EAAMO 2023 Poster Track	https://www.nickmvincent.com/static/eaamo_data_dividends.pdf
+2023	Oct 2023	Data dividends	Media	Newspapers want payment for articles used to power ChatGPT The Washington Post	https://www.washingtonpost.com/technology/2023/10/20/artificial-intelligence-battle-online-data/
+2023	Oct 2023	Knowledge commons	Workshop	Epistemic Injustice in Online Communities: Unpacking the Values of Knowledge Creation and Curation within CSCW Applications Workshop at CSCW	https://dl.acm.org/doi/abs/10.1145/3584931.3611280
+2023	Oct 2023	AI supply chains	Workshop	Can Licensing Mitigate the Negative Implications of Commercial Web Scraping? Workshop at CSCW 2023	https://dl.acm.org/doi/abs/10.1145/3584931.3611276
+2023	Oct 2023	Data leverage	Writing	How creatives can stop AI from stealing their work. The Bulletin of the Atomic Scientists	https://thebulletin.org/2023/10/how-creatives-can-stop-ai-from-stealing-their-work
+2023	Sep 2023	Data leverage	Blog	Will the New York Times Data Strike Have a Large Impact on ChatGPT? Data Leverage	https://nickmvincent.github.io/long-posts/will-the-new-york-times-data-strike.html
+2023	Aug 2023	Data as labor	Media	'Data leverage' and the Harry Potter test: How much is a single book worth to a giant AI model? Business Insider	https://www.businessinsider.com/data-leverage-harry-potter-test-putting-value-data-ai-models-2023-8
+2023	Aug 2023	Data leverage	Blog	A Harbinger of the Future of Content? The New York Times Starts a Data Strike Data Leverage	https://nickmvincent.github.io/long-posts/a-harbinger-of-the-future-of-content.html
+2023	Jul 2023	Knowledge commons	Media	Wikipedia’s Moment of Truth New York Times Magazine	https://www.nytimes.com/2023/07/18/magazine/wikipedia-ai-chatgpt.html
+2023	Jul 2023	Data as labor	Writing	A roadmap toward empowering the labor force behind AI. Montreal AI Ethics Institute Research Summaries	https://montrealethics.ai/a-roadmap-toward-empowering-the-labor-force-behind-ai/
+2023	Jun 2023	Data as labor	Media	We are all AI’s free data workers MIT Technology Review	https://www.technologyreview.com/2023/06/13/1074560/we-are-all-ais-free-data-workers/
+2023	May 2023	Data leverage	Blog	The WGA Strike is a Canary in the Coal Mine for AI Labor Concerns Data Leverage	https://nickmvincent.github.io/long-posts/the-wga-strike-is-a-canary-in-the.html
+2023	May 2023	Data leverage	Blog	Reddit, StackOverflow, and Europe: All Trending Towards Data Dignity Data Leverage	https://nickmvincent.github.io/long-posts/reddit-stackoverflow-and-europe-all.html
+2023	Apr 2023	Data leverage	Blog	Data Leverage Recap: December 2022 - April 2023 Data Leverage	https://nickmvincent.github.io/long-posts/data-leverage-recap-december-2022.html
+2023	Mar 2023	Data dividends	Blog	Bing Rewards for the AI Age Data Leverage	https://nickmvincent.github.io/long-posts/bing-rewards-for-the-ai-age.html
+2023	Mar 2023	Social computing	Other paper	Retracted Articles about COVID-19 Vaccines Enable Vaccine Misinformation on Twitter arXiv preprint	https://arxiv.org/abs/2303.16302
+2023	Mar 2023	AI supply chains	Talk	Community Dialogue on Accountable Governance and Data Community Data Science Collective Community Dialogues	
+2023	Mar 2023	AI supply chains	Blog	Plural AI Data Alignment Data Leverage	https://nickmvincent.github.io/long-posts/measuring-relative-ai-alignment-in-terms-of-data-pipelines.html
+2023	Feb 2023	AI supply chains	Talk	Human-centered data and language models -- Privacy, data as labor, and licensing Stanford Social NLP Reading Group Talks	
+2023	Feb 2023	Data leverage	Blog	AI Technologies are System Maps, and You are a Cartographer Data Leverage	https://nickmvincent.github.io/long-posts/ai-technologies-are-system-maps-and-you-are-a-cartographer.html
+2023	Jan 2023	Safety and evals	Talk	Algorithmic Contestability Center for Advancing Safety of Machine Intelligence, Toward a Safety Science of AI	
+2023	Jan 2023	Data leverage	Writing	ChatGPT Stole Your Work. So What Are You Going to Do? Wired	https://www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/
+2022	Dec 2022	Data leverage	Blog	AI Artist or AI Art Thief? Innovation, Public Mandates, and the Case for Talking in Terms of Leverage Data Leverage	https://nickmvincent.github.io/long-posts/ai-artist-or-ai-art-thief-innovation-public-mandates-and-the-case-for-talking-in-terms-of-leverage.html
+2022	Dec 2022	Data as labor	Blog	ChatGPT is Awesome and Scary: You Deserve Credit for the Good Parts (and Might Help Fix the Bad Parts) Data Leverage	https://nickmvincent.github.io/long-posts/chatgpt-is-awesome-and-scary-you-deserve-credit.html
+2022	Dec 2022	Knowledge commons	Blog	The Paradox of Reuse, Language Models Edition Data Leverage	https://nickmvincent.github.io/long-posts/the-paradox-of-reuse-language-models-edition.html
+2022	Nov 2022	Data as labor	Workshop	Ethical Tensions, Norms, and Directions in the Extraction of Online Volunteer Work Workshop at CSCW	https://dl.acm.org/doi/abs/10.1145/3500868.3560923
+2022	Nov 2022	Data as labor	Workshop	Misleading Tweets and Helpful Notes: Investigating Data Labor by Twitter Birdwatch Users ACM CSCW Posters	https://www.nickmvincent.com/static/Birdwatch.pdf
+2022	Oct 2022	Data dividends	Workshop	Collaborative Design of Contribution Tracking Systems for Decentralized Organizations CESC 2022	https://www.nickmvincent.com/static/CollabRecords___CESC_22.pdf
+2022	Apr 2022	Data leverage	Media	Internet users are 'poisoning' their personal data in the fight against online surveillance Le Monde	https://www.lemonde.fr/en/pixels/article/2022/04/30/internet-users-are-poisoning-their-personal-data-in-the-fight-against-online-surveillance_5982052_13.html
+2022	Mar 2022	Social computing	Other paper	Online Engagement with Retracted Articles: Who, When, and How? arXiv preprint	https://arxiv.org/abs/2203.04228
+2021	Nov 2021	AI supply chains	Other paper	"Preview of ""Data and its (dis)contents: A survey of dataset development and use in machine learning research"" Patterns"	https://doi.org/10.1016/j.patter.2021.100388
+2021	Nov 2021	Data dividends	Podcast	Should Tech Companies Be Paying Us for Our Data? Things Have Changed Podcast	
+2021	Oct 2021	Data dividends	Other paper	From My Data to Our Data Book chapter in The Future of Building Wealth	https://futureofwealth.org/the-book/
+2021	Jul 2021	Data leverage	Writing	Apple Now Lets You Opt-Out of Tracking: Will This Give You More Influence Over Tech Companies? Technically Social	https://medium.com/technically-social/apple-now-lets-you-opt-out-of-tracking-will-this-give-you-more-influence-over-tech-companies-f7eec970aec1
+2021	Jul 2021	Data as labor	Writing	"GitHub Copilot and the Exploitation of ""Data Labor"": A Wake-Up Call for the Tech Industry PSA Computing Blog"	https://www.psagroup.org/blogposts/101
+2021	Jun 2021	Social computing	Media	Got the same name as a serial killer? Google might think you’re the same person Vox	https://www.vox.com/recode/22550555/google-search-knowledge-panels-serial-killer-misinformation-knowledge-graph
+2021	May 2021	Data dividends	Media	Facebook and Others Should Pay Us for Our Data. Here’s One Way Bloomberg	https://www.bloomberg.com/news/articles/2021-05-05/facebook-and-others-should-pay-us-for-our-data-here-s-one-way
+2021	May 2021	Data leverage	Talk	Public interest technologies for the ML age 3rd Obfuscation Workshop	
+2021	May 2021	Data dividends	Other paper	A Data Dividend that Works: Steps Toward Building an Equitable Data Economy Berggruen Institute white paper	https://berggruen.org/news/berggruen-institute-announces-plan-for-requiring-digital-platforms-to-pay-for-user-data
+2021	May 2021	Data dividends	Podcast	On Data Dividends RadicalxChange Podcast	
+2021	Apr 2021	Data leverage	Writing	Powerful Technologies and Their Power Laws: Estimating Machine Learning Systems' Data Leverage Vulnerabilities Observable Notebook	https://observablehq.com/d/685789015c21cd9a
+2021	Mar 2021	Data leverage	Media	How to poison the data that Big Tech uses to surveil you MIT Technology Review	https://www.technologyreview.com/2021/03/05/1020376/resist-big-tech-surveillance-data/
+2021	Mar 2021	Data as labor	Writing	Why You're an Expert Language Model Trainer PSA Computing Blog	https://www.psagroup.org/blogposts/78
+2021	Mar 2021	Data leverage	Writing	What if we could check Big Tech?: The collective voice of millions of users could be as effective as regulation Northwestern Now	https://news.northwestern.edu/stories/2021/03/what-if-we-could-check-big-tech/
+2021	Feb 2021	Data leverage	Media	Your data is a weapon that can help change corporate behavior Fortune	https://fortune.com/2021/02/23/your-data-is-a-weapon-that-can-help-change-corporate-behavior/
+2020	Sep 2020	Data as labor	Writing	Don't give OpenAI all the credit for GPT-3: You might have helped create the latest 'astonishing' advance in AI too PSA Computing Blog	https://www.psagroup.org/blogposts/62
+2020	Sep 2020	Data as labor	Blog	Don’t give OpenAI all the credit for GPT-3: You might have helped create the latest “astonishing” advance in AI too Data Leverage	https://nickmvincent.github.io/long-posts/dont-give-openai-all-the-credit-for.html
+2020	Sep 2020	Data leverage	Writing	"""Data Strikes"": A New Form of Leverage for Tech Users? Data Dividend Project Blog"	https://blog.datadividendproject.com/data-strikes/
+2020	Jul 2020	Data leverage	Media	Is it time for Netflix subscribers to go on strike? Quartz	https://qz.com/1883697/is-it-time-for-netflix-subscribers-to-go-on-strike/
+2019	Nov 2019	Data dividends	Other paper	Mapping the Potential and Pitfalls of 'Data Dividends' as a Means of Sharing the Profits of Artificial Intelligence. arXiv preprint	https://arxiv.org/abs/1912.00757
+2018	Mar 2018	Knowledge commons	Media	YouTube May Add to the Burdens of Humble Wikipedia New York Times	https://www.nytimes.com/2018/03/19/business/media/youtube-wikipedia.html
+2015	Nov 2015	Safety and evals	Workshop	Deep learning of tissue fate features in acute ischemic stroke BIBM 2015 Workshop on Biomedical Visual Search and Deep Learning	https://ieeexplore.ieee.org/document/7359869/
+2015	Nov 2015	Safety and evals	Workshop	Detection of hyperperfusion on arterial spin labeling using deep learning BIBM 2015 Workshop on Biomedical Visual Search and Deep Learning	https://ieeexplore.ieee.org/document/7359870/

@@ -1,0 +1,13 @@
+{
+ "did": "did:plc:5eypwvgu3i3cimxzcs43v3aw",
+ "handle": "ai-disclosures.bsky.social",
+ "displayName": "The AI Disclosures Project",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5eypwvgu3i3cimxzcs43v3aw/bafkreie3ay74nvltvstyxwke22scuefw7xeclj5nvgdjmplnge35zf5umy",
+ "associated": {
+  "activitySubscription": {
+   "allowSubscriptions": "followers"
+  }
+ },
+ "labels": [],
+ "createdAt": "2024-11-25T15:56:29.246Z"
+}

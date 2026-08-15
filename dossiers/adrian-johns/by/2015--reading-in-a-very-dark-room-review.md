@@ -1,0 +1,28 @@
+---
+title: "Review of David Gissen, 'Reading in a Very Dark Room on a Moonless Night in the 17th Century: An Environmental Translation'"
+person: adrian-johns
+section: by
+type: review
+year: 2015
+date: 2015-07-03
+venue: "Forty-Five: A Journal of Outside Research"
+authors: "Adrian Johns"
+source_url: https://forty-five.com/papers/27
+retrieved: 2026-08-13
+content: full-text
+notes: "Open-access journal. Johns's review of David Gissen's 'environmental translation' project; a second review of the same work by Herbert Marder appears on the page and is not included here. Listed on his CV as 'Response to David Gissen, Reading in a Very Dark Room, Forty-Five, September 2015'."
+---
+
+# Review of David Gissen, 'Reading in a Very Dark Room on a Moonless Night in the 17th Century: An Environmental Translation'
+
+## Full text
+
+The most powerful image of reading in the seventeenth century is one of reading by artificial light. ​“Behold now this vast City,” John Milton commanded the parliamentarians of the period. At a time of civil war, the city was full of workshops turning out weapons to defend against King Charles I’s armies; but more remarkable were the citizens themselves, ​“sitting by their studious lamps,… reading, trying all things, assenting to the force of reason and convincement.” This was Milton’s exhilarating ideal of the Christian commonwealth. Every well-affected citizen must burn the midnight oil, poring over the latest pamphlets and treatises. Doing so was not only a right, but a duty. And it was simply the reality of the time that most of this work would be done after dusk, when their workshops were shuttered. It was a mundane irony of early modernity that enlightenment took place in darkness.
+
+But reading by candlelight is hard. And it is all the harder when what one is looking at is a page produced not by a laser-printer but by handicraft. Characters are liable to be transposed, inverted, damaged, or omitted altogether, sometimes en masse. And this too was the reality for Milton’s readers. They had to turn their pages to catch the light; they squinted at the lines on the paper, hoping to arrive at accuracy by distortion. They conjectured at true readings by making semi-conscious tactical misreadings of what lay before them. It was tough to do. Yet, people did it routinely, day in and day out.
+
+What this implies is that reading itself — the basic act of parsing letters on a page to manifest some kind of meaning — required the active exercise of the imagination. Exactly how active, though? This was a matter for intense debate. There was no more precious principle in Protestant Europe than that of the lay reading of Scripture. But at a time of rampant religious radicalism, readers could claim warrant for all kinds of beliefs and actions in terms of experiences they had undergone when alone and face-to-face with Scripture under lamplight. The most prevalent criticism of such claims was that they were the product of reading with a poorly controlled imagination. All readers must indeed respond actively to the page, but they must at the same time take great care that their responses be disciplined, ruly, moderate. Learning to identify such readings was a central part of being a good Christian subject.
+
+The question of how to read in semi-darkness — or, to put it another way, the question of how to recognize that what one has produced is indeed a reading—is therefore a pivotal one. To reproduce by digital processing the degrees and kinds of ​“misreading,” as David Gissen has done here, is a fascinating and suggestive experiment. It does indeed imply that reading is an ​“environmental” practice, in the richest possible sense of that word. Which in turn means that our own reading practices ought to be understood in terms of an environmental history. That’s a project that no historian has yet thought to undertake.
+
+It’s especially fitting that Gissen has chosen black-letter for his example, because it implies a further step that could be taken — one that is as suggestive for the future of reading as his experiment is about its past. What if we ask the computer not only to reproduce the different degradations to which letters were prone, but to attempt its own reading? For it is notorious among historians of the period that computers are inept when it comes to decoding black-letter. Optical Character Recognition algorithms have been used now to produce machine-searchable texts for many seventeenth-century books. They can be very error-prone, but, in our counterpart of dark reading, they are basically parsable if you know what kinds of errors the algorithms typically make. But if you look for the plain-text rendering of the 1611 Bible in the standard massive database of such things, you will not find it. The reason for this extraordinary omission is that computers are not capable — yet — of rendering the variety present in even a single black-letter page into raw ASCII. And the only way they will ever become capable, experts say, is by being laboriously ​“trained” through guided exposure to many, many such pages, with attentive humans correcting their errors as they go. Only in this way may they eventually develop the insight — the ​“controlled imagination” — to distinguish a plausible reading (“God created the heaven and the Earth”) from one implausible in any culture we are ever likely to encounter (“God crentcd lhe Heaueu, aud lhe Enrth”). In an age when Big Data is often hailed as omniscient, it is strangely reassuring to find that our most powerful algorithms remain less capable than any competent reader of Shakespeare’s age — and that to do any better they will have to ask us for help.

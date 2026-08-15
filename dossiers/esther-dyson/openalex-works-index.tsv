@@ -1,0 +1,43 @@
+year	openalex_id	type	title	venue	doi	is_oa	cited_by	best_oa_url	has_abstract
+2025	W4409663477	article	Applied Astrobiology: An Integrated Approach to the Future of Life in Space	Astrobiology	https://doi.org/10.1089/ast.2024.0156	False	5		yes
+2025	W4417084808	preprint	Applied Astrobiology: An Integrated Approach to the Future of Life in Space	arXiv (Cornell University)	https://doi.org/10.48550/arxiv.2505.05482	True	0	https://arxiv.org/pdf/2505.05482	yes
+2022	W4307218926	book-chapter	Coda: Not the End	The MIT Press eBooks	https://doi.org/10.7551/mitpress/13952.003.0012	False	0		no
+2020	W3014537732	book-chapter	Cyberspace and the American Dream		https://doi.org/10.4324/9780203622278-6	False	8		yes
+2015	W2111327205	article	Le cyberspace et le rêve américain : une Magna Carta pour l'ère de la connaissance	Cahiers philosophiques	https://doi.org/10.3917/caph.141.0111	False	1		no
+2008	W2292318747	article	問題提起 プライバシー2.0を考える (特集 ネットが蝕むプライバシー)	日経サイエンス		False	0		no
+2008	W2466424288	article	Big data: The next Google	Nature	https://doi.org/10.1038/455008a	False	74		no
+2008	W2022519358	article	Reflections On Privacy 2.O	Scientific American	https://doi.org/10.1038/scientificamerican0908-50	False	14		no
+2008	W369740157	article	ビジネスの主役は個人 ([日経コンピュ-タ]700号記念特集 創る--信頼できる社会を求めて) -- (産業を創る--今こそ「世のため人のため」)	日経コンピュ-タ		False	0		no
+2008	W154454694	article	Reflexiones sobre la nueva privacidad	Dialnet (Universidad de la Rioja)		False	0		no
+2007	W4241509830	book-chapter	Cyberspace und der amerikanische Traum. Auf dem Weg zur elektronischen Nachbarschaft: Eine Magna Charta für das Zeitalter des Wissens (1994)	transcript Verlag eBooks	https://doi.org/10.1515/9783839403396-012	False	0		no
+2007	W2498516275	book-chapter	Cyberspace und der amerikanische Traum. Auf dem Weg zur elektronischen Nachbarschaft: Eine Magna Charta für das Zeitalter des Wissens (1994)	Cultural studies	https://doi.org/10.14361/9783839403396-012	False	1		no
+2007	W2254734352	article	The Future of Internet Governance	Proceedings of the ASIL Annual Meeting	https://doi.org/10.1017/s0272503700025660	True	0	https://scholarship.law.columbia.edu/faculty_scholarship/1477	yes
+2006	W2082584444	article	Privacy Protection: Time to Think and Act Locally and Globally (originally published in June 1998)	First Monday	https://doi.org/10.5210/fm.v0i0.1591	True	2	https://doi.org/10.5210/fm.v0i0.1591	yes
+2004	W563248757	article	シリコンバレー最新事情 米国IT業界の預言者 エスター・ダイソン氏に聞く 新・中小企業が地殻変動促す	日経ビジネス		False	0		no
+2000	W4232965814	article	First Monday News	First Monday	https://doi.org/10.5210/fm.v5i1.724	True	0	https://doi.org/10.5210/fm.v5i1.724	no
+1999	W2114167741	article	First Monday news	First Monday	https://doi.org/10.5210/fm.v4i12.712	True	0	https://doi.org/10.5210/fm.v4i12.712	yes
+1999	W1603569382	article	“Internet Corporation for Assigned Names and Numbers (ICANN): The Short Version”	World Trade and Arbitration Materials	https://doi.org/10.54648/wtam1999032	False	1		no
+1998	W2916437288	book	Release 2.1: A Design for Living in the Digital Age	Medical Entomology and Zoology		False	52		yes
+1998	W1591161933	article	Release 2.0	Dialnet (Universidad de la Rioja)		False	34		no
+1998	W28824544	article	Privacy Protection: Time to Think and Act Locally and Globally.	First Monday		True	7	https://dblp.uni-trier.de/db/journals/firstmonday/firstmonday3.html#Dyson98	no
+1998	W94822843	article	La comunidad virtual	Gestión		False	0		no
+1997	W1569448791	other	Looking ahead: implications of the present.	PubMed		False	131		yes
+1997	W2053682101	article	Education and jobs in the digital world	Communications of the ACM	https://doi.org/10.1145/253671.253690	True	32	https://dl.acm.org/doi/pdf/10.1145/253671.253690	yes
+1997	W4235661310	article	Editors' Introduction	First Monday	https://doi.org/10.5210/fm.v2i1.504	True	0	https://doi.org/10.5210/fm.v2i1.504	yes
+1997	W154562300	article	Mirror, Mirror on the Wall	Harvard business review		False	7		no
+1996	W4249437727	article	Editors' Introduction	First Monday	https://doi.org/10.5210/fm.v1i6.498	True	0	https://doi.org/10.5210/fm.v1i6.498	yes
+1996	W4247159436	article	Editors' Introduction	First Monday	https://doi.org/10.5210/fm.v1i3.479	True	0	https://firstmonday.org/ojs/index.php/fm/article/download/479/836	yes
+1996	W4232532153	article	Editors' Introduction	First Monday	https://doi.org/10.5210/fm.v1i2.471	True	1	https://journals.uic.edu/ojs/index.php/fm/article/download/471/827	yes
+1996	W2043557862	article	Cyberspace and the American Dream: A Magna Carta for the Knowledge Age (Release 1.2, August 22, 1994)	The Information Society	https://doi.org/10.1080/019722496129486	False	83		yes
+1996	W4231367326	editorial	Editors' Introduction	First Monday	https://doi.org/10.5210/fm.v1i1.464	True	0	https://firstmonday.org/ojs/index.php/fm/article/download/464/821	yes
+1993	W2474046960	article	The forgotten market?: eastern Europe	Marketing Computers archive		False	0		no
+1992	W1486606127	article	The Electronic Frontier: Where Personal Computing Goes From Here	IFIP Congress		False	1		no
+1992	W2197278119	article	Productivity in decision support	Data Based Advisor archive		False	0		no
+1992	W2079376544	conference-paper	Public policy for the 21st century		https://doi.org/10.1145/142652.142674	False	0		yes
+1992	W2050719486	conference-abstract	Commercial products for CSCW		https://doi.org/10.1145/143457.371595	False	0		yes
+1991	W72256266	article	Micro capitalism: eastern Europe's computer future	Harvard business review		False	3		no
+1990	W2055031038	conference-paper	Hip, hype and hope---the three faces of virtual worlds (panel session)		https://doi.org/10.1145/328750.328798	True	7	https://dl.acm.org/doi/pdf/10.1145/328750.328798	yes
+1989	W2525010302	article	The genetics of good software	PC/Computing archive		False	0		no
+1989	W2913865453	article	High finance	PC/Computing archive		False	2		no
+1989	W170988564	conference-paper	On Beyond Data.	International Conference on Management of Data		False	0		no
+1988	W2073900116	conference-paper	Computer-supported cooperative work: breakthroughs for user acceptance		https://doi.org/10.1145/57167.57185	False	4		yes

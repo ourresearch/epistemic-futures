@@ -1,0 +1,30 @@
+---
+title: "Communities of Creators"
+person: anil-dash
+section: by
+type: blog-post
+year: 2009
+date: 2009-10-05
+venue: "anildash.com"
+authors: "Anil Dash"
+source_url: https://anildash.com/2009/10/05/communities-of-creators/
+retrieved: 2026-08-13
+content: full-text
+notes: "tags: tech, community, entrepreneurs, flickr, six apart"
+---
+
+# Communities of Creators
+
+## Full text
+
+Last week, I found this picture of a group dinner at Guero’s restaurant in Austin, TX, taken during South by Southwest in 2002.
+
+[](<http://www.flickr.com/photos/anildash/3971376218/>)
+
+At the time, most of us at the table knew each other primarily through the web and through the then-nascent blogging community. But in the seven and a half years since then, many of us have gone on to become entrepreneurs or creators, launching dozens of companies and products. I’m still collecting names and companies in the comments on Flickr, but just a cursory glance shows founders from Blogger, Six Apart, Adaptive Path, Flickr, Gawker, Twitter and more.
+
+I point this out not (just) to name drop — you can [click through to the Flickr image](<http://www.flickr.com/photos/anildash/3971376218/>) to see notes about who was there, read what they’ve done, or add your own annotations. But I also wanted to highlight one of the most important resources that creative people need to truly succeed: **A community of peers.**
+
+In the business world, and especially in the technology industry, we focus a lot on the functional requirements of raising money, or on the technical requirements of having certain features or technological capabilities. What I’ve found, though, is that being part of an active, ambitious, supportive and diverse community of peers is just as valuable, if not more so, than any of the more prosaic prerequisites for success. That’s even true in this photo — some of the people whom I met in person for the first time that night or that weekend have gone on to become among my closest friends, the biggest supporters of my work, and have ventured their formidable social capital to support my career. An even more diverse community of others whom I met at similar dinners or other events have played a similar role as well. Yet, at the time this photo was taken, I don’t think any of these people had ever taken venture capital money for any project they’d ever done — everyone here had bootstrapped their way to the table.
+
+So, it’s easy to focus on the money or the little technological accomplishments, but I am glad I found these old pictures as a nice reminder that we should set aside time for a great meal with smart friends every once in a while. If it’s not enough enticement that you’re just having a good time, you can also justify it as one of the most worthwhile investments you can make in your future success.

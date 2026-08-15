@@ -1,0 +1,36 @@
+---
+title: "Legitimating the EU"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2008
+date: 2008-06-10
+venue: "The Monkey Cage"
+authors: "Henry Farrell"
+source_url: https://goodauthority.org/news/legitimating-the-eu/
+retrieved: 2026-08-13
+content: full-text
+notes: "Post from The Monkey Cage, retrieved from the Good Authority archive (goodauthority.org), which hosts the complete Monkey Cage back catalogue; themonkeycage.org itself is offline. Text spot-verified against Wayback captures of the original themonkeycage.org pages (100% word coverage on 3 checks). Legacy Textile link markup surviving the WordPress migration was converted to markdown links."
+---
+
+# Legitimating the EU
+
+## Full text
+
+I’m in Ireland at the moment, unwinding for a few days after sending in my book manuscript. But I’m  not unwinding completely, As I [note](http://crookedtimber.org/2008/06/10/lisbon-referendumlisbon-referendum/) over at _Crooked Timber,_ there is a quite important referendum taking place on Thursday. After the failure to ratify  the so-called European Constitution (it was voted down in referendums in France and Holland), the EU member states are trying for a second bite of the cherry, with a somewhat modified document, the so-called Lisbon Treaty. In the wake of their problems the last time, they’ve decided not to give European voters the chance to turn it down, except in Ireland, where they have to for domestic constitutional reasons. This is an interesting test of arguments about European legitimacy, and in particular Andrew Moravcsik’s claim (see [here](http://www.princeton.edu/~amoravcs/library/PVS04.pdf) for a relatively recent statement) that EU institutional changes neither need nor should have direct political legitimation.
+
+Simplifying a bit, Moravcsik’s argument works along the following lines. First – the kinds of things that the EU has powers over are very often delegated within nation states to various authorities. Therefore, there is no particular democratic reason why we should worry about delegating these affairs to the European Union, Second, the chances that members of the public will be able to deliberate about the EU are slight, given that they don’t seem to devote much thought to Europe (turn out for European Parliamentary elections is low) and that they can only hold a couple of issues in their heads at any one time. Moravcsik, like Giandomenico Majone, believes that the primary justification for the EU is a functional one. Referendums are only likely to confuse people, and lead to all sorts of extraneous issues driving their decisions to vote yes or no.
+
+On first glance, Moravcsik’s argument seems to explain what’s happening in Ireland. The debate is indeed confused, with a variety of issues, some connected to the constitution (power of larger vs. smaller member states), some connected to the EU more generally (corporate taxation, and threats to Ireland’s regime thereof) and some irrelevant or untrue (the claim that the charter of rights will allow the imprisonment of children). Irish voters seem to have neither any interest in, nor understanding of, changes in codecision, hierarchy of legal acts etc etc etc. The opponents of the Treaty are a confusing amalgam of the left (socialists, some trade unionists), the nationalist and religious right, and (the best funded) an organization arguing that Ireland’s preferential tax regime will come under challenge if the Treaty is ratified.
+
+But there are, in my eyes, clear indications that Moravcsik’s preferred model of legitimation doesn’t work either. People don’t understand the EU – but as best as I can make out, their trust in the guidance of political elites has waned dramatically too. The argument that mainstream politicians are representing Ireland’s best interests is meeting with decided skepticism. The No side have been hammering home again and again the argument that pro-Treaty politicians are anti-democratic – they don’t trust voters to decide on this Treaty anywhere except in Ireland where they have to. The empirical claim (if not necessarily the anti-democratic bit) seems to be resonating with the public, for the simple and obvious reason that it’s undeniably true.
+
+Given the difficulties encountered by both the  pro-EU argument for legitimation through more democracy, and Moravcsik’s more limited functionalist approach, is there any alternative? My first approximation argument is that there is. As Moravcsik says, there are relatively few salient fundamental cleavages in politics, and European integration isn’t one of them. Thus, the inherent disorganization of the debate in referendums, where you get one side composed of European elites convinced that Europe is a matter of obligation and destiny, the other side a discordant clatter of contrary viewpoints, and voters not quite sure what to do with either set of claims.
+
+The alternative is to recast European policies in the light of traditional cleavages, the most obvious one being the cleavage between left and right. Europe has, to date, been the matter of consensus between center left and center right. But there are very different ways in which politics might be organized on the European level, depending on your attachment to the traditional models of left and right. The left has traditionally favoured a variety of national institutions designed to protect individuals against the vagaries of markets, the right (with some variations) has been more attached in recent decades to free market policies.  European policies have clear implications for the feasibility of both, depending on which specific policies are chosen.
+
+This suggests that one can make European politics salient – by emphasizing the different options that are open at the European level, the extent to which they favour either left or right, and providing voters with some opportunity to express their choices over which they favor. This is an approach that is diametrically opposed to Moravcsik’s argument that we should keep European politics technical and ‘boring’ – but also is very different from the kinds of legitimation policies that the EU has tried to adopt in the past. The emphasis would be on acknowledging – and even accentuating – sharp divergences of preferences over how Europe should be governed, rather than on trying to maintain a fraying centrist consensus. This would also ‘organize’ referendum debates at the national level, by providing a means for both left and right to present organized, coherent and different visions of Europe, rather than teaming together the center against the middling-to-far left and right in a political configuration that is unstable and has unfortunate political consequences.
+
+This would be highly uncomfortable for European elites – it would require a complete _bouleversement_ of the ways in which they think about arguing for the legitimacy of European union. But I don’t think that they have much choice other than to radically rethink their position if they don’t want the EU to stagnate.
+
+Or so it seems to me – this is a first draft version of the argument I’d ultimately like to make- but it does seem to provide a different (and to me better) way of understanding European politics than the major approaches I’m familiar with. Comments, criticisms and rejoinders are of course welcome.

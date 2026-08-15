@@ -1,0 +1,47 @@
+---
+title: "Five key questions about the European Court of Justice's Google decision"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2014
+date: 2014-05-14
+venue: "The Monkey Cage (The Washington Post)"
+authors: "Henry Farrell"
+source_url: https://goodauthority.org/news/five-key-questions-about-the-european-court-of-justices-google-decision/
+retrieved: 2026-08-13
+content: full-text
+notes: "Post from The Monkey Cage, retrieved from the Good Authority archive (goodauthority.org), which hosts the complete Monkey Cage back catalogue; themonkeycage.org itself is offline. Text spot-verified against Wayback captures of the original themonkeycage.org pages (100% word coverage on 3 checks). Legacy Textile link markup surviving the WordPress migration was converted to markdown links. The Good Authority archive carries this post twice (duplicate import under slug 'five-key-questions-about-the-european-court-of-justices-google-decision-2'); kept once."
+---
+
+# Five key questions about the European Court of Justice’s Google decision
+
+## Full text
+
+A Google logo at its New York offices. EPA/ANDREW GOMBERT
+On Tuesday, the European Court of Justice (the highest court in the European Union) [ruled](http://curia.europa.eu/juris/document/document.jsf;jsessionid=9ea7d2dc30d58be3c845fd10412fab108b7a7423eb7f.e34KaxiLc3qMb40Rch0SaxuNbh90?text=&docid=152065&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=49823) that Google had to delete search results linking to information suggesting that a Spanish citizen’s property had been attached to recover debts. Commentators have read this ruling as asserting European citizens’ “right to be forgotten,” that is, their right to have embarrassing and currently misleading information deleted from the Internet. This decision isn’t as far reaching as some suggest, but it will potentially have a serious impact on EU-U.S. relations. A lot of U.S.-based social media and search companies are likely to be very, very upset. Together with Abe Newman, I’m writing a book on EU-U.S. disputes over privacy (NB however that I’m not a lawyer).
+
+Does this ruling really create a “right to be forgotten” for EU citizens?
+
+Yes, but only in a limited sense. The Court’s ruling doesn’t assert a right to be forgotten as such, although this right is contained in draft EU legislation (on which, more later). Instead, it derives something that roughly approximates to a limited version of this right from existing legislation (Europe’s 1995 Privacy Directive). Some advocates of the new legislation had previously suggested that the right already existed and would only be formalized by the new law. It would appear that the ECJ largely agrees with them. However, Viktor Mayer-Schoenberger – whose book, [Delete](http://www.amazon.com/gp/product/0691150362/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0691150362&linkCode=as2&tag=henryfarrell-20&linkId=KUTBBK7JUPYRYDJD) started the current debate on the right to be forgotten – [argues](http://www.ft.com/intl/cms/s/0/3324b122-da79-11e3-a448-00144feabdc0.html#axzz31d2TJOj4) that the Court’s ruling is in practice quite restrictive, because it requires a sign-off from European privacy authorities before companies are obliged to take down information. There is likely to be a trickle, not a flood of successful requests to delete information. The wholesale disappearance of large swathes of information from the Internet is not likely anytime soon.
+
+So what consequences does this ruling have?
+
+Its most important consequences are buried in the legal technicalities. First, it holds that Google (and, presumably, other search engines) are “data controllers” engaged in data processing each time they serve up a search result. Translated from legalese, this means that Google’s search engine results are fully subject to European data privacy law, which has many requirements beyond this new ‘right to be forgotten.’ This is new – and important. Google and Microsoft’s European lawyers are facing into a series of very long nights as they figure out the implications of this ruling for their search business.
+
+Furthermore, the court ruled that because Google has an advertising subsidiary in Spain, it is subject to the control of Spanish data protection officials who want to protect the interests of Spanish citizens. This ruling immediately makes it more difficult for Google (and other web giants) to take advantage of regulatory differences in the European Union. One of the likely reasons that Google’s main European Union operation is located in Ireland is because the Irish data protection commissioner is underfunded (his office shares a building with a supermarket in a provincial Irish town) and generally regarded as responsive to the interests of foreign multinationals. However, if Google is not only subject to rulings from Irish privacy officials, but to rulings from officials in other states where it has an advertising presence, then it doesn’t benefit nearly so much from Ireland’s lax supervisory framework. It could be that Google is subject to supervision even in EU countries where it doesn’t have an advertising subsidiary – the Court declined to rule on this, saying that it didn’t need to in this case.
+
+Is this retaliation for Snowden?
+
+Probably not directly. In principle, there is no connection between EU-U.S. privacy disputes over commercial data (i.e. Google) and spying (i.e. the NSA). However, there may be some indirect connection between the two. The Court strenuously disagreed with the [preliminary opinion](http://curia.europa.eu/jcms/upload/docs/application/pdf/2013-06/cp130077en.pdf) of its Advocate-General in 2013, which is somewhat unusual. It also recently issued a ruling overturning EU national rules requiring telecommunications companies to retain data on their customers for a lengthy period of time. None of this is directly connected to the Snowden revelations, but the Court’s current activism presents a strong contrast with its post-September 11 caution, when it seemed disinclined to push too hard for strong privacy protections. One plausible interpretation is that the recent privacy controversies have not changed the Court’s attitudes to rights, but have empowered it to push for a more direct EU role in privacy. The Court has tended to make rulings that strengthen European integration when it thinks it can get away with it, and recent controversies mean that it can probably get away with more than in the past.
+
+How will the ruling affect EU-U.S. relations?
+
+It’ll lead to further friction. U.S. technology companies are at best going to be very unhappy with this ruling, and they have many friends in the administration. Nor is this the only point of tension in the EU-U.S. privacy relationship. The Snowden revelations have led some European politicians to rail against cooperation with the U.S. which they see as compromising the privacy of European citizens. The EU is currently in the final stages of thrashing out new privacy legislation, which in its current draft will allow for huge fines on non-compliers (up to 5 percent of their global turnover) and forbid some forms of information exchange with the U.S. The Safe Harbor arrangement, which has allowed U.S. firms to export data from Europe by signing onto various commitments, looks likely to be toughened up. The new ruling will increase the stakes in all of these battles, and make it tougher to reach compromise.
+
+Perhaps its most important long-term effect is a subtle one. The ruling explicitly empowers Europe’s national level privacy officials to make politically important and tricky decisions. These officials will now have an increased quasi-judicial role of balancing privacy rights against other rights and concerns in deciding when to give citizens the right to have information deleted. They will also be less vulnerable to being played against each other than they used to be. For example, German privacy officials have been repeatedly frustrated by the laxness of their colleagues in countries like Ireland and the UK. The Germans will now have new tools to act independently in sanctioning European and non-European firms that have a presence in their countries.
+
+How will firms like Google respond?
+
+Most likely by trying to persuade European officials and politicians to weaken forthcoming privacy legislation. If they can weaken these legal requirements, they can avoid some of the regulatory burden, and perhaps even undermine some of the Court’s ruling (since it is based on current laws that are subject to change or replacement).
+
+However, it will be hard to persuade governments or the European Parliament to do more than make minor changes. States or politicians who are opposed to concessions to e-commerce firms will have the advantage, as the status quo favors them – they don’t have to introduce change, just to block it. Under EU voting rules (‘qualified majority’ and the ‘codecision process’ – don’t ask unless you really want to know) it’s usually easier to block change than to bring it through. Despite the odds against them, firms like Google will probably spend a lot of money in Brussels (which is as inundated with lobbyists as Washington, D.C.) trying their best to get politicians to change their minds. Technology lobbyists in Brussels had happy dreams last night, as they contemplate the likelihood of enormous inflows of money from desperate tech companies.

@@ -1,0 +1,30 @@
+{
+ "did": "did:plc:7d33vjrei7fz3tlxbrgdnt37",
+ "handle": "mitpress.bsky.social",
+ "displayName": "MIT Press",
+ "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7d33vjrei7fz3tlxbrgdnt37/bafkreie66e6rlid32pq6h3zv5lnsru2gqwjgea5556632am6urg2f3zltm",
+ "associated": {
+  "chat": {
+   "allowIncoming": "all"
+  },
+  "activitySubscription": {
+   "allowSubscriptions": "followers"
+  }
+ },
+ "labels": [],
+ "createdAt": "2023-09-22T14:03:08.013Z",
+ "verification": {
+  "verifications": [
+   {
+    "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+    "issuerDisplayName": "Bluesky",
+    "issuerHandle": "bsky.app",
+    "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3mbzi6gboga24",
+    "isValid": true,
+    "createdAt": "2026-01-09T21:51:56.760Z"
+   }
+  ],
+  "verifiedStatus": "valid",
+  "trustedVerifierStatus": "none"
+ }
+}

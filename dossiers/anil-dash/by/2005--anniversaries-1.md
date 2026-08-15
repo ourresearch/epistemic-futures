@@ -1,0 +1,36 @@
+---
+title: "Six Years of Blogging"
+person: anil-dash
+section: by
+type: blog-post
+year: 2005
+date: 2005-08-12
+venue: "anildash.com"
+authors: "Anil Dash"
+source_url: https://anildash.com/2005/08/12/anniversaries-1/
+retrieved: 2026-08-13
+content: full-text
+notes: "tags: blogs"
+---
+
+# Six Years of Blogging
+
+## Full text
+
+I guess I should have caught this back on the 20th of last month, but I’ve been blogging here for _six years_. And living in San Francisco for a year now. I don’t think I could ever have imagined how much life could bring me just by me taking the time to write my thoughts here sometimes, and to listen to what people said in response. In all, it’s been 2031 posts, 4541 comments, and well over 12,000 links if you count my old Daily Links, and somewhere around 100,000 words, from what I’ve been told.
+
+If you haven’t been reading for the whole six years (and, really, nobody but me has…) there’s a few posts you might want to check out that I think do a good job of showing what my blog is about.
+
+There’s my post [on leaving New York](</2004/07/20/on-leaving-new->), which might be the only bit of writing I’ve ever done that I’m really proud of. It was preceded by a post about [why I decided to move](</2004/05/19/moving-forward>), which was motivated in no small part by [joining Six Apart](</2003/04/23/i-work-for-six->) as well as my [love for New York](</2003/12/10/whence-the-name>).
+
+(Bonus one here: A [post from two and a half years ago](</2003/01/09/who-would-you-t>) with the quote, “My list of companies to whom I’d trust my identity right now only includes Google and Six Apart.” Still half true!)
+
+It’s not always that serious, of course, or at least it wasn’t always. One of my personal favorites (I’m biased, of course) is simply about [taking a shower](</2002/09/27/shower-time>). It’s good if you pair it up with the one about [razors and shaving](</2003/04/05/sharp-as-a-razo>). And I don’t even know how many times someone’s forwarded me my own [rant about annoying forwards](</2001/08/22/pardon-me-for-b>). Nothing’s better than a lazy listicle, so to meet those needs there’s [how to watch a marathon](</2002/11/04/marathonwatchi>), [tips on celebrating Thanksgiving](</2002/11/27/give-thanks>) and a _really_ lazy set of [Christmas shopping tips](</2002/12/23/still-stuck-for>).
+
+Perhaps worth remembering is that [diamonds are for never](</2003/01/20/diamonds-are-fo>) and a similar tirade about [bottled water](</2003/08/27/keeping-it-all->). Less weighty was the lament about [barley’s undeservedly low profile](</2003/05/18/barley-gettin->). Truly marking my nadir was the debate on bendy straws, in which I argued both [pro](</2002/08/30/straight-straws>) and [con](</2002/08/29/bendy-straws>). Oh, and for your reference, a quick review of [Michael Jackson’s children’s names](</2002/08/22/the-king-of-pop>).
+
+I like some of the longer, more thinking pieces like [Stories and Tools](</2002/04/09/stories-and-too>). It’s pretty dated now, but I guess I was agitating for what’s now called Ajax. Funny, because they ended up winning: I was praising Oddpost effusively, and the new Yahoo Mail I got to look at recently is Oddpost reborn. On a decidedly more serious topic, I also had a long piece on [being an American](</2002/09/11/on-being-an-ame>) that I wrote for my hometown newspaper a year after 9/11. People seemed to like the idea of [privacy through identity control](</2002/12/17/privacy-through>). And one of my all-time favorites, because of the great participation in the comments, was the post about [geeky uses for Microsoft Excel](</2004/04/22/excel-pile>).
+
+Finally, the one piece I’d probably gotten the most responses to over the years appeared on my (now-dead) blog for longer pieces, called “magazine”. I archived it on TypePad, but you can still read [Introducing the Microcontent Client](</2002/11/introducing-microcontent-client.html>). It’s been almost three years since then, and some parts of it are obvious now, but I’m still waiting to use that app.
+
+So, thanks for indulging a bit of retrospective navel-gazing, and for reading over the past few years. I’m hoping to keep (or start!) writing some stuff that’s worth of revisiting at future milestones.

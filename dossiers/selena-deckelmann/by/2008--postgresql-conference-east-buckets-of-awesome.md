@@ -1,0 +1,28 @@
+---
+title: "PostgreSQL Conference East – buckets of awesome!"
+person: selena-deckelmann
+section: by
+type: blog-post
+year: 2008
+date: 2008-03-14
+venue: "chesnok.com (personal blog)"
+authors: "Selena Deckelmann"
+source_url: https://www.chesnok.com/daily/2008/03/14/postgresql-conference-east-buckets-of-awesome/
+retrieved: 2026-08-13
+content: full-text
+notes: "Retrieved via the blog's WordPress REST API (wp-json/wp/v2/posts); HTML converted to markdown."
+---
+
+# PostgreSQL Conference East – buckets of awesome!
+
+## Full text
+
+We’re gearing up for [PostgreSQL Conference East](http://www.postgresqlconference.org)!
+
+Slides are coming in, food’s been ordered, and we’re working out the final details of the space and recording. One of our committee members has a few digital cameras, so we’re hoping to record video in all three rooms. 
+
+Reading through the slides, I’m very excited to see Portland-local Jeff Davis’ talks on his work with the [Ruby PostgreSQL driver](http://www.postgresqlconference.org/talks_pages/talk25.html), and a more general talk on [Logic and Databases](http://www.postgresqlconference.org/talks_pages/talk28.html). Jeff has been a fixture at PDXPUG, and I’m happy he’s able to come out for the conference. 
+
+David Fetter is giving a crowd favorite, [A Flock of PLs](http://www.postgresqlconference.org/talks_pages/talk20.html). And Michael Bryzek looks to be giving an [simple and elegant talk](http://www.postgresqlconference.org/talks_pages/talk16.html) explaining how to solve a common queuing problem for web application developers. 
+
+If you’re from the DC area, please suggest fun things to do while we’re in town (May 29-30). Especially good places to eat near the University of Maryland at College Park.

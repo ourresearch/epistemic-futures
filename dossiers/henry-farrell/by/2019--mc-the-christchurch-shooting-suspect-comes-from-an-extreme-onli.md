@@ -1,0 +1,38 @@
+---
+title: "The Christchurch shooting suspect comes from an extreme online culture"
+person: henry-farrell
+section: by
+type: blog-post
+year: 2019
+date: 2019-03-15
+venue: "The Monkey Cage (The Washington Post)"
+authors: "Henry Farrell"
+source_url: https://goodauthority.org/news/the-christchurch-shooting-suspect-comes-from-an-extreme-online-culture/
+retrieved: 2026-08-13
+content: full-text
+notes: "Post from The Monkey Cage, retrieved from the Good Authority archive (goodauthority.org), which hosts the complete Monkey Cage back catalogue; themonkeycage.org itself is offline. Text spot-verified against Wayback captures of the original themonkeycage.org pages (100% word coverage on 3 checks). Legacy Textile link markup surviving the WordPress migration was converted to markdown links."
+---
+
+# The Christchurch shooting suspect comes from an extreme online culture
+
+## Full text
+
+Details are still emerging about the attack in Christchurch, New Zealand, in which at least 49 people were killed at two mosques. However, it appears that one person with advance knowledge of the planned attack is an active participant in a radicalized online right-wing media culture. Before the massacre, a man posted a long manifesto, police said, which was full of inside references to online memes and ideas that are commonly circulated among the radical right. An individual announced his intention to carry out an attack on the online messaging board 8chan, linking to the manifesto, before the massacre occurred. Video that appeared to be one of the shootings was live-streamed, clearly in the hope that it would go viral on social media. Without understanding how this culture works, it’s hard to understand what the manifesto was supposed to do.
+
+It’s probably no accident that 8chan was involved
+
+Over the past several years, a new extreme-right online culture has come into being, shaped by message boards such as 4chan and 8chan. Many memes that have gone viral on the Internet have come from 4chan: It was also the birthing place of Anonymous, a loosely left-anarchist social movement and organization that was involved in various forms of hacking and cultural protest. Over the last few years, however, these boards — together with Reddit and other less well known websites — helped give rise to a new community of the far right. The culture was in part spurred by the way that discussion boards like 4chan operate. Conversational threads appear and disappear rapidly, never to be seen again. The result is a frenzied Darwinian competition, in which those who want to keep their threads going vie to come up with the most provocative, startling or offensive pictures or comments to get others to react and keep the thread from dying.
+
+Most participants care more about shocking or amusing others than becoming zealots for a cause. However, an environment where outrageousness has become an evolutionary imperative creates fertile ground for neo-Nazi, racist and misogynistic arguments and memes. Some neo-Nazis — most prominently Andrew Anglin, founder of the notorious Daily Stormer website — [say](https://www.splcenter.org/hatewatch/2018/12/20/family-ties-how-andrew-anglins-dad-helped-his-neo-nazi-son-daily-stormer)that they were radicalized by 4chan. It is hard to be sure how many people had the same experience, but it is at least plausible that some people who initially merely used radical right-wing ideas to shock others became desensitized and radicalized over time, and came to embrace the ideas that they had first thought of as jokes. This was possibly amplified when many people left 4chan after it had banned discussion of “Gamergate” (a massive battle over women and video-game culture), and migrated to the more permissive 8chan, which rapidly became a petri dish where extreme right-wing views can flourish.
+
+The manifesto reflects this culture
+
+It’s hard to imagine that a manifesto for mass murder could have multiple insider jokes embedded in it. Its content is a reflection of an online culture in which extreme right-wing, racist, Islamophobic and anti-Semitic views shade into joking about such views so that it is difficult to tell the one from the other. This is, at least to some extent, deliberate. Thus, for example, the Daily Stormer’s [style guide](https://www.newyorker.com/magazine/2018/01/15/inside-the-daily-stormers-style-guide) suggests that “the unindoctrinated should not be able to tell if we are joking or not.” This is aimed at normalizing the hatred of members of ethnic groups so that people end up laughing at their deaths.
+
+The manifesto contains multiple shout-outs to Internet memes that float around on the far right, including a campaign to increase viewers for PewDiePie (a popular YouTube personality who flirts with [anti-Semitic “satire”](https://www.vox.com/culture/2017/2/17/14613234/pewdiepie-nazi-satire-alt-right)). These aren’t accidental or irrelevant: They are a crucial part of the product. The manifesto is a product of an Internet culture in which online trolling and political extremism have effectively merged into each other. It will horrify many people, including some members of this culture, that the manifesto is now connected to an actual mass killing. The truth, however, is that it will surely titillate others who will treat it as another form of mass entertainment.
+
+It’s urgently important for outsiders to understand this
+
+Traditional media, politicians and others have a hard time in understanding this culture. Mass murders like this have some features in common with traditional terrorist atrocities. The manifesto presents serious references as well as jokes, depicting previous far-right murderers such as Anders Breivik and Dylann Roof as models. Just as with traditionalist terrorist groups, large scale atrocities are intended to attract wide public attention in the hope of achieving political goals. The massacre appears to have been intended in part to stir up division in societies such as the United States. The leveraging of social media to make a murder video go viral is in some ways reminiscent of the efforts of terrorists such as Abu Musab al-Zarqawi to circulate beheading videos in the hope of radicalizing young people.
+
+Yet there are also important differences. The manifesto is intended as a contribution to a broader right-wing project of culture change. As Patrik Hermansson, who spent 18 months undercover with the neo-Nazi right [confirmed in 2017](https://www.vox.com/policy-and-politics/2017/10/11/16424576/europe-alt-right-nationalism-racism-trump-brexit): “Their goal is to change the culture, and that means making their ideas mainstream. … That’s why they’re so active and so savvy on the Internet, on social media on all these alternative sites. … They want to spread these ideas like a virus, and they’re succeeding.” Part of the intended culture shift involves making the deaths of people from hated religions or ethnic groups seem like a game or a joke. This means that the methods employed by the extreme right are often hard for policymakers or traditional journalists to understand, and that certain kinds of media attention can unintentionally amplify the message. Important research by the scholars at [Data & Society](https://datasociety.net/research/media-manipulation/), as well as by scholars such as [Kate Starbird](https://www.hcde.washington.edu/starbird) and [Zeynep Tufekci](https://sils.unc.edu/people/faculty/profiles/Zeynep-Tufekci), is helping to map out this culture and the technologies that it uses to promote its message, providing key resources for journalists and policymakers.
