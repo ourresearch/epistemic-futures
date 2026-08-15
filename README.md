@@ -42,12 +42,13 @@ publisher summary, labeled as such.
 | Other | `363,835` | `88` | `75%` |
 | Preprints | `284,198` | `38` | `71%` |
 | News pieces | `177,328` | `242` | `100%` |
-| **All written items** | **`18,396,139`** | **`10,736`** | **`93%`** |
 | [Social posts](methods.md#5-social-media) | `2,620,863` | `111,255` | — |
 | [Transcribed audio](methods.md#6-talks-podcasts-and-panels--transcripts) | *in progress* | *in progress* | — |
+| **Total** | **`21,017,002`** | **`121,991`** | **`99%`** |
 
 "Open access" is the share of items whose complete text was published openly and is included
-here; the rest are abstract- or summary-only. Words are counted from the saved text.
+here; the rest are abstract- or summary-only (social posts all count as open). Words are counted
+from the saved text.
 
 **Not here:** anything written *about* an attendee by someone else, and no commentary or opinion
 of ours about anyone — this is evidence, not evaluation.
