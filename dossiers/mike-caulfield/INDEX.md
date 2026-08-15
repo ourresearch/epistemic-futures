@@ -1,8 +1,6 @@
 # Mike Caulfield — University of Washington, Center for an Informed Public (summit role: session 4 participant)
 
-> **Public export.** This index is generated from the private working corpus. Third-party
-> coverage *of* this person (reviews, profiles, news about them) is deliberately excluded —
-> only their own words are here. Item counts and coverage notes below refer to that subset.
+> Scope: this person's own words only (writing *about* them by others is not collected).
 
 Slug: mike-caulfield · Last pass: 2026-08-14 (cleanup pass)
 

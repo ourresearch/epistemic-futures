@@ -1,3 +1,7 @@
+> **Historical method log** (2026-08-13/14), kept as written. It occasionally refers to an `about/`
+> section (third-party coverage) that was part of the working layout at the time and is **not part of
+> this repository** — the corpus here is each person's own words only.
+
 # Pilot lessons (running log)
 
 Feed these into CONVENTIONS.md before the full fan-out. One section per pilot as reports arrive.

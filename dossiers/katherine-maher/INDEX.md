@@ -1,8 +1,6 @@
 # Katherine Maher — NPR (President & CEO) (summit role: Session 1 participant)
 
-> **Public export.** This index is generated from the private working corpus. Third-party
-> coverage *of* this person (reviews, profiles, news about them) is deliberately excluded —
-> only their own words are here. Item counts and coverage notes below refer to that subset.
+> Scope: this person's own words only (writing *about* them by others is not collected).
 
 ## Quick bio
 

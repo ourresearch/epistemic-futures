@@ -1,8 +1,6 @@
 # Blaise Agüera y Arcas — Google (VP/Fellow; CTO, Technology & Society) (summit role: organizer; opening session)
 
-> **Public export.** This index is generated from the private working corpus. Third-party
-> coverage *of* this person (reviews, profiles, news about them) is deliberately excluded —
-> only their own words are here. Item counts and coverage notes below refer to that subset.
+> Scope: this person's own words only (writing *about* them by others is not collected).
 
 Slug: blaise-aguera-y-arcas · Last pass: 2026-08-14
 

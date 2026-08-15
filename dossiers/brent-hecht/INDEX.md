@@ -1,8 +1,6 @@
 # Brent Hecht — Microsoft / Northwestern University (summit role: Session 5 participant)
 
-> **Public export.** This index is generated from the private working corpus. Third-party
-> coverage *of* this person (reviews, profiles, news about them) is deliberately excluded —
-> only their own words are here. Item counts and coverage notes below refer to that subset.
+> Scope: this person's own words only (writing *about* them by others is not collected).
 
 > ## ✅ ATTENDANCE CONFIRMED — 2026-08-14
 > The summit's public site lists him under **Confirmed Participants**

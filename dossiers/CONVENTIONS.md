@@ -1,6 +1,6 @@
 # Super-dossier conventions
 
-Every attendee gets one directory. The goal is a **camera-raw corpus**: collect the *original text* of everything the person has written (openly available, 2005 or later), plus writing about them, so later agents can summarize it repeatedly along different axes without re-gathering. Summarization is lossy; this corpus is the negative.
+Every attendee gets one directory. The goal is a **camera-raw corpus**: collect the *original text* of everything the person has written or said (openly available, 2005 or later), so later agents can summarize it repeatedly along different axes without re-gathering. Summarization is lossy; this corpus is the negative.
 
 ## Directory layout
 
@@ -9,16 +9,15 @@ dossiers/<slug>/            # slug = firstname-lastname, lowercase, hyphens
   INDEX.md                       # manifest + bio header + coverage status
   by/                            # THE PERSON'S OWN WORDS
     2019--attention-is-broken.md
-  about/                         # WRITING ABOUT THE PERSON
-    2023--newyorker-profile.md
-  video.md                       # video/audio content noted for a later transcription pass
+  social/                        # their public X / Bluesky posts (slimmed JSONL; see SOCIAL-COLLECTION.md)
+  av/                            # speaker-attributed transcripts of talks/interviews (see methods.md)
+  video.md                       # video/audio inventory feeding av/
 ```
 
-### by/ vs about/ (the sorting rule)
+### Own words only (the scope rule)
 
 - **by/** = the person in their own words: journal articles, books, book chapters, blog posts, op-eds, essays, transcribed speeches/talks, **and interviews** (an interview is their own words even though a journalist frames it).
-- **about/** = writing about the person: profiles, biographies, reviews *of their books/work*, substantive news coverage of them.
-- When in doubt: if the person's voice is the payload → `by/`; if they're the subject → `about/`.
+- **Out of scope: writing *about* the person** — profiles, biographies, reviews of their work, news coverage of them. This corpus does not collect third-party coverage. When in doubt: if the person's voice is the payload → in; if they're merely the subject → out.
 
 ## Item files
 
@@ -34,7 +33,6 @@ type: blog-post        # journal-article | book | book-chapter | blog-post | op-
 year: 2019
 date: 2019-03-14       # if known, else just year
 venue: "The Scholarly Kitchen"
-authors: "Geoffrey Bilder"      # for about/ items: the writer, with person as subject
 source_url: https://...
 retrieved: 2026-08-13
 content: full-text     # full-text | excerpt | abstract-only | summary-only
@@ -58,7 +56,7 @@ notes: ""              # paywall status, OA license, caveats
 - **Publisher-published structured metadata counts as openly available** (ruling 2026-08-14, Jason-delegated; generalizes the Oransky metadata ruling). If the publisher's own site serves the complete text to anonymous clients in a public machine-readable field — schema.org `articleBody` in `ld+json` (hbr.org), `window.__preloadedData` (nytimes.com), a JSON API feeding their own page — that is the publisher openly distributing the text: save it as `content: full-text` and lead `notes:` with a `PROVENANCE` line naming the field it came from. Still forbidden: anything requiring a credential or session, actual paywall circumvention, and third-party pirate copies. First applied to 14 Weinberger HBR items.
 - **Text only, no binaries.** Never commit PDFs; extract text (`pdftotext`, or copy from HTML rendering). Strip navigation/boilerplate; keep the actual prose.
 - **Video/audio: note, don't transcribe** (separate later pass). In `video.md`: title, venue/channel, year, URL, ~duration, one-line topic. If an official transcript already exists as text, that's text — save it in `by/` as `talk-transcript`.
-- **Books**: if the full text is openly available (free publisher ebook like SFI Press, OA monograph, CC-licensed edition), **save the entire book** as one `type: book` item, `content: full-text` — books are exempt from the truncation cap (a whole book is ~1MB of text; fine). If only closed: publisher summary + TOC (`content: summary-only`) plus any open excerpts as separate `excerpt` items. Reviews go in `about/`.
+- **Books**: if the full text is openly available (free publisher ebook like SFI Press, OA monograph, CC-licensed edition), **save the entire book** as one `type: book` item, `content: full-text` — books are exempt from the truncation cap (a whole book is ~1MB of text; fine). If only closed: publisher summary + TOC (`content: summary-only`) plus any open excerpts as separate `excerpt` items.
 - **No fabrication.** Only save text actually retrieved from a URL. If a fetch fails, list the item in INDEX.md with status `pending`, don't synthesize.
 
 ## Mega-prolific authors (hundreds+ items, e.g. a long-running blog)
@@ -72,14 +70,13 @@ Completeness stays the goal, achieved incrementally:
 
 - **Scholarly work: use OpenAlex (dogfood!).** `curl -s -H "Authorization: Bearer <YOUR_OPENALEX_API_KEY>" "https://api.openalex.org/works?filter=author.id:A...,from_publication_date:2005-01-01&per-page=100&select=id,title,publication_year,doi,type,open_access,best_oa_location,abstract_inverted_index,cited_by_count"` — first resolve the author via `/authors?search=<name>` (check affiliation to disambiguate). `best_oa_location.pdf_url`/`landing_page_url` for full text; reconstruct abstracts from `abstract_inverted_index`. **For OA full text, check the OpenAlex Content API FIRST**: `GET https://api.openalex.org/works/<id>/content` (same Bearer auth) returns `has_content: {pdf, grobid_xml}` + `content_urls` pointing at `content.openalex.org` — our own hosted copy, no publisher bot-walls; prefer `grobid_xml` (structured text) over `pdf` when both exist. Coverage is partial, so fall back in order: landing page HTML → EuropePMC/PMC (JATS via NCBI efetch) → `best_oa_location.pdf_url` + pdftotext. (Content API calls cost 100 credits each on the key above — fine, it's ours; don't hammer it for works where `has_fulltext`/`has_content` is false.)
 - **Everything else**: personal site + blog archives (check /archive, sitemap.xml, RSS), Wikipedia (bibliography + External links), publisher author pages, Google Books/publisher blurbs, web search for `"<name>" interview`, `"<name>" op-ed`, `"<name>" transcript`, major outlets they write for.
-- **about/**: search `"<name>" profile`, reviews of each book title, substantive coverage (skip press-release churn and event-speaker blurbs).
 
 ## INDEX.md template
 
 ```markdown
 # <Name> — <Affiliation> (summit role: organizer | session N lead | session N participant | participant)
 
-Tier: 1 | 2 · Slug: <slug> · Last pass: 2026-08-13
+Slug: <slug> · Last pass: 2026-08-13
 
 ## Quick bio
 2-4 sentences, current role verified against a 2025-26 source (link it).
@@ -88,16 +85,12 @@ Tier: 1 | 2 · Slug: <slug> · Last pass: 2026-08-13
 | Section | Items | full-text | abstract/summary-only | pending |
 |---------|------:|----------:|----------------------:|--------:|
 | by/     |       |           |                       |         |
-| about/  |       |           |                       |         |
 Video items noted: N
 
 ## Items — by/
 | Year | Title | Type | Content | File |
 |------|-------|------|---------|------|
 (newest first; pending items get file "—" and a source_url column note)
-
-## Items — about/
-(same table)
 
 ## Coverage notes & frontier
 What was searched, what's exhausted, what's pending and where the next pass should resume. Known gaps (e.g. "blog archive pre-2012 not yet enumerated").
@@ -107,7 +100,7 @@ What was searched, what's exhausted, what's pending and where the next pass shou
 
 - Work incrementally: **write each item file as soon as it's fetched** (checkpointing — a killed agent should leave a usable partial corpus).
 - Update INDEX.md last, from what's actually on disk.
-- **The repo stays private and the source text is never published.** It holds copyrighted text saved for personal research use — never copy dossier content into anything publishable (incl. oxjobs `report.yaml` allowlists). Some *derived* artifacts may eventually be shared under a tiered policy, but that's a downstream decision about downstream products; it changes nothing about the raw corpus. Policy: [`oxjobs/plans/epistemic.md`](https://oxjobs.org/) §6.
+- **This is a public repository.** Everything in it was openly published by its author or publisher and links back to its source; see the README for what that does and doesn't mean (license, disclaimer, takedowns).
 
 ### No opinions in this repo — Jason's or yours
 
