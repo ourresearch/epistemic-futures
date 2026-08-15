@@ -108,4 +108,7 @@ is under the MIT license ([`LICENSE-MIT`](LICENSE-MIT)).
 
 ## Citing
 
-If you use the corpus, please [cite it](CITATION.cff).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21956906.svg)](https://doi.org/10.5281/zenodo.21956906)
+
+If you use the corpus, please [cite it](CITATION.cff). Releases are archived on Zenodo; the DOI
+above always resolves to the latest version.
