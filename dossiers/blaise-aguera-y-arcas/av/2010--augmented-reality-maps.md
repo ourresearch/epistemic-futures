@@ -1,0 +1,54 @@
+---
+title: "Augmented-reality maps"
+person: blaise-aguera-y-arcas
+section: by
+type: talk-transcript
+year: 2010
+venue: "TED2010"
+source_url: https://www.youtube.com/watch?v=NCPzji_-2Oo
+retrieved: 2026-08-15
+content: full-text
+transcription:
+  method: asr
+  asr_model: elevenlabs-scribe_v2
+  diarized: true
+  speaker_labels: inferred   # ASR diarization + LLM naming (claude-sonnet-4-6); not ground truth
+  duration_min: 10
+notes: "PROVENANCE: machine-transcribed from AV via ElevenLabs Scribe v2 (diarized) + LLM speaker-naming pass. Speaker labels are inferred, not authoritative. Layer-2 (mildly lossy) per charter, not camera-raw."
+---
+
+# Augmented-reality maps
+
+*Speakers (inferred):* speaker_0=Audience, speaker_1=Blaise Aguera Y Arcas, speaker_2=David Hoffman, speaker_3=Taylor, speaker_4=Audience
+
+## Transcript
+**Audience** [00:00]: [dramatic music] [audience clapping]
+
+**Blaise Aguera Y Arcas** [00:16]: About a year and a half ago, uh, Steven Lawler, who, uh, also gave a talk here at TED in 2007 on Virtual Earth, brought me over to become the architect of Bing Maps, uh, which is, uh, Microsoft's, uh, online mapping effort. In the past year and a half, we've been very hard at work on redefining the way maps work online, and we really are seeing this in very different terms from the kind of mapping and direction site that, uh, that one is used to. So the first thing you might notice about the mapping site is just the fluidity of the zooming and the panning, which if you're familiar at all with Seadragon, that's where it comes from. Mapping is, of course, uh, not just about cartography, it's also about imagery. So as we zoom in, uh, beyond a certain level, this resolves into a, a kind of Sim City-like virtual view at 45 degrees. This can be viewed from any of the cardinal directions to show you the 3D structure of the city, all the facades. Um, now, we see this space, this three-dimensional environment, as being a, a canvas on which all sorts of, um, applications can, um, can play out and, uh, maps, directions are really just one of them. If you click on, uh, on this, you'll see some of the ones that we've, uh, put out just in the past, uh, couple of months since we've launched. Uh, so for example, a couple of days after the disaster in Haiti, we had a, um, an earthquake map that showed before and after pictures from the sky. This wonderful one, which I don't have time to show you, is, uh, taking hyperlocal blogs in real time and mapping those stories, those entries, uh, to the places that are referred to on the blogs. It's, it's, uh, it's wonderful. Um, but I'm, I'm gonna show you some more, uh, candy sort of stuff. So, um, we, we see the imagery, of course, not stopping at the sky. Um, these little green bubbles, uh, represent, uh, Photosynths that users have made. Uh, I'm not gonna dive into them either, but Photosynths are integrated into the map. Everything that's cased in blue is, uh, an, an area where we've taken imagery on the ground as well. And so when you fly down from the... [audience clapping] Thank you. When you fly down to the ground and you see this, uh, this kind of panoramic imagery, the first thing that you might notice is that it's not just, uh, it's not just a picture. There's just as much three-dimensional understanding of this environment as there is of, uh, of the three-dimensional city from above. So, you know, if I click on something to get a closer view of it, then the fact that that transition looks as it does is a function of all of that geometry, all of that 3D understanding behind this model. Now, um, I'll show you a, a fun app, um, that, uh, we've, um, we've been working on in collaboration with our friends at Flickr. This takes Flickr, uh, geo-registered imagery and, uh, uses Photosynth-like processes to, uh, connect that imagery to our imagery. So I'm not sure if that's the one I actually meant to, uh, to pull up, but-
+
+**Audience** [03:12]: [laughing] [clapping]
+
+**Blaise Aguera Y Arcas** [03:15]: But notice, um, this is of course a popular tourist site, and there are lots of photos around here, and, uh, these photos were all taken at different times. Uh, so this one was taken around 5:00. Uh, so that's the Flickr photo. That's, uh, that's our imagery. Um, so you really see how, how this kind of crowdsourced imagery is integrating in a very deep way into the map itself. Now, the reason this is interesting... [audience clapping] Thank you. Um, there, there are several reasons why this is, why this is interesting, and one of them, of course, is time travel. And I'm not gonna show you some of the wonderful historic imagery in here, but there are some with horses and carriages and so on as well. But what's, what's, uh, cool about this is that not only is it augmenting this visual representation of the world with, uh, things that are coming in from users, but, uh, it also is the, uh, is the foundation for augmented reality, and, uh, that's, uh, something that I'll be showing you more of in just a moment. Uh, now, I just made a transition indoors. Uh, that's also interesting. Okay, notice there's now a roof above us. We're inside, uh, the Pike Place Market, and this is something that we're able to do with a backpack camera. So we're now not only, not only imaging, uh, in the street with this, uh, camera on tops of cars, but we're also imaging, um, inside. And, uh, from here we're able to do the same sorts of registration, uh, not only of, um, of still images, but also of video. So this is something that we're now going to try, uh, for the first time, uh, live, and it's, this is really, truly very frightening. Um.
+
+**Audience** [04:43]: [laughing]
+
+**Blaise Aguera Y Arcas** [04:47]: Okay. [phone ringing] [laughs] All right. Guys, are you there? Hey, man. All right, I'm hitting it. I'm punching play. Are we live? I'm live. All right, there we go. So, uh, these are our friends in Pike Place Market, they're at the lab. [audience clapping] Thank you. And, um, they're, so they're, they're broadcasting this live. Okay. Uh, George, can you pan, wait, can you pan back over to the corner market? 'Cause I wanna- Yeah. I wanna show points of interest. Hey, yo. No, no, the other way. [laughs] The other way? Yeah, yeah. Back to the corner. Back to the corner.
+
+**Audience** [05:27]: [laughing]
+
+**Blaise Aguera Y Arcas** [05:27]: I don't wanna see you guys yet. [laughs] Oh, okay. Okay. Okay. Back to the corner. Back to the corner. Back to the corner. [laughs] Okay, never mind.
+
+**Audience** [05:39]: [laughing]
+
+**Blaise Aguera Y Arcas** [05:40]: What I wanted to show you is these points of interest over here on top of the image, because what that gives you a sense of is the way, if you're actually on the spot, uh, you can, you can think about this, this is taking a step in addition to augmented reality. [laughs] What are you, what the hell are you guys... Oh, sorry.
+
+**Audience** [05:55]: [laughing]
+
+**Blaise Aguera Y Arcas** [05:58]: We're doing, we're doing, we're doing two different, we're doing two different things. Okay, I'm hanging up now. We're do- we're doing two different things here. One of them, one of them is to, is to take that, that real- [laughs] [audience laughing] All right, let me just take a moment and, and thank the team. They've done a fantastic job of pulling this together. [audience applauding] Um, all right. I'm gonna abandon them now and walk back outside. And while I, while I walk outside, I'll just mention that, um, here we're using this for telepresence, but you can equally well use this, uh, on the spot for augmented reality. When you use it on the spot, it means that you're able to bring all of that metadata and information about the world to you. So here we're taking the extra step of also broadcasting it. That was being broadcast, by the way, on a 4G network, uh, from, um, from the market. All right. And, uh, now, uh, there's one last TED Talk that Microsoft has given in the past, uh, several years, uh, and that's Curtis Wong, WorldWide Telescope. So we're gonna head over to the dumpsters, where it's traditional after a long day at the market to go out for a break and also stare up at the sky. Um, this is the integration of WorldWide Telescope into, um, into our maps. [audience applauding] This is the, the current ... Thank you. This is the current time. If we scrub the time, then we can see how, how the sky will look at different times, and we can get all of this very detailed information about, um, different, different times, different dates. Um, let's, let's move the, the moon a little higher in the sky, maybe change the, change the date. I would like to kind of zoom in on the moon. So, uh, this is, this is a astronomically complete representation of the, of the sky, uh, integrated right into, um, right into the Earth. All right. Now I've, I've overrun my time, so I've gotta stop. Uh, thank you all very much. [audience applauding] Thank you.
+
+**David Hoffman** [08:03]: Hi, my name is David Hoffman. I'm here to talk about Blaise's presentation on that new mapping system. Well, I believe in mapping. I mean, I switched from iPhone to Droid because the mapping is so powerful, the idea of where you are, what you're doing, what you could do, what was being done before, who's been there. So I thought what he said and what he showed was a knockout. I'd love to have it in the mobile space. I'm sure it's headed there. And I don't use Bing enough, so I'm gonna have to reexamine that. But I congratulate the folks who made it, and the understanding of the user-generated side of the map being what was critical to the map. So thank you.
+
+**Taylor** [09:01]: Hi, I'm Taylor, and I just was thrilled to see Blaise's talk yesterday. Uh, I have some questions about people's privacy because it's the first time that you could really see people's faces. You could see someone's purse and what color it is. Um, it's, the detail level is so incredible. Um, I mean, I could probably shop at the fish market [laughs] without ever going there and just call them up and see what's on sale. It's that level of, of detail, and it's quite amazing. So, um, very, very, very impressive technology. I cannot wait to start using it.
+
+**Audience** [09:36]: I've loved maps my whole life. I once had a house that had maps everywhere. And yesterday, Blaise showed us how we could have the world in our hands, a map to anywhere, but not just a static map, because the world's live. A dynamic map where I can have video of my friends in another place superimposed on the map that I'm looking at. Oh my God, this was so exciting, this notion of the world in the palm of my hand, not on the walls of my house, the palm of my hand, whenever I need it, live video. Oh my God. That's what TED's about, big ideas like that.
+

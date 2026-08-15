@@ -29,20 +29,25 @@ publisher summary, labeled as such.
 
 | Type | Words | Items | Open access |
 |---|---:|---:|---:|
-| Papers | `6,834,237` | `1,107` | `67%` |
+| Journal articles | `5,987,515` | `992` | `65%` |
 | Blog posts | `5,252,112` | `7,558` | `100%` |
-| Talks & interviews | `1,891,502` | `382` | `95%` |
-| Essays, op-eds & news | `1,800,526` | `1,136` | `96%` |
-| Books & chapters | `1,199,018` | `329` | `25%` |
+| Essays | `1,247,407` | `540` | `93%` |
 | Reports | `1,054,909` | `136` | `90%` |
+| Talk transcripts | `1,029,368` | `163` | `96%` |
+| Interviews | `862,134` | `219` | `94%` |
+| Books | `659,578` | `86` | `9%` |
+| Conference papers | `562,524` | `77` | `92%` |
+| Book chapters | `539,440` | `243` | `31%` |
+| Op-eds | `375,791` | `354` | `98%` |
 | Other | `363,835` | `88` | `75%` |
+| Preprints | `284,198` | `38` | `71%` |
+| News pieces | `177,328` | `242` | `100%` |
+| **All written items** | **`18,396,139`** | **`10,736`** | **`93%`** |
 | [Social posts](methods.md#5-social-media) | `2,620,863` | `111,255` | — |
-| [Transcribed audio](methods.md#6-talks-podcasts-and-panels--transcripts) | *in progress* | *in progress* | — |
-| **Total** | **`21,017,002`** | **`121,991`** | **`99%`** |
+| [Transcribed audio](methods.md#6-talks-podcasts-and-panels--transcripts) | `2,509,713` | `323` | — |
 
 "Open access" is the share of items whose complete text was published openly and is included
-here; the rest are abstract- or summary-only (social posts all count as open). Words are counted
-from the saved text.
+here; the rest are abstract- or summary-only. Words are counted from the saved text.
 
 **Not here:** anything written *about* an attendee by someone else, and no commentary or opinion
 of ours about anyone — this is evidence, not evaluation.
@@ -51,16 +56,28 @@ of ours about anyone — this is evidence, not evaluation.
 
 The short version; the full recipe is in [`methods.md`](methods.md).
 
-1. Start from the summit's [published attendee list](https://epistemicfuturessummit.pubpub.org/attendees).
-2. AI agents find and collect each attendee's content since 2005. We look here:
-   - Their scholarly work, using the OpenAlex API to find and [download](https://help.openalex.org/access/fulltext/#the-content-endpoint-for-per-work-fetches) content.
-   - Their own sites: blogs, feeds, CVs.
-   - Outlets they write for, web search, and the Wayback Machine.
-3. Convert everything to plain text and save, with metadata.
-4. Audit every dossier: retry failures, OCR scans, sweep outlets for misses, de-duplicate.
-5. Pull their public X and Bluesky posts.
-6. Transcribe their talks and podcasts, with speakers named.
-7. Note where each search stopped, so anyone can pick it up.
+1. **Start from the summit's [published attendee list](https://epistemicfuturessummit.pubpub.org/attendees).**
+2. **One AI agent per person** collects everything that person has written or said, published 2005
+   or later, from three kinds of source in parallel:
+   - **Their scholarly record, via [OpenAlex](https://openalex.org)** — resolve and disambiguate
+     the author, list their works with open-access locations and abstracts, and pull hosted full
+     text from OpenAlex's [Content API](https://help.openalex.org/access/fulltext/#the-content-endpoint-for-per-work-fetches)
+     ([reference](https://help.openalex.org/access/fulltext/)) where it exists.
+   - **Their own sites** — blog archives, sitemaps, feeds, CVs and bibliographies they publish
+     themselves.
+   - **Outlets and publishers** — author pages at every venue they write for; then web search for
+     interviews, op-eds and transcripts; then the Wayback Machine for anything dead or moved.
+3. **Save every item as plain text** with its source URL and a label saying whether it is full
+   text, an excerpt, or only an abstract. Nothing is ever synthesized; a failed fetch is listed as
+   pending, not reconstructed.
+4. **Audit passes over every dossier** — re-probe abstract-only items for open full text, OCR
+   scanned PDFs, retry failed archive fetches, sweep outlet author pages for recall, de-duplicate
+   cross-posts.
+5. **Social posts** — pull each person's public X and Bluesky posts through the platforms' APIs.
+6. **Talks, podcasts and panels** — inventory them in `video.md`, transcribe with speaker
+   diarization, name the attendee's speaker track with an LLM pass, file in `av/`.
+7. **Record the frontier** — each `INDEX.md` says what was searched and where the search stopped,
+   so anyone can pick it up.
 
 ## Layout
 
@@ -108,7 +125,4 @@ is under the MIT license ([`LICENSE-MIT`](LICENSE-MIT)).
 
 ## Citing
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21956906.svg)](https://doi.org/10.5281/zenodo.21956906)
-
-If you use the corpus, please [cite it](CITATION.cff). Releases are archived on Zenodo; the DOI
-above always resolves to the latest version.
+If you use the corpus, please [cite it](CITATION.cff).

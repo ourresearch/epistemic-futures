@@ -1,0 +1,26 @@
+---
+title: "Why is conflict growing despite global trade? Weaponized interdependence (Farrell & Newman 2019)"
+person: henry-farrell
+section: by
+type: talk-transcript
+year: n.d.
+venue: "Vili Lehdonvirta"
+source_url: https://www.youtube.com/watch?v=5EuqvRor-5k
+retrieved: 2026-08-15
+content: full-text
+transcription:
+  method: asr
+  asr_model: elevenlabs-scribe_v2
+  diarized: true
+  speaker_labels: inferred   # ASR diarization + LLM naming (claude-sonnet-4-6); not ground truth
+  duration_min: 6
+notes: "PROVENANCE: machine-transcribed from AV via ElevenLabs Scribe v2 (diarized) + LLM speaker-naming pass. Speaker labels are inferred, not authoritative. Layer-2 (mildly lossy) per charter, not camera-raw."
+---
+
+# Why is conflict growing despite global trade? Weaponized interdependence (Farrell & Newman 2019)
+
+*Speakers (inferred):* speaker_0=Narrator
+
+## Transcript
+**Narrator** [00:00]: If the world is more economically connected than ever, then why are we spiraling towards conflict? Welcome to one paper in Geopolitics and Technology, episode one. Weaponized Interdependence How Global Economic Networks Shape State Coercion. This is a paper by Henry Farrell and Abraham, Abraham Newman, two American international relations scholars. It was published in twenty nineteen in the journal International Security. Now, since the post-war liberalization of international trade, uh, the global economy has become extremely interconnected. We have global supply chains, companies, and entire countries relying on other companies and countries for essential, uh, intermediate products. Um, and theories of complex interdependence in international relations and international political economy suggested that this sort of deep interdependence should, uh, generate peace. Because, um, if you go to war with someone that you're depending on, that's like shooting yourself in the foot. But somehow that's not really what we're seeing despite the world economy being more interconnected than ever, uh, tensions are rising and, and hot war is, is escalating. So why is that? Farrell and Newman's paper on weaponized interdependence, uh, provided a very simple and elegant, uh, answer to this question, and it is that the dependence networks are asymmetric. Some are more dependent than others. Economic forces, um, don't generate a sort of even flat, um, network structure. They tend to create network structures in which some players are hubs, sort of central points, and others connect to those hubs as spokes. Um, this is because of things like positive network effects in digital networks and communication networks. It's also things like, um, uh, learning by doing and agglomeration effects that tend to concentrate economic activity in certain places and with certain firms. And, um, and as a result, the, the global economy is, is sort of this, this, uh, uh, structure of, of hubs connecting spokes. And now Farrell and Newman's insight was that those states that find themselves, uh, with jurisdiction over those hubs are able to use them to gain leverage over others. And they give two examples. One is the internet. The internet's physical backbone, the sub- subsea cable network, had evolved a structure in which, um, most if, if not most, at least a lot of traffic, uh, from anywhere in the world had to pass through certain hubs, certain sub, uh, cable landing points, points in East Coast US and to some extent on West Coast UK on the other side of the Atlantic. And physical control over those landing sites, over those physical hubs made it possible for the National Security Agency to, to basically, uh, spy, uh, on anyone on the internet. And, uh, the-- Farrell and Newman called this the panopticon effect. The other example they give is, is the SWIFT interbank payment settlement network, which is a sort of global system for moving money around. Um, now the US had, um, leverage and still has leverage over the SWIFT network, thanks to the unique role of the dollar as a global trade currency. And, um, um, when the Trump, Trump's first administration withdrew from the Iranian nuclear, uh, treaty in, back in twenty eighteen, they reimposed sanctions on Iran and basically, uh, forced SWIFT to disconnect Iran. Um, and this meant that, uh, it was very difficult for Iranian businesses to, uh, send or receive money. And, um, they call this the choke point effect. So whoever controls a hub, uh, can use it as a choke point to choke others out of the network. Uh, now since then, we've obviously seen this sort of choke point and panopticon, uh, logic play out in other areas as well. For instance, Russia weaponized Europe's dependence on its energy, uh, supply following its full-scale invasion of Ukraine. Um, the US has been trying to use Nvidia's monopoly over AI accelerator chips to choke out China from access to the most advanced chips. And China itself has started to make sounds about weaponizing its near monopoly on ra-rare earth metals, which are a crucial input in many, uh, high-tech processes. So Farrell and Newman's contribution really was to show that, um, the kind of economic interdependence that economic forces spontaneously create, it doesn't necessarily result in peace. On the contrary, it can create conditions of coercion that escalates into conflict.
+

@@ -1,0 +1,28 @@
+---
+title: "What scientific milestones have shaped humanity?"
+person: adam-bly
+section: by
+type: talk-transcript
+year: n.d.
+venue: ""
+source_url: https://bigthink.com/videos/what-scientific-milestones-have-shaped-humanity/
+retrieved: 2026-08-14
+content: full-text
+transcription:
+  method: asr
+  asr_model: elevenlabs-scribe_v2
+  diarized: true
+  speaker_labels: inferred   # ASR diarization + LLM naming (claude-sonnet-4-6); not ground truth
+  duration_min: 5
+notes: "PROVENANCE: machine-transcribed from AV via ElevenLabs Scribe v2 (diarized) + LLM speaker-naming pass. Speaker labels are inferred, not authoritative. Layer-2 (mildly lossy) per charter, not camera-raw."
+---
+
+# What scientific milestones have shaped humanity?
+
+*Speakers (inferred):* speaker_0=Narrator, speaker_1=Adam Bly
+
+## Transcript
+**Narrator** [00:00]: [on-hold music]
+
+**Adam Bly** [00:07]: There are far too many because I think that, um, you know, they're, they're obviously the highlights of the twentieth century. Um, and certainly to highlight scientific discoveries of the twentieth century have been important, ending with, you know, starting with Einstein and ending with the Human Genome Project. Um, and each one in between has obviously had, by now we know, great material value on our economies, societies, lives. Um, we've cured disease as a result of certain landmarks of the twentieth century. So to, you know, reintroduce them into our thinking in the twenty-first century, they're proven. To me, they're, they've achieved great social value. Um, I think that we're kind of at a point now where, uh, there are some leftover, uh, questions from the twentieth century that are carrying forward into the twenty-first that arise as a result of some great discoveries in the twentieth century that have caused us to, um, rethink many things at this cusp of, you know, we're at this twenty-first century. And those are like, um, Einstein and Newton both having really good ideas, um, but their really good ideas not kind of jiving when you put them together. And Einstein really believing in the pursuit of a unified theory of something that would marry the very, very, very big and the very, very, very small, um, and move towards a theory of everything. Um, and that was one of Einstein's, what is one of Einstein's kind of intellectual legacies is the absence of the unified theory that he attempted to, to conceive of. And so it is one of the major thrusts of modern science now, and it does shape a lot of our discourse and the way we think about science to move in this direction of kind of a big unification in, um, in physics. I think that we now have the human genome mapped. We're accelerating the mapping of the human genome. We're mapping more things. We're seeing how similar or dissimilar we are to each other and to other species. Um, we're seeing the importance of RNA versus DNA, um, as a maybe something that might ch-change a little bit our notions of, um, some of the central paradigms of biology. Um, and that's gonna force us to start thinking in a kind of post-genomic way of what we do with all of this. Um, and so I think the Human Genome Project at the end of the twentieth century has led us now with data, with comparisons, with tools, um, with new insights, uh, and so it can spur, um, a new way of thinking in a more systems way of how do we bring all these different pieces together. And this is where, um, uh, and again, in, in, in neuroscience, um, we're seeing starting, we're starting to see the incorporation of greater computer science and computational neuroscience, computational biology mashing up with neuroscience. Um, we're seeing biologists turn to physicists for their skills in creating bigger theories. Um, we're seeing, uh, ecologists working with, um, computer scientists to create more comprehensive, uh, technological tools to survey the planet and look at biodiversity. So I think probably the most interesting force at play in science right now, where we are, um, is that the promise of interdisciplinary research, um, is proving true. Um, when you map, as, as we've done at Seed, um, all the papers published over a given period of time, I think we did over a year or two years, you'll get hundreds of thousands of, you know, research papers, um, and start to see what paradigms have been identified, and then map them by discipline and see what relationships they have. It's in fact the new bridges between disciplines, um, the new mashups that are taking shape today that I think are going to define our, the way we tackle problems. Um, we're starting to build institutes in science today that are less, uh, organized by discipline as they were in the twentieth century by biology, physics, chemistry, math, but by the question we're trying to solve. So an institute for, uh, infectious diseases that may bring together physicists, mathematicians, biologists, infectious disease people, um, and sociologists. Um, or we're looking at, you know, uh, behavior, and it may bring together neuroscientists, economists, um, and psychologists and, you know, linguists. And so I think that, I think that this is an interesting reform that's taken place as a result of some of the sort of big institutions and big amounts of data and big projects that got completed in the second half of the twentieth century, and now we're kind of looking at it all and saying, you know, "Well, what next?" And the coming together of disciplines to advance our understanding, um, is really, I think, one of the most exciting hallmarks of where we are right now in science. [on-hold music]
+

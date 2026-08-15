@@ -22,16 +22,8 @@ keywords:
   - scholarly communication
   - AI and knowledge
   - OpenAlex
-doi: 10.5281/zenodo.21956906
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.21956906
-    description: "Concept DOI — always resolves to the latest version"
-  - type: doi
-    value: 10.5281/zenodo.21956907
-    description: "Version DOI for v0.1.0"
 license: CC0-1.0
 repository-code: "https://github.com/ourresearch/epistemic-futures-corpus"
 url: "https://github.com/ourresearch/epistemic-futures-corpus"
 date-released: "2026-08-15"
-version: "0.1.0"
+version: "1.0.0"

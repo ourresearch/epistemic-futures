@@ -1,0 +1,26 @@
+---
+title: "What are today's big issues?"
+person: adam-bly
+section: by
+type: talk-transcript
+year: n.d.
+venue: ""
+source_url: https://bigthink.com/videos/what-are-todays-big-issues/
+retrieved: 2026-08-14
+content: full-text
+transcription:
+  method: asr
+  asr_model: elevenlabs-scribe_v2
+  diarized: true
+  speaker_labels: inferred   # ASR diarization + LLM naming (claude-sonnet-4-6); not ground truth
+  duration_min: 7
+notes: "PROVENANCE: machine-transcribed from AV via ElevenLabs Scribe v2 (diarized) + LLM speaker-naming pass. Speaker labels are inferred, not authoritative. Layer-2 (mildly lossy) per charter, not camera-raw."
+---
+
+# What are today's big issues?
+
+*Speakers (inferred):* speaker_0=Adam Bly
+
+## Transcript
+**Adam Bly** [00:00]: [on-hold music] I think that the shift from symmetry to asymmetry in warfare, um, is a major transformational force. I think, uh, that the rise of China, um, and not simply quantitatively the rise of China, but trying to understand and predict today how China will exercise what China's soft powers will be and how they'll exercise those soft powers in the world. To envision China having a big military, big economy, simply big, um, is a, is a story that has been told already, and by now, people in power should have dealt with that. Um, it will always be bigger. Um, but trying to really understand how a Chinese way of thinking will have softer influences on, um, the way we think about things, um, the way we interact with each other, um, uh, I think is sort of the central question right now is: what will China contribute to the world through its rise? Um, China has been, um, lacking for confidence for many, many, many years, um, and now is struggling with that confidence that necessarily has to come with economic strength and military strength and so forth. And how it uses that and how it kind of, uh, achieves its goals of a harmonious society while at the same time becoming a world player is something that I'm particularly interested in. And if you think about sort of one weak signal there being the sort of new ties between China and Africa, um, I think is really, really interesting stuff. Um, China's using science as a geopolitical tool, for example. That's kind of interesting. Um, and so creating scientific ties between their researchers and other researchers in different parts of the world before at the nationstate level, um, there is an official, you know, geopolitical tie. And so exporting science, um, is sort of a fascinating twenty-first century notion of diplomacy that China is experimenting with. Um, the values of society in China, I think is-- So I, I think this is a central, you know, sort of global theme. Um, I think that, I think that we are starting to reach the point where climate change, um, uh, has achieved acceptance as a global issue. It's on the agenda. Um, it is fodder for presidential candidates. You need to have a policy. Um, it's achieved the kind of acceptance, uh, as a, as an issue. I think that many have also achieved a great deal in, um, introducing it as, uh, something of importance to all s-factors of so-facets of society from, um, you know, evangelical Christians to moms to world leaders to CEOs of companies who see green as, uh, as an engine for economic growth and EBITDA. So I, I think it's achieved a kind of, um, widespread penetration in society, uh, very effectively in the last couple of years. And so I think this is now re-- I think climate change has now reached a point where it is, uh, quite simply, um, I think, about the next president of the United States, um, and whether or not that next president, um, has the courage and vision to, uh, advance, you know, the policy, the, the speech. And I think this is as much about oratory as it is about action. I mean, it's of course about action, but, um, it is also about laying out what it means to be sort of an energy-independent nation. Um, and I think that we're not gonna see, you know, China take the steps it should take, it must take, without the United States taking the steps it must take and it should take. And so I think this is simply but very importantly about electing the right leader, Democrat or Republican, who very much recognizes the importance of the issue, has a clear strategy, and can restore US leadership in this incredibly important, you know, uh, global topic. So I think that... I think that's where that needs to go. Um, and I think if I was to pick out maybe one other kind of weak signal, um, I think it would, um, I think it would most certainly be, um, the incorporation of science into larger, um, or, or more obviously large, uh, ministries and sort of decisions that need to be made by leaders, um, as happening now with regularity. And, um, science is a cornerstone of the agenda at the World Economic Forum now. Um, leaders see their science advisors and science ministers as important, um, uh, and as having a relationship with national security and economic policy and so forth. Um, and so I think that the incorporation of science, uh, into the decision-making apparatus of leaders, um, globally is taking place in very many parts of the world in very different ways, but it's sort of an important weak signal, I think, right now. [on-hold music]
+

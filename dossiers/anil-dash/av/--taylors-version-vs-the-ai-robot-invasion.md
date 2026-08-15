@@ -1,0 +1,26 @@
+---
+title: "Taylor's Version vs the AI Robot Invasion"
+person: anil-dash
+section: by
+type: talk-transcript
+year: n.d.
+venue: ""
+source_url: https://www.youtube.com/watch?v=X7jbRY3MvpQ
+retrieved: 2026-08-15
+content: full-text
+transcription:
+  method: asr
+  asr_model: elevenlabs-scribe_v2
+  diarized: true
+  speaker_labels: inferred   # ASR diarization + LLM naming (claude-sonnet-4-6); not ground truth
+  duration_min: 4
+notes: "PROVENANCE: machine-transcribed from AV via ElevenLabs Scribe v2 (diarized) + LLM speaker-naming pass. Speaker labels are inferred, not authoritative. Layer-2 (mildly lossy) per charter, not camera-raw."
+---
+
+# Taylor's Version vs the AI Robot Invasion
+
+*Speakers (inferred):* speaker_0=Anil Dash
+
+## Transcript
+**Anil Dash** [00:00]: [gentle music] Taylor's Version. Every Swiftie in the world knows exactly what that phrase means. It represents Taylor's fight to keep control and ownership of her work, control that she should've had in the first place. It's music that she made and she should've had ownership of, but that she had to battle a bunch of creepy record executives to get back ownership of. But she won, she succeeded, and now she's finally got back control of all of her music, which is awesome. The thing that it's also important to know that Taylor's Version represents is even the most casual music fan has some awareness now that, well, ownership of this music is something that matters to artists, and actually all creators. It doesn't matter if you're an author or a poet or somebody who makes videos or whatever you do. You care about control and consent over what happens with your work. And this has mattered for a long time. See, like back in the day, uh, a lot of us loved Prince. I still do. And one of the things that he said as a musician, 'cause he was super, super influential in the '80s and '90s, was he wanted to be remembered for the phrase, "If you don't own your masters, then your masters own you." That's how much he cared about fighting for control of his master recordings. So this is a battle that's been going on for years, and all of these great artists fight so hard about this because it is their life's work, and they do the work to make these recordings and to make sure that they can control how they are used. This matters more than ever right now because of what's happening with AI online. The big AI companies are slurping up all of the content across the internet that they can find, and they're doing it without consent or compensation. And they're doing it for every kind of content. It's not just writing, it's not just photos, it's not just videos. It's everything out there. And it's starting to turn into an arms race. All of the different individual websites are trying to put up, you know, [laughs] their, the best defense that they can. It's a little bit like the paywalls we see when we try to read an article online where it's like, "Oh, you have to pay us if you wanna read more on this website." But it's even more technical, and it's getting really complicated, and tr- people are trying to build systems where they can say, "Well, if you pay us a little bit, maybe you can read this stuff." And this will start to work, but it's going to be this back and forth, and, you know, the hard part about that is, well, that's a bit-by-bit system. It's piecemeal. It's here and there. And there has to be a bigger force that compels the big AI companies to actually do the right thing, and this is where Taylor's Version comes in. I think the big AI companies are really wildly underestimating how much it matters that culturally, millions and millions of people around the world are now familiar with the idea of artists fighting for control, right? Because you can have all the technology in the world, but nothing beats the force of, well, a fan base, right? When people are fighting and activated online to support the creators that they love, to support the culture that they love, to join together and say, "This is something that matters to us," that is, well, often an unstoppable force. And so I think the combination of all the people that own this content online that are trying to make sure that they can keep being independent creators, combined with fan bases that say, "We're gonna stand up for the artists we care about, for the creators we care about, for these independent websites that we care about," that combination to me feels like something that is incredibly powerful, has an incredible amount of potential, and is actually going to be a counterbalance no matter how big those big AI companies are, no matter how many dollars they have. And so that's something that I think is going to be as much of a legacy as the music or the things that, you know, people get excited about and just being able to listen to the entire catalog that Taylor has, which is incredible, but there's also this broader legacy about what it represents culturally. So that's one of those things to think about as you're, you know, you're building your playlist and you're listening to the music that you love, is that there's the potential to turn that idea into something even bigger for all artists. [upbeat music]
+
