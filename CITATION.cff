@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it as below."
+type: dataset
+title: "Epistemic Futures Corpus: what the Epistemic Futures Summit's attendees have written and said, in their own words"
+authors:
+  - family-names: Priem
+    given-names: Jason
+    orcid: "https://orcid.org/0000-0001-6187-6610"
+    affiliation: OpenAlex
+abstract: >-
+  A plain-text corpus of everything each attendee of the MIT Epistemic Futures Summit
+  (September 23–24, 2026) has written or said and published openly on the internet from 2005
+  onward — papers, books, blog posts, op-eds, interviews, talks, and public social-media posts —
+  one file per item with source URLs, plus speaker-attributed transcripts of talks and a markdown
+  copy of the summit's public website. Compiled with AI agents (Claude) working to a written
+  collection spec, with help from Jason Priem. Collected texts remain their authors' and
+  publishers'; the corpus's own contributions are CC0.
+keywords:
+  - corpus
+  - text
+  - Epistemic Futures Summit
+  - scholarly communication
+  - AI and knowledge
+  - OpenAlex
+license: CC0-1.0
+repository-code: "https://github.com/ourresearch/epistemic-futures"
+url: "https://github.com/ourresearch/epistemic-futures"
+date-released: "2026-08-15"
+version: "0.1"
