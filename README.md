@@ -1,13 +1,8 @@
 # Epistemic Futures Corpus
 
-### What the Epistemic Futures Summit's attendees have written and said, in their own words
-
 This is a text corpus assembled ahead of the [Epistemic Futures Summit](https://epistemicfuturessummit.pubpub.org/)
-(MIT, September 23–24, 2026): for each attendee, everything I could find that they have
-**written or said and published openly on the internet** — papers, books, blog posts, op-eds,
-interviews, talks, and their public social-media posts — collected as plain text, one file per item,
-with the source URL on every file. It also includes a clean markdown copy of the summit's public
-website (concept note, schedule, attendee list).
+(MIT, September 23–24, 2026): for each attendee, everything they've said or written on the
+internet. Or at least, everything my agents could find and access.
 
 This README, like the whole corpus, was created by Jason's Claude, with some help from Jason.
 
@@ -32,27 +27,27 @@ all 33 people on the [published attendee list](https://epistemicfuturessummit.pu
 Full text where the text is openly available; where a source is paywalled, only the abstract or
 publisher summary, labeled as such.
 
-| Type | Items | Full text openly available | Words |
+| Type | Words | Items | Open access |
 |---|---:|---:|---:|
-| Blog posts | `7,558` | `100%` | `5,252,112` |
-| Journal articles | `992` | `65%` | `5,987,515` |
-| Essays | `540` | `93%` | `1,247,407` |
-| Op-eds | `354` | `98%` | `375,791` |
-| Book chapters | `243` | `31%` | `539,440` |
-| News pieces | `242` | `100%` | `177,328` |
-| Interviews | `219` | `94%` | `862,134` |
-| Talk transcripts | `163` | `96%` | `1,029,368` |
-| Reports | `136` | `90%` | `1,054,909` |
-| Books | `86` | `9%` | `659,578` |
-| Conference papers | `77` | `92%` | `562,524` |
-| Preprints | `38` | `71%` | `284,198` |
-| Other | `88` | `75%` | `363,835` |
-| **All written items** | **`10,736`** | **`93%`** | **`18,396,139`** |
-| Social posts | `111,255` | — | `2,620,863` |
-| Talk/podcast transcripts | *in progress* | — | — |
+| Journal articles | `5,987,515` | `992` | `65%` |
+| Blog posts | `5,252,112` | `7,558` | `100%` |
+| Essays | `1,247,407` | `540` | `93%` |
+| Reports | `1,054,909` | `136` | `90%` |
+| Talk transcripts | `1,029,368` | `163` | `96%` |
+| Interviews | `862,134` | `219` | `94%` |
+| Books | `659,578` | `86` | `9%` |
+| Conference papers | `562,524` | `77` | `92%` |
+| Book chapters | `539,440` | `243` | `31%` |
+| Op-eds | `375,791` | `354` | `98%` |
+| Other | `363,835` | `88` | `75%` |
+| Preprints | `284,198` | `38` | `71%` |
+| News pieces | `177,328` | `242` | `100%` |
+| **All written items** | **`18,396,139`** | **`10,736`** | **`93%`** |
+| [Social posts](methods.md#5-social-media) | `2,620,863` | `111,255` | — |
+| [Transcribed audio](methods.md#6-talks-podcasts-and-panels--transcripts) | *in progress* | *in progress* | — |
 
-"Full text openly available" is the share of items whose complete text was published openly and is
-included here; the rest are abstract- or summary-only. Words are counted from the saved text.
+"Open access" is the share of items whose complete text was published openly and is included
+here; the rest are abstract- or summary-only. Words are counted from the saved text.
 
 **Not here:** anything written *about* an attendee by someone else, and no commentary or opinion
 of ours about anyone — this is evidence, not evaluation.
@@ -62,28 +57,27 @@ of ours about anyone — this is evidence, not evaluation.
 The short version; the full recipe is in [`methods.md`](methods.md).
 
 1. **Start from the summit's [published attendee list](https://epistemicfuturessummit.pubpub.org/attendees).**
-2. **One AI agent per person** (Claude, working to the written spec in
-   [`dossiers/CONVENTIONS.md`](dossiers/CONVENTIONS.md)) collects everything that person has
-   written or said, published 2005 or later, in this order:
-3. **Scholarly record via [OpenAlex](https://openalex.org)** — resolve and disambiguate the author,
-   list their works with open-access locations and abstracts, and pull hosted full text from
-   OpenAlex's Content API where it exists.
-4. **Their own sites** — blog archives, sitemaps, feeds, CVs and bibliographies they publish
-   themselves.
-5. **Outlets and publishers** — author pages at every venue they write for; then web search for
-   interviews, op-eds and transcripts; then the Wayback Machine for anything dead or moved.
-6. **Save every item as plain text** with its source URL and a label saying whether it is full
+2. **One AI agent per person** collects everything that person has written or said, published 2005
+   or later, from three kinds of source in parallel:
+   - **Their scholarly record, via [OpenAlex](https://openalex.org)** — resolve and disambiguate
+     the author, list their works with open-access locations and abstracts, and pull hosted full
+     text from OpenAlex's [Content API](https://help.openalex.org/access/fulltext/#the-content-endpoint-for-per-work-fetches)
+     ([reference](https://help.openalex.org/access/fulltext/)) where it exists.
+   - **Their own sites** — blog archives, sitemaps, feeds, CVs and bibliographies they publish
+     themselves.
+   - **Outlets and publishers** — author pages at every venue they write for; then web search for
+     interviews, op-eds and transcripts; then the Wayback Machine for anything dead or moved.
+3. **Save every item as plain text** with its source URL and a label saying whether it is full
    text, an excerpt, or only an abstract. Nothing is ever synthesized; a failed fetch is listed as
    pending, not reconstructed.
-7. **Audit passes over every dossier** — re-probe abstract-only items for open full text, OCR
+4. **Audit passes over every dossier** — re-probe abstract-only items for open full text, OCR
    scanned PDFs, retry failed archive fetches, sweep outlet author pages for recall, de-duplicate
    cross-posts.
-8. **Social posts** — pull each person's public X and Bluesky posts through the platforms' APIs;
-   Bluesky in full, X capped at the same 4,290 most-recent posts per person, no keyword filtering.
-9. **Talks, podcasts and panels** — inventory them in `video.md`, transcribe with speaker
+5. **Social posts** — pull each person's public X and Bluesky posts through the platforms' APIs.
+6. **Talks, podcasts and panels** — inventory them in `video.md`, transcribe with speaker
    diarization, name the attendee's speaker track with an LLM pass, file in `av/`.
-10. **Record the frontier** — each `INDEX.md` says what was searched and where the search stopped,
-    so anyone can pick it up.
+7. **Record the frontier** — each `INDEX.md` says what was searched and where the search stopped,
+   so anyone can pick it up.
 
 ## Layout
 
@@ -100,7 +94,7 @@ dossiers/CONVENTIONS.md       the collection spec
 dossiers/PILOT-LESSONS.md     method notes and gotchas from collecting
 methods.md                    how the corpus was built, in enough detail to redo it
 LICENSE, LICENSE-MIT          CC0 for the corpus's own contributions; MIT for scripts/
-CITATION.cff, codemeta.json   citation + machine-readable metadata
+CITATION.cff                  citation metadata
 scripts/                      collectors (X, Bluesky) and helpers
 summit/website/               the summit's public website as markdown
 ```
@@ -131,5 +125,4 @@ is under the MIT license ([`LICENSE-MIT`](LICENSE-MIT)).
 
 ## Citing
 
-If you use the corpus, cite it — GitHub's "Cite this repository" button reads
-[`CITATION.cff`](CITATION.cff); machine-readable metadata is also in [`codemeta.json`](codemeta.json).
+If you use the corpus, please [cite it](CITATION.cff).

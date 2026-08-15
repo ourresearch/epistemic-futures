@@ -1,7 +1,7 @@
 # Methods — how this corpus was built
 
 Detailed enough to redo it for another group of people. The short version is in the
-[README](README.md#methods-short-version--full-detail-in-methodsmd). Dates are 2026 unless noted.
+[README](README.md#methods). Dates are 2026 unless noted.
 
 ## 1. Who
 
