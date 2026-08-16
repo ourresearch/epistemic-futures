@@ -31,18 +31,20 @@ publisher summary, labeled as such.
 |---|---:|---:|---:|
 | Papers | `6,834,237` | `1,107` | `67%` |
 | Blog posts | `5,252,112` | `7,558` | `100%` |
+| [Social posts](methods.md#5-social-media) | `2,620,863` | `111,255` | — |
+| [Transcribed audio](methods.md#6-talks-podcasts-and-panels--transcripts) | `2,509,713` | `323` | — |
 | Talks & interviews | `1,891,502` | `382` | `95%` |
 | Essays, op-eds & news | `1,800,526` | `1,136` | `96%` |
 | Books & chapters | `1,199,018` | `329` | `25%` |
 | Reports | `1,054,909` | `136` | `90%` |
 | Other | `363,835` | `88` | `75%` |
-| [Social posts](methods.md#5-social-media) | `2,620,863` | `111,255` | — |
-| [Transcribed audio](methods.md#6-talks-podcasts-and-panels--transcripts) | `2,509,713` | `323` | — |
 | **Total** | **`23,526,715`** | **`122,314`** | **`99%`** |
 
 "Open access" is the share of items whose complete text was published openly and is included
 here; the rest are abstract- or summary-only (social posts all count as open). Words are counted
-from the saved text.
+from the saved text. "Talks & interviews" are published transcripts and written-up interviews;
+"Transcribed audio" is our own machine transcription of talks, podcasts and panels that had no
+published transcript (243 hours of audio, speaker-attributed).
 
 **Not here:** anything written *about* an attendee by someone else, and no commentary or opinion
 of ours about anyone — this is evidence, not evaluation.
@@ -69,7 +71,7 @@ dossiers/<person>/
   INDEX.md         manifest: bio, corpus summary, item list, coverage notes
   by/              their writing and speaking, one markdown file per item (YAML frontmatter)
   social/          their public X and Bluesky posts (JSONL)
-  av/              speaker-attributed transcripts of talks and interviews (as they land)
+  av/              speaker-attributed transcripts of their talks, podcasts and panels
   video.md         inventory of their video/audio appearances
   *.tsv            enumeration indexes (e.g. their OpenAlex works, blog archives)
 dossiers/00-roster.md         who's here, with published affiliations and summit roles

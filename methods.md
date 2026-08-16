@@ -33,7 +33,7 @@ before the summit, the corpus should follow it.
   not a bibliography of their academic work.
 - **Social media:** each person's public X and Bluesky posts (see §5).
 - **Video and audio:** talks, podcasts, panels and interviews were inventoried per person in
-  `video.md` and are being transcribed (see §6).
+  `video.md` and transcribed with speakers named (see §6).
 - **No fabrication.** Only text actually retrieved from a URL was saved; a failed fetch is listed
   as pending in the index, never reconstructed.
 - **No evaluation.** Nothing in the corpus records anyone's opinion of the material — neutral
@@ -105,9 +105,13 @@ Two accounts are protected and could not be collected; one attendee's X account 
 
 Each dossier's `video.md` lists the person's video/audio appearances found during discovery —
 389 items across the 33 people (261 YouTube, 34 podcasts, 13 Vimeo, ~77 on other hosts). Where an
-official human transcript already existed it was saved as a written item; the rest go through a
-transcription pipeline (built Aug 14–15, still running as of this writing — transcripts land in
-`av/` as they're reviewed):
+official human transcript already existed it was saved as a written item; the rest went through
+a transcription pipeline (built and run Aug 14–15), and the reviewed transcripts were filed in
+`av/` — **323 transcripts, 2.5 million words, 243 hours of audio, across 30 people**, released as
+v1.0.0 (Aug 15). Of the 389 inventoried items, 336 were transcribed (13 of them for people who
+had since dropped off the roster, so not filed); the remaining ~50 were unreachable — about 10
+dead or private videos, and about 40 on hosts the pipeline couldn't get audio from (Vimeo,
+C-SPAN, BBC, PBS, a few Apple/Spotify-only podcasts). The pipeline:
 
 - **Acquisition** is the hard part. YouTube audio via `yt-dlp` (browser cookies, a PO-token
   provider, the JS challenge solver, `player_client=tv`, VPN rotation when an IP is flagged);
@@ -119,14 +123,17 @@ transcription pipeline (built Aug 14–15, still running as of this writing — 
   Whisper large-v3's 4.2%) and cheaper than the Whisper API, with diarization included.
 - **Speaker naming:** no ASR emits names, so an LLM pass reads the diarized transcript and names
   the attendee's speaker track from context ("thanks for having me, David"); everyone else stays
-  `Interviewer` / `Panelist B`. Voice enrollment (`gpt-4o-transcribe-diarize`) is the fallback for
-  items where context doesn't settle it. Free YouTube auto-captions were pulled first as a triage
-  layer (233 of 261 items had them) but the paid diarized pass is run on everything lacking an
-  official transcript, because attributing an interviewer's words to the subject is worse than
-  no transcript.
-- **Guards:** items with under 50 words of speech (music, B-roll) are dropped; every transcript's
-  frontmatter carries a `transcription:` block (engine, model, date, naming method) so a reader
-  knows it is machine output.
+  `Interviewer` / `Panelist B`. (Voice enrollment via `gpt-4o-transcribe-diarize` was held in
+  reserve as a fallback and wasn't needed.) Free YouTube auto-captions were pulled first as a
+  triage layer (233 of 261 items had them) but the paid diarized pass was run on everything
+  lacking an official transcript, because attributing an interviewer's words to the subject is
+  worse than no transcript. Speaker attribution was spot-checked by hand on a sample of panels
+  and interviews; one long multi-speaker gala is flagged in its file as weak.
+- **Guards and format:** items with under 50 words of speech (music, B-roll) were dropped. Each
+  transcript is `av/YYYY--short-slug.md` with the same frontmatter as written items plus a
+  `transcription:` block (engine, model, diarized, `speaker_labels: inferred`, duration), a
+  *Speakers (inferred)* line mapping diarization tracks to names, and timestamped speaker turns —
+  so a reader (or model) always knows it is machine output with model-assigned names.
 
 ## 7. Known limitations
 
@@ -148,5 +155,7 @@ Take the published participant list; give each agent `dossiers/CONVENTIONS.md`, 
 the discovery order in §4; require checkpointed writes and a frontier note; run the audit passes
 in §4 afterward (they were worth ~20% more items); collect social with the collectors in
 `scripts/`; inventory AV into `video.md` and transcribe as in §6. Budget: the written corpus cost
-agent time only; X collection cost ~$280 for the 20-odd accounts; transcription is estimated at
-$100–200 for 300–600 hours of audio.
+agent time only; X collection cost ~$280 for the 20-odd accounts; transcription came in under
+its $100–200 estimate — 243 hours of audio at Scribe's $0.22/hour is about $55, plus the LLM
+naming pass. Getting the audio (bot-walls, VPN rotation, per-host workarounds) cost far more
+operator and agent time than the transcription itself.
