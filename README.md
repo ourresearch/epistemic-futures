@@ -9,16 +9,40 @@ This README, like the whole corpus, was created by Jason's Claude, with some hel
 ## What's it for?
 
 I built it to prepare for the summit, and I'm sharing it because it seems useful for anyone
-attending — and interesting to experiment with. Some things you could do with it:
+attending — and interesting to experiment with. Three ways in, in ascending order of weirdness:
 
-- **Read it.** Brush up on what the other people in the room have been thinking about.
-- **Ask a language model about it.** Summarize someone's positions on a question; find where two
-  attendees agree and disagree; draft yourself a reading list.
-- **Prepare your own session or unconference topic** with the actual arguments people have made,
-  in front of you.
-- **Simulate the workshop** and see what the simulated workshop produces. Do it before the real
-  one and you have a natural experiment: compare what the simulation predicted with what actually
-  happened. That's my plan.
+- **text:** actually read the things people wrote. because it's 2022 lol.
+- **tutor:** point an agent with RAG at it and have it walk you through attendees' positions and
+  insights, find the themes, and dive in where you're interested.
+- **theater:** have agents imitate attendees and see what a panel might look like — or run the
+  whole workshop as a full Sims event (that's my plan). other efforts to do this have been
+  disappointing (tl;dr agents play a very flat, stereotyped version of their character), but I'm
+  hoping that a huge corpus instead of a short character card improves performance.
+
+## A very short literature review
+
+This section is short because "claude, write me a literature review for
+https://github.com/ourresearch/epistemic-futures-corpus/" is the new literature review section.
+Five pointers anyway, one per bullet above and two for the weird one:
+
+- [Bird et al. 2008](https://aclanthology.org/L08-1005/) took a research community's own
+  proceedings and republished them as a single standardized machine-readable corpus, which then
+  became the substrate for a decade of research about that community.
+- [Truss 2026](https://arxiv.org/abs/2601.22288) finds that personas which answer only from
+  retrieved source text, cite it, and abstain when the corpus is silent work better as research
+  instruments than personas that are simply told to act like someone.
+- [Park et al. 2023](https://arxiv.org/abs/2304.03442) put 25 agents with memory, reflection, and
+  planning in a Sims-like town and got them to organize a Valentine's Day party, which is still
+  the closest published thing to simulating a whole event rather than a single conversation.
+- [Shi & Haupt 2026](https://arxiv.org/abs/2604.23575) simulated 277 real philosophers from their
+  profiles and found the simulated group's disagreement was 2–4× too narrow and organized along
+  the wrong axes entirely — that's the disappointing prior work the third bullet refers to.
+- [Park et al. 2024](https://arxiv.org/abs/2411.10109) got agents grounded in a two-hour interview
+  with the actual person to 83% of that person's own test-retest reliability, versus 74% for
+  agents given only demographics — which is the bet this corpus is making, at much greater length.
+
+As far as I can tell, nobody has published a simulation of an entire conference. So that one's
+still open.
 
 ## What's here, what's not
 
